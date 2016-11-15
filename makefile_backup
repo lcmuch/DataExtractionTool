@@ -1,0 +1,6 @@
+CC='clang++'
+CFLAGS='-o'
+STD='c++11'
+
+main: main.o
+	$(CC) $(CFLAGS) main main.o -std=$(STD) 

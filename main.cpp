@@ -84,7 +84,7 @@ void readTXTFileAndGenerateOutput(int year){
 }
 
 int main(int argc, const char * argv[]) {
-  for (int i = 2002; i <= 2008; i ++) {
+  for (int i = 2002; i <= 2002; i ++) {
     readTXTFileAndGenerateOutput(i);
   }
   // insert code here...
