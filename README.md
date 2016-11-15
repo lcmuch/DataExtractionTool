@@ -1,2 +1,2 @@
 # DataExtractionTool
-To extract data from text input and create csv parameters.
+To extract data from text input and create csv file based on parameters.
