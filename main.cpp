@@ -1,9 +1,5 @@
 //
 //  main.cpp
-//  ExtractNumDataWithTotalLineNum
-//
-//  Created by Cong Li on 11/13/16.
-//  Copyright © 2016 Cong Li. All rights reserved.
 //
 
 #include <iostream>
