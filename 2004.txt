@@ -1,0 +1,3150 @@
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Alabama
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	491,853	36,660	67,394	88,113	94,101	103,810	70,288	31,487
+	MN	0	0	0	0	0	0	0	0
+	Total	491,853	36,660	67,394	88,113	94,101	103,810	70,288	31,487
+2a.  State Periodicity Schedule	CN		5	4	3	4	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	2.00	1.00	1.00	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	4,899,414	331,121	686,168	899,953	954,330	1,056,888	702,455	268,499
+	MN	0	0	0	0	0	0	0	0
+	Total	4,899,414	331,121	686,168	899,953	954,330	1,056,888	702,455	268,499
+3b.  Average Period of Eligibility	CN	0.83	0.75	0.85	0.85	0.85	0.85	0.83	0.71
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.83	0.75	0.85	0.85	0.85	0.85	0.83	0.71
+4.  Expected Number of Screenings per Eligible	CN		3.75	1.70	0.85	0.85	0.85	0.83	0.71
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		3.75	1.70	0.85	0.85	0.85	0.83	0.71
+5.  Expected Number of Screenings	CN	575,861	137,475	114,570	74,896	79,986	88,239	58,339	22,356
+	MN	0	0	0	0	0	0	0	0
+	Total	575,861	137,475	114,570	74,896	79,986	88,239	58,339	22,356
+6.  Total Screens Received	CN	311,981	127,329	68,583	43,450	28,089	30,810	13,265	455
+	MN	0	0	0	0	0	0	0	0
+	Total	311,981	127,329	68,583	43,450	28,089	30,810	13,265	455
+7.  Screening Ratio	CN	0.54	0.93	0.60	0.58	0.35	0.35	0.23	0.02
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.54	0.93	0.60	0.58	0.35	0.35	0.23	0.02
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	427,870	36,660	67,394	74,896	79,986	88,239	58,339	22,356
+	MN	0	0	0	0	0	0	0	0
+	Total	427,870	36,660	67,394	74,896	79,986	88,239	58,339	22,356
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	202,525	45,771	45,101	41,684	27,034	29,591	12,898	446
+	MN	0	0	0	0	0	0	0	0
+	Total	202,525	45,771	45,101	41,684	27,034	29,591	12,898	446
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Alabama
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.47	1.00	0.67	0.56	0.34	0.34	0.22	0.02
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.47	1.00	0.67	0.56	0.34	0.34	0.22	0.02
+11. Total Eligibles Referred for Corrective Treatment	CN	62,462	13,489	11,610	11,113	9,594	10,357	5,768	531
+	MN	0	0	0	0	0	0	0	0
+	Total	62,462	13,489	11,610	11,113	9,594	10,357	5,768	531
+12a.  Total Eligibles Receiving Any Dental Services	CN	169,766	134	8,315	42,193	46,860	45,740	24,720	1,804
+	MN	0	0	0	0	0	0	0	0
+	Total	169,766	134	8,315	42,193	46,860	45,740	24,720	1,804
+12b. Total Eligibles Receiving Preventive Dental Services	CN	150,182	47	6,352	37,532	43,070	41,531	20,430	1,220
+	MN	0	0	0	0	0	0	0	0
+	Total	150,182	47	6,352	37,532	43,070	41,531	20,430	1,220
+12c. Total Eligibles Receiving Dental Treatment Services	CN	93,101	34	2,733	20,833	27,410	24,879	15,922	1,290
+	MN	0	0	0	0	0	0	0	0
+	Total	93,101	34	2,733	20,833	27,410	24,879	15,922	1,290
+13.  Total Eligibles Enrolled in Managed Care	CN	366,905	2,992	58,812	74,122	78,665	85,336	54,085	12,893
+	MN	0	0	0	0	0	0	0	0
+	Total	366,905	2,992	58,812	74,122	78,665	85,336	54,085	12,893
+14.  Total Number of Screening Blood Lead Tests	CN	34,360	5,661	18,718	9,981				
+	MN	0	0	0	0				
+	Total	34,360	5,661	18,718	9,981				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Alaska
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	88,347	5,823	11,203	14,405	16,794	20,709	15,153	4,260
+	MN	0	0	0	0	0	0	0	0
+	Total	88,347	5,823	11,203	14,405	16,794	20,709	15,153	4,260
+2a.  State Periodicity Schedule	CN		5	4	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	2.00	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	813,075	35,750	105,502	136,854	162,503	200,889	142,279	29,298
+	MN	0	0	0	0	0	0	0	0
+	Total	813,075	35,750	105,502	136,854	162,503	200,889	142,279	29,298
+3b.  Average Period of Eligibility	CN	0.77	0.51	0.78	0.79	0.81	0.81	0.78	0.57
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.77	0.51	0.78	0.79	0.81	0.81	0.78	0.57
+4.  Expected Number of Screenings per Eligible	CN		2.55	1.56	0.79	0.41	0.49	0.39	0.29
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		2.55	1.56	0.79	0.41	0.49	0.39	0.29
+5.  Expected Number of Screenings	CN	67,884	14,849	17,477	11,380	6,886	10,147	5,910	1,235
+	MN	0	0	0	0	0	0	0	0
+	Total	67,884	14,849	17,477	11,380	6,886	10,147	5,910	1,235
+6.  Total Screens Received	CN	46,828	16,272	13,392	7,110	3,118	3,916	2,758	262
+	MN	0	0	0	0	0	0	0	0
+	Total	46,828	16,272	13,392	7,110	3,118	3,916	2,758	262
+7.  Screening Ratio	CN	0.69	1.00	0.77	0.62	0.45	0.39	0.47	0.21
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.69	1.00	0.77	0.62	0.45	0.39	0.47	0.21
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	52,584	5,823	11,203	11,380	6,886	10,147	5,910	1,235
+	MN	0	0	0	0	0	0	0	0
+	Total	52,584	5,823	11,203	11,380	6,886	10,147	5,910	1,235
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	26,881	4,842	6,806	6,016	2,879	3,609	2,487	242
+	MN	0	0	0	0	0	0	0	0
+	Total	26,881	4,842	6,806	6,016	2,879	3,609	2,487	242
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Alaska
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.51	0.83	0.61	0.53	0.42	0.36	0.42	0.20
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.51	0.83	0.61	0.53	0.42	0.36	0.42	0.20
+11. Total Eligibles Referred for Corrective Treatment	CN	5,155	699	1,684	1,403	477	507	328	57
+	MN	0	0	0	0	0	0	0	0
+	Total	5,155	699	1,684	1,403	477	507	328	57
+12a.  Total Eligibles Receiving Any Dental Services	CN	33,867	31	1,243	6,028	8,729	10,113	6,594	1,129
+	MN	0	0	0	0	0	0	0	0
+	Total	33,867	31	1,243	6,028	8,729	10,113	6,594	1,129
+12b. Total Eligibles Receiving Preventive Dental Services	CN	27,047	8	695	4,688	7,458	8,641	4,944	613
+	MN	0	0	0	0	0	0	0	0
+	Total	27,047	8	695	4,688	7,458	8,641	4,944	613
+12c. Total Eligibles Receiving Dental Treatment Services	CN	18,315	5	364	2,764	4,722	5,407	4,245	808
+	MN	0	0	0	0	0	0	0	0
+	Total	18,315	5	364	2,764	4,722	5,407	4,245	808
+13.  Total Eligibles Enrolled in Managed Care	CN	0	0	0	0	0	0	0	0
+	MN	0	0	0	0	0	0	0	0
+	Total	0	0	0	0	0	0	0	0
+14.  Total Number of Screening Blood Lead Tests	CN	7	1	2	4				
+	MN	0	0	0	0				
+	Total	7	1	2	4				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Arizona
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	670,534	54,047	97,216	113,875	115,746	136,397	116,432	36,821
+	MN	0	0	0	0	0	0	0	0
+	Total	670,534	54,047	97,216	113,875	115,746	136,397	116,432	36,821
+2a.  State Periodicity Schedule	CN		6	4	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	5,799,751	296,881	883,544	1,045,899	1,046,276	1,246,715	1,027,977	252,459
+	MN	0	0	0	0	0	0	0	0
+	Total	5,799,751	296,881	883,544	1,045,899	1,046,276	1,246,715	1,027,977	252,459
+3b.  Average Period of Eligibility	CN	0.72	0.46	0.76	0.77	0.75	0.76	0.74	0.57
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.72	0.46	0.76	0.77	0.75	0.76	0.74	0.57
+4.  Expected Number of Screenings per Eligible	CN		2.76	1.52	0.77	0.38	0.46	0.37	0.29
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		2.76	1.52	0.77	0.38	0.46	0.37	0.29
+5.  Expected Number of Screenings	CN	545,106	149,170	147,768	87,684	43,983	62,743	43,080	10,678
+	MN	0	0	0	0	0	0	0	0
+	Total	545,106	149,170	147,768	87,684	43,983	62,743	43,080	10,678
+6.  Total Screens Received	CN	503,677	187,491	162,251	62,914	33,152	35,772	18,920	3,177
+	MN	0	0	0	0	0	0	0	0
+	Total	503,677	187,491	162,251	62,914	33,152	35,772	18,920	3,177
+7.  Screening Ratio	CN	0.92	1.00	1.00	0.72	0.75	0.57	0.44	0.30
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.92	1.00	1.00	0.72	0.75	0.57	0.44	0.30
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	399,431	54,047	97,216	87,684	43,983	62,743	43,080	10,678
+	MN	0	0	0	0	0	0	0	0
+	Total	399,431	54,047	97,216	87,684	43,983	62,743	43,080	10,678
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	241,963	51,326	66,399	49,268	27,233	29,519	15,395	2,823
+	MN	0	0	0	0	0	0	0	0
+	Total	241,963	51,326	66,399	49,268	27,233	29,519	15,395	2,823
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Arizona
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.61	0.95	0.68	0.56	0.62	0.47	0.36	0.26
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.61	0.95	0.68	0.56	0.62	0.47	0.36	0.26
+11. Total Eligibles Referred for Corrective Treatment	CN	374,933	51,206	68,521	68,721	69,929	71,444	37,202	7,910
+	MN	0	0	0	0	0	0	0	0
+	Total	374,933	51,206	68,521	68,721	69,929	71,444	37,202	7,910
+12a.  Total Eligibles Receiving Any Dental Services	CN	188,084	71	5,646	43,097	56,991	53,007	24,294	4,978
+	MN	0	0	0	0	0	0	0	0
+	Total	188,084	71	5,646	43,097	56,991	53,007	24,294	4,978
+12b. Total Eligibles Receiving Preventive Dental Services	CN	154,012	4	2,275	34,046	50,418	46,241	18,195	2,833
+	MN	0	0	0	0	0	0	0	0
+	Total	154,012	4	2,275	34,046	50,418	46,241	18,195	2,833
+12c. Total Eligibles Receiving Dental Treatment Services	CN	108,544	11	2,041	22,579	35,251	30,301	15,160	3,201
+	MN	0	0	0	0	0	0	0	0
+	Total	108,544	11	2,041	22,579	35,251	30,301	15,160	3,201
+13.  Total Eligibles Enrolled in Managed Care	CN	593,722	53,298	95,545	111,689	113,355	119,355	75,203	25,277
+	MN	0	0	0	0	0	0	0	0
+	Total	593,722	53,298	95,545	111,689	113,355	119,355	75,203	25,277
+14.  Total Number of Screening Blood Lead Tests	CN	21,676	945	13,522	7,209				
+	MN	0	0	0	0				
+	Total	21,676	945	13,522	7,209				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Arkansas
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	375,801	50,850	45,437	62,194	64,687	72,886	56,121	23,626
+	MN	3,200	113	276	460	692	884	497	278
+	Total	379,001	50,963	45,713	62,654	65,379	73,770	56,618	23,904
+2a.  State Periodicity Schedule	CN		6	3	2	2	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	1.50	0.67	0.50	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	3,664,049	410,245	467,193	641,454	653,981	733,655	525,603	231,918
+	MN	29,030	937	2,719	4,340	6,550	8,054	4,123	2,307
+	Total	3,693,079	411,182	469,912	645,794	660,531	741,709	529,726	234,225
+3b.  Average Period of Eligibility	CN	0.81	0.67	0.86	0.86	0.84	0.84	0.78	0.82
+	MN	0.76	0.69	0.82	0.79	0.79	0.76	0.69	0.69
+	Total	0.81	0.67	0.86	0.86	0.84	0.84	0.78	0.82
+4.  Expected Number of Screenings per Eligible	CN		4.02	1.29	0.58	0.42	0.84	0.78	0.82
+	MN		4.14	1.23	0.53	0.40	0.76	0.69	0.69
+	Total		4.02	1.29	0.58	0.42	0.84	0.78	0.82
+5.  Expected Number of Screenings	CN	450,644	204,417	58,614	36,073	27,169	61,224	43,774	19,373
+	MN	2,535	468	339	244	277	672	343	192
+	Total	453,179	204,885	58,953	36,317	27,446	61,896	44,117	19,565
+6.  Total Screens Received	CN	127,590	77,717	17,401	17,044	5,084	7,393	2,884	67
+	MN	378	95	81	81	39	56	26	0
+	Total	127,968	77,812	17,482	17,125	5,123	7,449	2,910	67
+7.  Screening Ratio	CN	0.28	0.38	0.30	0.47	0.19	0.12	0.07	0.00
+	MN	0.15	0.20	0.24	0.33	0.14	0.08	0.08	0.00
+	Total	0.28	0.38	0.30	0.47	0.19	0.12	0.07	0.00
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	283,900	50,850	45,437	36,073	27,169	61,224	43,774	19,373
+	MN	2,117	113	276	244	277	672	343	192
+	Total	286,017	50,963	45,713	36,317	27,446	61,896	44,117	19,565
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	71,351	25,003	13,876	17,044	5,084	7,393	2,884	67
+	MN	306	38	66	81	39	56	26	0
+	Total	71,657	25,041	13,942	17,125	5,123	7,449	2,910	67
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Arkansas
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.25	0.49	0.31	0.47	0.19	0.12	0.07	0.00
+	MN	0.14	0.34	0.24	0.33	0.14	0.08	0.08	0.00
+	Total	0.25	0.49	0.30	0.47	0.19	0.12	0.07	0.00
+11. Total Eligibles Referred for Corrective Treatment	CN	0	0	0	0	0	0	0	0
+	MN	0	0	0	0	0	0	0	0
+	Total	0	0	0	0	0	0	0	0
+12a.  Total Eligibles Receiving Any Dental Services	CN	99,245	123	4,951	23,860	27,504	27,580	14,518	709
+	MN	715	0	29	130	215	229	95	17
+	Total	99,960	123	4,980	23,990	27,719	27,809	14,613	726
+12b. Total Eligibles Receiving Preventive Dental Services	CN	87,321	116	4,652	21,227	24,399	24,203	12,170	554
+	MN	631	0	29	113	189	200	87	13
+	Total	87,952	116	4,681	21,340	24,588	24,403	12,257	567
+12c. Total Eligibles Receiving Dental Treatment Services	CN	88,542	28	1,918	18,596	26,466	26,757	14,114	663
+	MN	634	0	11	95	199	221	91	17
+	Total	89,176	28	1,929	18,691	26,665	26,978	14,205	680
+13.  Total Eligibles Enrolled in Managed Care	CN	291,874	24,786	41,951	57,224	57,482	63,560	39,840	7,031
+	MN	2,366	61	233	381	537	655	350	149
+	Total	294,240	24,847	42,184	57,605	58,019	64,215	40,190	7,180
+14.  Total Number of Screening Blood Lead Tests	CN	2,490	244	1,386	860				
+	MN	10	0	7	3				
+	Total	2,500	244	1,393	863				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: California
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	3,678,297	272,342	545,574	677,718	733,672	856,060	497,546	95,385
+	MN	573,940	31,652	45,791	64,508	90,546	99,409	103,228	138,806
+	Total	4,252,237	303,994	591,365	742,226	824,218	955,469	600,774	234,191
+2a.  State Periodicity Schedule	CN		7	4	3	2	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		7.00	2.00	1.00	0.50	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	34,324,792	1,533,298	5,066,366	6,261,475	7,100,910	8,371,726	5,009,071	981,946
+	MN	5,107,250	119,549	499,876	676,669	878,775	981,769	788,562	1,162,050
+	Total	39,432,042	1,652,847	5,566,242	6,938,144	7,979,685	9,353,495	5,797,633	2,143,996
+3b.  Average Period of Eligibility	CN	0.78	0.47	0.77	0.77	0.81	0.81	0.84	0.86
+	MN	0.74	0.31	0.91	0.87	0.81	0.82	0.64	0.70
+	Total	0.77	0.45	0.78	0.78	0.81	0.82	0.80	0.76
+4.  Expected Number of Screenings per Eligible	CN		3.29	1.54	0.77	0.41	0.81	0.84	0.86
+	MN		2.17	1.82	0.87	0.41	0.82	0.64	0.70
+	Total		3.15	1.56	0.78	0.41	0.82	0.80	0.76
+5.  Expected Number of Screenings	CN	3,752,217	896,005	840,184	521,843	300,806	693,409	417,939	82,031
+	MN	490,016	68,685	83,340	56,122	37,124	81,515	66,066	97,164
+	Total	4,242,233	964,690	923,524	577,965	337,930	774,924	484,005	179,195
+6.  Total Screens Received	CN	2,356,624	471,171	840,523	437,909	229,004	239,993	120,957	17,067
+	MN	124,565	20,261	48,644	18,762	9,603	8,618	10,003	8,674
+	Total	2,481,189	491,432	889,167	456,671	238,607	248,611	130,960	25,741
+7.  Screening Ratio	CN	0.63	0.53	1.00	0.84	0.76	0.35	0.29	0.21
+	MN	0.25	0.29	0.58	0.33	0.26	0.11	0.15	0.09
+	Total	0.58	0.51	0.96	0.79	0.71	0.32	0.27	0.14
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	2,833,944	272,342	545,574	521,843	300,806	693,409	417,939	82,031
+	MN	415,434	31,652	45,791	56,122	37,124	81,515	66,066	97,164
+	Total	3,249,378	303,994	591,365	577,965	337,930	774,924	484,005	179,195
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	1,409,664	221,660	372,750	328,853	184,411	193,402	96,730	11,858
+	MN	72,059	8,754	21,789	13,584	7,449	6,633	7,524	6,326
+	Total	1,481,723	230,414	394,539	342,437	191,860	200,035	104,254	18,184
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: California
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.50	0.81	0.68	0.63	0.61	0.28	0.23	0.14
+	MN	0.17	0.28	0.48	0.24	0.20	0.08	0.11	0.07
+	Total	0.46	0.76	0.67	0.59	0.57	0.26	0.22	0.10
+11. Total Eligibles Referred for Corrective Treatment	CN	168,186	9,544	25,786	46,634	34,982	33,566	16,768	906
+	MN	6,457	422	1,223	1,367	1,123	983	888	451
+	Total	174,643	9,966	27,009	48,001	36,105	34,549	17,656	1,357
+12a.  Total Eligibles Receiving Any Dental Services	CN	1,157,546	412	38,272	232,996	333,181	352,724	177,344	22,617
+	MN	108,816	22	1,885	11,574	19,341	18,155	23,916	33,923
+	Total	1,266,362	434	40,157	244,570	352,522	370,879	201,260	56,540
+12b. Total Eligibles Receiving Preventive Dental Services	CN	954,726	77	25,667	192,437	285,341	299,168	137,606	14,430
+	MN	84,837	1	1,283	9,677	16,622	15,406	17,825	24,023
+	Total	1,039,563	78	26,950	202,114	301,963	314,574	155,431	38,453
+12c. Total Eligibles Receiving Dental Treatment Services	CN	671,814	110	12,701	121,461	214,304	200,267	107,867	15,104
+	MN	66,311	6	616	5,851	12,321	9,931	14,865	22,721
+	Total	738,125	116	13,317	127,312	226,625	210,198	122,732	37,825
+13.  Total Eligibles Enrolled in Managed Care	CN	2,651,210	134,228	398,495	491,682	546,344	623,574	369,670	87,217
+	MN	520,028	14,030	65,153	82,359	87,582	93,401	82,281	95,222
+	Total	3,171,238	148,258	463,648	574,041	633,926	716,975	451,951	182,439
+14.  Total Number of Screening Blood Lead Tests	CN	391,688	4,015	243,311	144,362				
+	MN	18,394	85	13,113	5,196				
+	Total	410,082	4,100	256,424	149,558				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Colorado
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	303,090	29,171	52,904	58,768	54,590	55,854	37,178	14,625
+	MN	0	0	0	0	0	0	0	0
+	Total	303,090	29,171	52,904	58,768	54,590	55,854	37,178	14,625
+2a.  State Periodicity Schedule	CN		6	4	3	2	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	0.50	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	3,296,077	208,687	602,674	659,038	616,941	637,255	421,950	149,532
+	MN	0	0	0	0	0	0	0	0
+	Total	3,296,077	208,687	602,674	659,038	616,941	637,255	421,950	149,532
+3b.  Average Period of Eligibility	CN	0.91	0.60	0.95	0.93	0.94	0.95	0.95	0.85
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.91	0.60	0.95	0.93	0.94	0.95	0.95	0.85
+4.  Expected Number of Screenings per Eligible	CN		3.60	1.90	0.93	0.47	0.95	0.95	0.85
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		3.60	1.90	0.93	0.47	0.95	0.95	0.85
+5.  Expected Number of Screenings	CN	386,656	105,016	100,518	54,654	25,657	53,061	35,319	12,431
+	MN	0	0	0	0	0	0	0	0
+	Total	386,656	105,016	100,518	54,654	25,657	53,061	35,319	12,431
+6.  Total Screens Received	CN	253,854	86,096	91,833	32,067	15,794	16,898	8,939	2,227
+	MN	0	0	0	0	0	0	0	0
+	Total	253,854	86,096	91,833	32,067	15,794	16,898	8,939	2,227
+7.  Screening Ratio	CN	0.66	0.82	0.91	0.59	0.62	0.32	0.25	0.18
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.66	0.82	0.91	0.59	0.62	0.32	0.25	0.18
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	263,197	29,171	52,904	54,654	25,657	53,061	35,319	12,431
+	MN	0	0	0	0	0	0	0	0
+	Total	263,197	29,171	52,904	54,654	25,657	53,061	35,319	12,431
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	127,492	24,554	38,185	27,025	13,699	14,475	7,582	1,972
+	MN	0	0	0	0	0	0	0	0
+	Total	127,492	24,554	38,185	27,025	13,699	14,475	7,582	1,972
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Colorado
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.48	0.84	0.72	0.49	0.53	0.27	0.21	0.16
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.48	0.84	0.72	0.49	0.53	0.27	0.21	0.16
+11. Total Eligibles Referred for Corrective Treatment	CN	135,539	14,444	18,778	27,219	28,076	27,398	15,327	4,297
+	MN	0	0	0	0	0	0	0	0
+	Total	135,539	14,444	18,778	27,219	28,076	27,398	15,327	4,297
+12a.  Total Eligibles Receiving Any Dental Services	CN	105,299	146	6,938	26,218	28,287	26,340	14,190	3,180
+	MN	0	0	0	0	0	0	0	0
+	Total	105,299	146	6,938	26,218	28,287	26,340	14,190	3,180
+12b. Total Eligibles Receiving Preventive Dental Services	CN	85,662	44	5,174	20,993	23,886	22,295	11,247	2,023
+	MN	0	0	0	0	0	0	0	0
+	Total	85,662	44	5,174	20,993	23,886	22,295	11,247	2,023
+12c. Total Eligibles Receiving Dental Treatment Services	CN	50,719	11	1,393	11,198	15,157	13,193	7,949	1,818
+	MN	0	0	0	0	0	0	0	0
+	Total	50,719	11	1,393	11,198	15,157	13,193	7,949	1,818
+13.  Total Eligibles Enrolled in Managed Care	CN	298,533	28,985	52,757	58,480	54,199	55,391	35,763	12,958
+	MN	0	0	0	0	0	0	0	0
+	Total	298,533	28,985	52,757	58,480	54,199	55,391	35,763	12,958
+14.  Total Number of Screening Blood Lead Tests	CN	8,425	100	6,442	1,883				
+	MN	0	0	0	0				
+	Total	8,425	100	6,442	1,883				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Connecticut
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	273,800	15,794	32,294	45,016	53,910	66,261	45,540	14,985
+	MN	973	1	3	8	12	14	118	817
+	Total	274,773	15,795	32,297	45,024	53,922	66,275	45,658	15,802
+2a.  State Periodicity Schedule	CN		6	4	3	3	4	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	0.75	0.80	1.00	1.00
+3a.  Total Months of Eligibility	CN	2,878,468	96,327	353,087	491,294	589,980	726,577	487,750	133,453
+	MN	8,951	6	33	87	131	154	1,264	7,276
+	Total	2,887,419	96,333	353,120	491,381	590,111	726,731	489,014	140,729
+3b.  Average Period of Eligibility	CN	0.88	0.51	0.91	0.91	0.91	0.91	0.89	0.74
+	MN	0.77	0.50	0.92	0.91	0.91	0.92	0.89	0.74
+	Total	0.88	0.51	0.91	0.91	0.91	0.91	0.89	0.74
+4.  Expected Number of Screenings per Eligible	CN		3.06	1.82	0.91	0.68	0.73	0.89	0.74
+	MN		3.00	1.84	0.91	0.68	0.74	0.89	0.74
+	Total		3.06	1.82	0.91	0.68	0.73	0.89	0.74
+5.  Expected Number of Screenings	CN	284,720	48,330	58,775	40,965	36,659	48,371	40,531	11,089
+	MN	744	3	6	7	8	10	105	605
+	Total	285,464	48,333	58,781	40,972	36,667	48,381	40,636	11,694
+6.  Total Screens Received	CN	218,950	47,379	64,139	31,917	22,287	30,467	19,252	3,509
+	MN	267	3	6	6	5	6	50	191
+	Total	219,217	47,382	64,145	31,923	22,292	30,473	19,302	3,700
+7.  Screening Ratio	CN	0.77	0.98	1.00	0.78	0.61	0.63	0.47	0.32
+	MN	0.36	1.00	1.00	0.86	0.63	0.60	0.48	0.32
+	Total	0.77	0.98	1.00	0.78	0.61	0.63	0.47	0.32
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	225,703	15,794	32,294	40,965	36,659	48,371	40,531	11,089
+	MN	739	1	3	7	8	10	105	605
+	Total	226,442	15,795	32,297	40,972	36,667	48,381	40,636	11,694
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	137,145	13,590	26,019	28,514	20,991	28,476	16,725	2,830
+	MN	216	1	2	5	5	6	43	154
+	Total	137,361	13,591	26,021	28,519	20,996	28,482	16,768	2,984
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Connecticut
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.61	0.86	0.81	0.70	0.57	0.59	0.41	0.26
+	MN	0.29	1.00	0.67	0.71	0.63	0.60	0.41	0.25
+	Total	0.61	0.86	0.81	0.70	0.57	0.59	0.41	0.26
+11. Total Eligibles Referred for Corrective Treatment	CN	0	0	0	0	0	0	0	0
+	MN	0	0	0	0	0	0	0	0
+	Total	0	0	0	0	0	0	0	0
+12a.  Total Eligibles Receiving Any Dental Services	CN	89,342	49	2,388	15,882	25,259	28,705	14,329	2,730
+	MN	201	0	0	3	6	6	37	149
+	Total	89,543	49	2,388	15,885	25,265	28,711	14,366	2,879
+12b. Total Eligibles Receiving Preventive Dental Services	CN	73,391	3	1,441	13,675	22,221	23,933	10,591	1,527
+	MN	122	0	0	2	5	5	27	83
+	Total	73,513	3	1,441	13,677	22,226	23,938	10,618	1,610
+12c. Total Eligibles Receiving Dental Treatment Services	CN	38,539	2	333	4,718	10,715	13,263	7,902	1,606
+	MN	114	0	0	1	2	3	20	88
+	Total	38,653	2	333	4,719	10,717	13,266	7,922	1,694
+13.  Total Eligibles Enrolled in Managed Care	CN	266,434	14,774	31,707	44,229	52,890	64,737	44,375	13,722
+	MN	901	1	3	8	12	14	115	748
+	Total	267,335	14,775	31,710	44,237	52,902	64,751	44,490	14,470
+14.  Total Number of Screening Blood Lead Tests	CN	33,831	2,351	18,004	13,476				
+	MN	4	0	2	2				
+	Total	33,835	2,351	18,006	13,478				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Delaware
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	79,449	5,856	11,106	13,931	14,873	17,501	11,925	4,257
+	MN	0	0	0	0	0	0	0	0
+	Total	79,449	5,856	11,106	13,931	14,873	17,501	11,925	4,257
+2a.  State Periodicity Schedule	CN		6	3	2	2	3	1	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	1.50	0.67	0.50	0.60	0.25	0.50
+3a.  Total Months of Eligibility	CN	742,100	32,567	110,076	137,404	145,878	171,671	111,956	32,548
+	MN	0	0	0	0	0	0	0	0
+	Total	742,100	32,567	110,076	137,404	145,878	171,671	111,956	32,548
+3b.  Average Period of Eligibility	CN	0.78	0.46	0.83	0.82	0.82	0.82	0.78	0.64
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.78	0.46	0.83	0.82	0.82	0.82	0.78	0.64
+4.  Expected Number of Screenings per Eligible	CN		2.76	1.25	0.55	0.41	0.49	0.20	0.32
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		2.76	1.25	0.55	0.41	0.49	0.20	0.32
+5.  Expected Number of Screenings	CN	56,128	16,163	13,883	7,662	6,098	8,575	2,385	1,362
+	MN	0	0	0	0	0	0	0	0
+	Total	56,128	16,163	13,883	7,662	6,098	8,575	2,385	1,362
+6.  Total Screens Received	CN	22,528	9,551	5,158	2,175	1,932	2,346	1,129	237
+	MN	0	0	0	0	0	0	0	0
+	Total	22,528	9,551	5,158	2,175	1,932	2,346	1,129	237
+7.  Screening Ratio	CN	0.40	0.59	0.37	0.28	0.32	0.27	0.47	0.17
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.40	0.59	0.37	0.28	0.32	0.27	0.47	0.17
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	43,044	5,856	11,106	7,662	6,098	8,575	2,385	1,362
+	MN	0	0	0	0	0	0	0	0
+	Total	43,044	5,856	11,106	7,662	6,098	8,575	2,385	1,362
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	13,641	4,370	2,793	1,905	1,523	1,894	945	211
+	MN	0	0	0	0	0	0	0	0
+	Total	13,641	4,370	2,793	1,905	1,523	1,894	945	211
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Delaware
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.32	0.75	0.25	0.25	0.25	0.22	0.40	0.15
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.32	0.75	0.25	0.25	0.25	0.22	0.40	0.15
+11. Total Eligibles Referred for Corrective Treatment	CN	2,533	1,785	4	82	169	267	188	38
+	MN	0	0	0	0	0	0	0	0
+	Total	2,533	1,785	4	82	169	267	188	38
+12a.  Total Eligibles Receiving Any Dental Services	CN	20,980	3	371	4,338	6,277	6,275	3,061	655
+	MN	0	0	0	0	0	0	0	0
+	Total	20,980	3	371	4,338	6,277	6,275	3,061	655
+12b. Total Eligibles Receiving Preventive Dental Services	CN	18,376	0	256	3,915	5,714	5,665	2,407	419
+	MN	0	0	0	0	0	0	0	0
+	Total	18,376	0	256	3,915	5,714	5,665	2,407	419
+12c. Total Eligibles Receiving Dental Treatment Services	CN	10,835	0	136	1,686	3,409	3,226	1,917	461
+	MN	0	0	0	0	0	0	0	0
+	Total	10,835	0	136	1,686	3,409	3,226	1,917	461
+13.  Total Eligibles Enrolled in Managed Care	CN	76,057	5,241	10,799	13,486	14,376	16,872	11,238	4,045
+	MN	0	0	0	0	0	0	0	0
+	Total	76,057	5,241	10,799	13,486	14,376	16,872	11,238	4,045
+14.  Total Number of Screening Blood Lead Tests	CN	996	39	699	258				
+	MN	0	0	0	0				
+	Total	996	39	699	258				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: District of Columbia
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	77,505	4,089	9,212	12,892	15,737	20,227	11,219	4,129
+	MN	13,317	970	942	1,401	2,308	3,795	2,630	1,271
+	Total	90,822	5,059	10,154	14,293	18,045	24,022	13,849	5,400
+2a.  State Periodicity Schedule	CN		5	4	3	2	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	2.00	1.00	0.50	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	776,655	26,191	91,885	132,009	163,287	195,110	130,087	38,086
+	MN	84,659	5,015	2,846	5,537	13,718	28,055	20,742	8,746
+	Total	861,314	31,206	94,731	137,546	177,005	223,165	150,829	46,832
+3b.  Average Period of Eligibility	CN	0.84	0.53	0.83	0.85	0.86	0.80	0.97	0.77
+	MN	0.53	0.43	0.25	0.33	0.50	0.62	0.66	0.57
+	Total	0.79	0.51	0.78	0.80	0.82	0.77	0.91	0.72
+4.  Expected Number of Screenings per Eligible	CN		2.65	1.66	0.85	0.43	0.80	0.97	0.77
+	MN		2.15	0.50	0.33	0.25	0.62	0.66	0.57
+	Total		2.55	1.56	0.80	0.41	0.77	0.91	0.72
+5.  Expected Number of Screenings	CN	74,096	10,836	15,292	10,958	6,767	16,182	10,882	3,179
+	MN	8,409	2,086	471	462	577	2,353	1,736	724
+	Total	82,505	12,922	15,763	11,420	7,344	18,535	12,618	3,903
+6.  Total Screens Received	CN	88,681	13,564	23,874	15,224	11,967	13,270	8,520	2,262
+	MN	2,031	404	291	213	319	530	226	48
+	Total	90,712	13,968	24,165	15,437	12,286	13,800	8,746	2,310
+7.  Screening Ratio	CN	1.00	1.00	1.00	1.00	1.00	0.82	0.78	0.71
+	MN	0.24	0.19	0.62	0.46	0.55	0.23	0.13	0.07
+	Total	1.00	1.00	1.00	1.00	1.00	0.74	0.69	0.59
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	61,269	4,089	9,212	10,958	6,767	16,182	10,882	3,179
+	MN	7,293	970	471	462	577	2,353	1,736	724
+	Total	68,562	5,059	9,683	11,420	7,344	18,535	12,618	3,903
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	48,346	3,634	7,461	9,259	9,356	10,797	6,462	1,377
+	MN	1,605	194	170	191	295	496	212	47
+	Total	49,951	3,828	7,631	9,450	9,651	11,293	6,674	1,424
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: District of Columbia
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.79	0.89	0.81	0.84	1.00	0.67	0.59	0.43
+	MN	0.22	0.20	0.36	0.41	0.51	0.21	0.12	0.06
+	Total	0.73	0.76	0.79	0.83	1.00	0.61	0.53	0.36
+11. Total Eligibles Referred for Corrective Treatment	CN	25,098	1,967	4,264	4,879	4,456	5,393	3,154	985
+	MN	0	0	0	0	0	0	0	0
+	Total	25,098	1,967	4,264	4,879	4,456	5,393	3,154	985
+12a.  Total Eligibles Receiving Any Dental Services	CN	24,963	731	1,326	4,350	6,201	6,459	4,546	1,350
+	MN	1,643	0	9	170	332	616	395	121
+	Total	26,606	731	1,335	4,520	6,533	7,075	4,941	1,471
+12b. Total Eligibles Receiving Preventive Dental Services	CN	20,457	707	1,236	3,887	5,176	5,873	2,969	609
+	MN	1,612	0	9	164	326	608	386	119
+	Total	22,069	707	1,245	4,051	5,502	6,481	3,355	728
+12c. Total Eligibles Receiving Dental Treatment Services	CN	8,109	24	72	957	2,126	2,131	1,968	831
+	MN	432	0	0	14	58	178	132	50
+	Total	8,541	24	72	971	2,184	2,309	2,100	881
+13.  Total Eligibles Enrolled in Managed Care	CN	77,505	4,089	9,212	12,892	15,737	20,227	11,219	4,129
+	MN	0	0	0	0	0	0	0	0
+	Total	77,505	4,089	9,212	12,892	15,737	20,227	11,219	4,129
+14.  Total Number of Screening Blood Lead Tests	CN	9,544	396	4,176	4,972				
+	MN	316	8	115	193				
+	Total	9,860	404	4,291	5,165				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Florida
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	1,613,816	165,721	241,825	290,051	301,325	340,706	218,270	55,918
+	MN	13,019	1,984	1,598	615	1,541	2,310	2,137	2,834
+	Total	1,626,835	167,705	243,423	290,666	302,866	343,016	220,407	58,752
+2a.  State Periodicity Schedule	CN		6	4	3	2	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	0.50	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	14,992,640	1,073,630	2,369,464	2,910,592	2,866,000	3,274,081	2,048,431	450,442
+	MN	54,440	13,141	8,844	2,202	5,297	7,341	6,469	11,146
+	Total	15,047,080	1,086,771	2,378,308	2,912,794	2,871,297	3,281,422	2,054,900	461,588
+3b.  Average Period of Eligibility	CN	0.77	0.54	0.82	0.84	0.79	0.80	0.78	0.67
+	MN	0.35	0.55	0.46	0.30	0.29	0.26	0.25	0.33
+	Total	0.77	0.54	0.81	0.84	0.79	0.80	0.78	0.65
+4.  Expected Number of Screenings per Eligible	CN		3.24	1.64	0.84	0.40	0.80	0.78	0.67
+	MN		3.30	0.92	0.30	0.15	0.26	0.25	0.33
+	Total		3.24	1.62	0.84	0.40	0.80	0.78	0.65
+5.  Expected Number of Screenings	CN	1,777,983	536,936	396,593	243,643	120,530	272,565	170,251	37,465
+	MN	10,503	6,547	1,470	185	231	601	534	935
+	Total	1,788,486	543,483	398,063	243,828	120,761	273,166	170,785	38,400
+6.  Total Screens Received	CN	1,174,883	365,289	371,191	180,625	95,126	109,121	47,634	5,897
+	MN	6,454	4,618	1,509	61	73	111	54	28
+	Total	1,181,337	369,907	372,700	180,686	95,199	109,232	47,688	5,925
+7.  Screening Ratio	CN	0.66	0.68	0.94	0.74	0.79	0.40	0.28	0.16
+	MN	0.61	0.71	1.00	0.33	0.32	0.18	0.10	0.03
+	Total	0.66	0.68	0.94	0.74	0.79	0.40	0.28	0.15
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	1,252,000	165,721	241,825	243,643	120,530	272,565	170,251	37,465
+	MN	5,940	1,984	1,470	185	231	601	534	935
+	Total	1,257,940	167,705	243,295	243,828	120,761	273,166	170,785	38,400
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	700,819	135,710	177,364	156,314	86,659	97,836	42,095	4,841
+	MN	2,372	1,361	700	59	70	102	52	28
+	Total	703,191	137,071	178,064	156,373	86,729	97,938	42,147	4,869
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Florida
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.56	0.82	0.73	0.64	0.72	0.36	0.25	0.13
+	MN	0.40	0.69	0.48	0.32	0.30	0.17	0.10	0.03
+	Total	0.56	0.82	0.73	0.64	0.72	0.36	0.25	0.13
+11. Total Eligibles Referred for Corrective Treatment	CN	169,252	26,075	55,620	37,023	16,860	20,761	10,548	2,365
+	MN	16	7	4	0	2	1	1	1
+	Total	169,268	26,082	55,624	37,023	16,862	20,762	10,549	2,366
+12a.  Total Eligibles Receiving Any Dental Services	CN	372,446	131	10,543	86,860	102,364	106,256	56,474	9,818
+	MN	738	1	10	52	156	215	118	186
+	Total	373,184	132	10,553	86,912	102,520	106,471	56,592	10,004
+12b. Total Eligibles Receiving Preventive Dental Services	CN	269,095	44	6,819	61,496	77,114	80,031	38,092	5,499
+	MN	486	0	5	40	113	159	69	100
+	Total	269,581	44	6,824	61,536	77,227	80,190	38,161	5,599
+12c. Total Eligibles Receiving Dental Treatment Services	CN	176,766	33	4,340	37,147	48,437	50,550	30,605	5,654
+	MN	356	0	6	24	68	90	63	105
+	Total	177,122	33	4,346	37,171	48,505	50,640	30,668	5,759
+13.  Total Eligibles Enrolled in Managed Care	CN	1,430,263	101,313	222,266	272,934	279,774	313,537	192,904	47,535
+	MN	22	19	1	0	1	0	1	0
+	Total	1,430,285	101,332	222,267	272,934	279,775	313,537	192,905	47,535
+14.  Total Number of Screening Blood Lead Tests	CN	75,086	3,168	42,027	29,891				
+	MN	171	33	128	10				
+	Total	75,257	3,201	42,155	29,901				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Georgia
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	1,108,963	102,575	179,743	204,626	202,086	226,953	150,584	42,396
+	MN	95	2	3	5	12	33	32	8
+	Total	1,109,058	102,577	179,746	204,631	202,098	226,986	150,616	42,404
+2a.  State Periodicity Schedule	CN		6	4	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	9,810,197	1,058,601	1,434,966	1,901,490	1,812,015	2,101,582	1,284,157	217,386
+	MN	310	2	12	11	70	82	90	43
+	Total	9,810,507	1,058,603	1,434,978	1,901,501	1,812,085	2,101,664	1,284,247	217,429
+3b.  Average Period of Eligibility	CN	0.74	0.86	0.67	0.77	0.75	0.77	0.71	0.43
+	MN	0.27	0.08	0.33	0.18	0.49	0.21	0.23	0.45
+	Total	0.74	0.86	0.67	0.77	0.75	0.77	0.71	0.43
+4.  Expected Number of Screenings per Eligible	CN		5.16	1.34	0.77	0.38	0.46	0.36	0.22
+	MN		0.48	0.66	0.18	0.25	0.13	0.12	0.23
+	Total		5.16	1.34	0.77	0.38	0.46	0.36	0.22
+5.  Expected Number of Screenings	CN	1,172,433	529,287	240,856	157,562	76,793	104,398	54,210	9,327
+	MN	17	1	2	1	3	4	4	2
+	Total	1,172,450	529,288	240,858	157,563	76,796	104,402	54,214	9,329
+6.  Total Screens Received	CN	583,986	272,509	145,013	83,216	32,924	37,205	12,517	602
+	MN	5	0	1	1	1	1	1	0
+	Total	583,991	272,509	145,014	83,217	32,925	37,206	12,518	602
+7.  Screening Ratio	CN	0.50	0.51	0.60	0.53	0.43	0.36	0.23	0.06
+	MN	0.29	0.00	0.50	1.00	0.33	0.25	0.25	0.00
+	Total	0.50	0.51	0.60	0.53	0.43	0.36	0.23	0.06
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	684,608	102,575	179,743	157,562	76,793	104,398	54,210	9,327
+	MN	17	1	2	1	3	4	4	2
+	Total	684,625	102,576	179,745	157,563	76,796	104,402	54,214	9,329
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	341,590	67,515	109,140	79,762	34,006	35,674	14,302	1,191
+	MN	5	0	1	0	2	1	1	0
+	Total	341,595	67,515	109,141	79,762	34,008	35,675	14,303	1,191
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Georgia
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.50	0.66	0.61	0.51	0.44	0.34	0.26	0.13
+	MN	0.29	0.00	0.50	0.00	0.67	0.25	0.25	0.00
+	Total	0.50	0.66	0.61	0.51	0.44	0.34	0.26	0.13
+11. Total Eligibles Referred for Corrective Treatment	CN	72,779	9,826	36,677	11,406	5,918	5,872	2,755	325
+	MN	1	0	0	0	0	1	0	0
+	Total	72,780	9,826	36,677	11,406	5,918	5,873	2,755	325
+12a.  Total Eligibles Receiving Any Dental Services	CN	374,917	152	9,443	86,689	107,879	106,761	54,872	9,121
+	MN	11	0	0	0	5	2	3	1
+	Total	374,928	152	9,443	86,689	107,884	106,763	54,875	9,122
+12b. Total Eligibles Receiving Preventive Dental Services	CN	342,842	29	7,238	79,499	101,980	100,242	47,331	6,523
+	MN	8	0	0	0	4	2	2	0
+	Total	342,850	29	7,238	79,499	101,984	100,244	47,333	6,523
+12c. Total Eligibles Receiving Dental Treatment Services	CN	373,883	152	9,429	86,441	107,579	106,460	54,722	9,100
+	MN	11	0	0	0	5	2	3	1
+	Total	373,894	152	9,429	86,441	107,584	106,462	54,725	9,101
+13.  Total Eligibles Enrolled in Managed Care	CN	935,533	53,703	168,796	195,360	178,633	195,672	119,903	23,466
+	MN	0	0	0	0	0	0	0	0
+	Total	935,533	53,703	168,796	195,360	178,633	195,672	119,903	23,466
+14.  Total Number of Screening Blood Lead Tests	CN	23,112	1,403	18,384	3,325				
+	MN	1	0	1	0				
+	Total	23,113	1,403	18,385	3,325				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Hawaii
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	121,459	8,127	15,707	20,128	23,377	27,817	18,739	7,564
+	MN	18	5	4	1	1	5	1	1
+	Total	121,477	8,132	15,711	20,129	23,378	27,822	18,740	7,565
+2a.  State Periodicity Schedule	CN		5	4	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	2.00	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	1,120,792	40,768	149,582	195,255	228,137	273,240	178,714	55,096
+	MN	100	10	31	9	12	28	3	7
+	Total	1,120,892	40,778	149,613	195,264	228,149	273,268	178,717	55,103
+3b.  Average Period of Eligibility	CN	0.77	0.42	0.79	0.81	0.81	0.82	0.79	0.61
+	MN	0.46	0.17	0.65	0.75	1.00	0.47	0.25	0.58
+	Total	0.77	0.42	0.79	0.81	0.81	0.82	0.79	0.61
+4.  Expected Number of Screenings per Eligible	CN		2.10	1.58	0.81	0.41	0.49	0.40	0.31
+	MN		0.85	1.30	0.75	0.50	0.28	0.13	0.29
+	Total		2.10	1.58	0.81	0.41	0.49	0.40	0.31
+5.  Expected Number of Screenings	CN	91,244	17,067	24,817	16,304	9,585	13,630	7,496	2,345
+	MN	12	4	5	1	1	1	0	0
+	Total	91,256	17,071	24,822	16,305	9,586	13,631	7,496	2,345
+6.  Total Screens Received	CN	81,752	21,635	27,213	12,194	6,324	8,487	4,985	914
+	MN	6	0	4	0	0	1	0	1
+	Total	81,758	21,635	27,217	12,194	6,324	8,488	4,985	915
+7.  Screening Ratio	CN	0.90	1.00	1.00	0.75	0.66	0.62	0.67	0.39
+	MN	0.50	0.00	0.80	0.00	0.00	1.00	0.00	0.00
+	Total	0.90	1.00	1.00	0.75	0.66	0.62	0.67	0.39
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	73,194	8,127	15,707	16,304	9,585	13,630	7,496	2,345
+	MN	11	4	4	1	1	1	0	0
+	Total	73,205	8,131	15,711	16,305	9,586	13,631	7,496	2,345
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	48,792	6,925	11,699	10,946	5,956	7,980	4,510	776
+	MN	3	0	1	0	0	1	0	1
+	Total	48,795	6,925	11,700	10,946	5,956	7,981	4,510	777
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Hawaii
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.67	0.85	0.74	0.67	0.62	0.59	0.60	0.33
+	MN	0.27	0.00	0.25	0.00	0.00	1.00	0.00	0.00
+	Total	0.67	0.85	0.74	0.67	0.62	0.59	0.60	0.33
+11. Total Eligibles Referred for Corrective Treatment	CN	19,324	2,851	5,461	3,264	2,098	2,955	2,049	646
+	MN	5	1	1	0	1	1	0	1
+	Total	19,329	2,852	5,462	3,264	2,099	2,956	2,049	647
+12a.  Total Eligibles Receiving Any Dental Services	CN	38,099	16	1,985	8,243	10,068	10,393	5,911	1,483
+	MN	2	0	0	0	1	1	0	0
+	Total	38,101	16	1,985	8,243	10,069	10,394	5,911	1,483
+12b. Total Eligibles Receiving Preventive Dental Services	CN	36,492	16	1,950	7,921	9,666	9,973	5,569	1,397
+	MN	2	0	0	0	1	1	0	0
+	Total	36,494	16	1,950	7,921	9,667	9,974	5,569	1,397
+12c. Total Eligibles Receiving Dental Treatment Services	CN	20,077	1	489	4,084	5,798	5,268	3,479	958
+	MN	1	0	0	0	1	0	0	0
+	Total	20,078	1	489	4,084	5,799	5,268	3,479	958
+13.  Total Eligibles Enrolled in Managed Care	CN	121,459	8,127	15,707	20,128	23,377	27,817	18,739	7,564
+	MN	0	0	0	0	0	0	0	0
+	Total	121,459	8,127	15,707	20,128	23,377	27,817	18,739	7,564
+14.  Total Number of Screening Blood Lead Tests	CN	5,908	415	4,578	915				
+	MN	1	0	1	0				
+	Total	5,909	415	4,579	915				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Idaho
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	149,986	10,250	22,190	28,400	30,396	31,969	20,193	6,588
+	MN	0	0	0	0	0	0	0	0
+	Total	149,986	10,250	22,190	28,400	30,396	31,969	20,193	6,588
+2a.  State Periodicity Schedule	CN		7	4	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		7.00	2.00	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	1,455,377	61,384	224,498	288,761	309,120	325,274	199,804	46,536
+	MN	0	0	0	0	0	0	0	0
+	Total	1,455,377	61,384	224,498	288,761	309,120	325,274	199,804	46,536
+3b.  Average Period of Eligibility	CN	0.81	0.50	0.84	0.85	0.85	0.85	0.82	0.59
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.81	0.50	0.84	0.85	0.85	0.85	0.82	0.59
+4.  Expected Number of Screenings per Eligible	CN		3.50	1.68	0.85	0.43	0.51	0.41	0.30
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		3.50	1.68	0.85	0.43	0.51	0.41	0.30
+5.  Expected Number of Screenings	CN	136,923	35,875	37,279	24,140	13,070	16,304	8,279	1,976
+	MN	0	0	0	0	0	0	0	0
+	Total	136,923	35,875	37,279	24,140	13,070	16,304	8,279	1,976
+6.  Total Screens Received	CN	33,108	13,379	10,494	4,103	1,950	2,199	917	66
+	MN	0	0	0	0	0	0	0	0
+	Total	33,108	13,379	10,494	4,103	1,950	2,199	917	66
+7.  Screening Ratio	CN	0.24	0.37	0.28	0.17	0.15	0.13	0.11	0.03
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.24	0.37	0.28	0.17	0.15	0.13	0.11	0.03
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	96,209	10,250	22,190	24,140	13,070	16,304	8,279	1,976
+	MN	0	0	0	0	0	0	0	0
+	Total	96,209	10,250	22,190	24,140	13,070	16,304	8,279	1,976
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	21,971	5,663	7,442	3,931	1,880	2,112	880	63
+	MN	0	0	0	0	0	0	0	0
+	Total	21,971	5,663	7,442	3,931	1,880	2,112	880	63
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Idaho
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.23	0.55	0.34	0.16	0.14	0.13	0.11	0.03
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.23	0.55	0.34	0.16	0.14	0.13	0.11	0.03
+11. Total Eligibles Referred for Corrective Treatment	CN	3,506	86	444	750	789	853	494	90
+	MN	0	0	0	0	0	0	0	0
+	Total	3,506	86	444	750	789	853	494	90
+12a.  Total Eligibles Receiving Any Dental Services	CN	39,885	26	1,431	7,750	11,451	11,761	6,515	951
+	MN	0	0	0	0	0	0	0	0
+	Total	39,885	26	1,431	7,750	11,451	11,761	6,515	951
+12b. Total Eligibles Receiving Preventive Dental Services	CN	29,901	6	714	5,814	9,217	9,184	4,472	494
+	MN	0	0	0	0	0	0	0	0
+	Total	29,901	6	714	5,814	9,217	9,184	4,472	494
+12c. Total Eligibles Receiving Dental Treatment Services	CN	23,942	18	781	4,184	6,862	6,939	4,444	714
+	MN	0	0	0	0	0	0	0	0
+	Total	23,942	18	781	4,184	6,862	6,939	4,444	714
+13.  Total Eligibles Enrolled in Managed Care	CN	131,071	6,752	20,255	25,732	27,378	28,465	17,470	5,019
+	MN	0	0	0	0	0	0	0	0
+	Total	131,071	6,752	20,255	25,732	27,378	28,465	17,470	5,019
+14.  Total Number of Screening Blood Lead Tests	CN	690	21	488	181				
+	MN	0	0	0	0				
+	Total	690	21	488	181				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Illinois
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	1,206,695	75,246	171,660	217,948	243,733	273,332	169,980	54,796
+	MN	2,885	53	405	687	666	696	367	11
+	Total	1,209,580	75,299	172,065	218,635	244,399	274,028	170,347	54,807
+2a.  State Periodicity Schedule	CN		6	4	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	12,181,984	466,515	1,823,526	2,334,523	2,574,582	2,826,109	1,710,022	446,707
+	MN	20,402	197	3,045	4,889	4,831	4,784	2,588	68
+	Total	12,202,386	466,712	1,826,571	2,339,412	2,579,413	2,830,893	1,712,610	446,775
+3b.  Average Period of Eligibility	CN	0.84	0.52	0.89	0.89	0.88	0.86	0.84	0.68
+	MN	0.59	0.31	0.63	0.59	0.60	0.57	0.59	0.52
+	Total	0.84	0.52	0.88	0.89	0.88	0.86	0.84	0.68
+4.  Expected Number of Screenings per Eligible	CN		3.12	1.78	0.89	0.44	0.52	0.42	0.34
+	MN		1.86	1.26	0.59	0.30	0.34	0.30	0.26
+	Total		3.12	1.76	0.89	0.44	0.52	0.42	0.34
+5.  Expected Number of Screenings	CN	1,073,696	234,768	305,555	193,974	107,243	142,133	71,392	18,631
+	MN	1,564	99	510	405	200	237	110	3
+	Total	1,075,260	234,867	306,065	194,379	107,443	142,370	71,502	18,634
+6.  Total Screens Received	CN	1,032,181	366,541	231,684	176,615	67,242	126,233	53,518	10,348
+	MN	1,102	136	337	320	77	175	57	0
+	Total	1,033,283	366,677	232,021	176,935	67,319	126,408	53,575	10,348
+7.  Screening Ratio	CN	0.96	1.00	0.76	0.91	0.63	0.89	0.75	0.56
+	MN	0.70	1.00	0.66	0.79	0.39	0.74	0.52	0.00
+	Total	0.96	1.00	0.76	0.91	0.63	0.89	0.75	0.56
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	780,279	75,246	171,660	193,974	107,243	142,133	71,392	18,631
+	MN	1,413	53	405	405	200	237	110	3
+	Total	781,692	75,299	172,065	194,379	107,443	142,370	71,502	18,634
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	518,583	64,812	124,011	123,620	55,085	95,302	42,768	12,985
+	MN	746	25	211	253	65	143	49	0
+	Total	519,329	64,837	124,222	123,873	55,150	95,445	42,817	12,985
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Illinois
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.66	0.86	0.72	0.64	0.51	0.67	0.60	0.70
+	MN	0.53	0.47	0.52	0.62	0.33	0.60	0.45	0.00
+	Total	0.66	0.86	0.72	0.64	0.51	0.67	0.60	0.70
+11. Total Eligibles Referred for Corrective Treatment	CN	215,264	30,480	25,728	37,334	42,549	54,651	20,826	3,696
+	MN	241	11	60	44	44	66	16	0
+	Total	215,505	30,491	25,788	37,378	42,593	54,717	20,842	3,696
+12a.  Total Eligibles Receiving Any Dental Services	CN	359,544	341	15,801	90,632	107,254	97,920	41,515	6,081
+	MN	677	0	26	154	210	210	77	0
+	Total	360,221	341	15,827	90,786	107,464	98,130	41,592	6,081
+12b. Total Eligibles Receiving Preventive Dental Services	CN	318,455	130	12,553	81,353	98,545	88,947	33,237	3,690
+	MN	581	0	17	137	185	182	60	0
+	Total	319,036	130	12,570	81,490	98,730	89,129	33,297	3,690
+12c. Total Eligibles Receiving Dental Treatment Services	CN	290,144	320	14,313	71,631	81,708	78,629	37,760	5,783
+	MN	567	0	25	130	166	175	71	0
+	Total	290,711	320	14,338	71,761	81,874	78,804	37,831	5,783
+13.  Total Eligibles Enrolled in Managed Care	CN	186,626	13,346	28,257	36,697	40,744	42,610	19,261	5,711
+	MN	22	0	7	7	2	6	0	0
+	Total	186,648	13,346	28,264	36,704	40,746	42,616	19,261	5,711
+14.  Total Number of Screening Blood Lead Tests	CN	134,632	17,291	55,905	61,436				
+	MN	128	7	56	65				
+	Total	134,760	17,298	55,961	61,501				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Indiana
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	593,195	40,815	81,727	105,894	120,131	132,242	83,572	28,814
+	MN	0	0	0	0	0	0	0	0
+	Total	593,195	40,815	81,727	105,894	120,131	132,242	83,572	28,814
+2a.  State Periodicity Schedule	CN		7	4	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		7.00	2.00	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	5,517,545	237,251	797,652	1,022,763	1,170,906	1,291,366	783,209	214,398
+	MN	0	0	0	0	0	0	0	0
+	Total	5,517,545	237,251	797,652	1,022,763	1,170,906	1,291,366	783,209	214,398
+3b.  Average Period of Eligibility	CN	0.78	0.48	0.81	0.80	0.81	0.81	0.78	0.62
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.78	0.48	0.81	0.80	0.81	0.81	0.78	0.62
+4.  Expected Number of Screenings per Eligible	CN		3.36	1.62	0.80	0.41	0.49	0.39	0.31
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		3.36	1.62	0.80	0.41	0.49	0.39	0.31
+5.  Expected Number of Screenings	CN	509,829	137,138	132,398	84,715	49,254	64,799	32,593	8,932
+	MN	0	0	0	0	0	0	0	0
+	Total	509,829	137,138	132,398	84,715	49,254	64,799	32,593	8,932
+6.  Total Screens Received	CN	369,586	102,216	137,892	49,042	28,832	32,028	16,565	3,011
+	MN	0	0	0	0	0	0	0	0
+	Total	369,586	102,216	137,892	49,042	28,832	32,028	16,565	3,011
+7.  Screening Ratio	CN	0.72	0.75	1.00	0.58	0.59	0.49	0.51	0.34
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.72	0.75	1.00	0.58	0.59	0.49	0.51	0.34
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	362,835	40,815	81,727	84,715	49,254	64,799	32,593	8,932
+	MN	0	0	0	0	0	0	0	0
+	Total	362,835	40,815	81,727	84,715	49,254	64,799	32,593	8,932
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	194,891	30,986	54,088	40,625	24,716	27,626	14,175	2,675
+	MN	0	0	0	0	0	0	0	0
+	Total	194,891	30,986	54,088	40,625	24,716	27,626	14,175	2,675
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Indiana
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.54	0.76	0.66	0.48	0.50	0.43	0.43	0.30
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.54	0.76	0.66	0.48	0.50	0.43	0.43	0.30
+11. Total Eligibles Referred for Corrective Treatment	CN	24,373	4,826	8,622	4,120	2,791	2,914	1,054	46
+	MN	0	0	0	0	0	0	0	0
+	Total	24,373	4,826	8,622	4,120	2,791	2,914	1,054	46
+12a.  Total Eligibles Receiving Any Dental Services	CN	223,422	82	7,715	44,623	64,811	64,464	33,758	7,969
+	MN	0	0	0	0	0	0	0	0
+	Total	223,422	82	7,715	44,623	64,811	64,464	33,758	7,969
+12b. Total Eligibles Receiving Preventive Dental Services	CN	196,336	0	5,292	39,465	59,734	59,033	27,832	4,980
+	MN	0	0	0	0	0	0	0	0
+	Total	196,336	0	5,292	39,465	59,734	59,033	27,832	4,980
+12c. Total Eligibles Receiving Dental Treatment Services	CN	121,020	17	1,603	19,425	36,740	35,411	22,077	5,747
+	MN	0	0	0	0	0	0	0	0
+	Total	121,020	17	1,603	19,425	36,740	35,411	22,077	5,747
+13.  Total Eligibles Enrolled in Managed Care	CN	545,291	36,982	78,218	99,486	111,055	120,756	73,572	25,222
+	MN	0	0	0	0	0	0	0	0
+	Total	545,291	36,982	78,218	99,486	111,055	120,756	73,572	25,222
+14.  Total Number of Screening Blood Lead Tests	CN	10,842	308	6,694	3,840				
+	MN	0	0	0	0				
+	Total	10,842	308	6,694	3,840				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Iowa
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	227,705	17,565	31,659	39,801	43,665	48,736	33,181	13,098
+	MN	1,033	25	36	39	52	100	133	648
+	Total	228,738	17,590	31,695	39,840	43,717	48,836	33,314	13,746
+2a.  State Periodicity Schedule	CN		6	4	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	2,086,802	103,513	299,970	380,040	422,186	473,961	306,616	100,516
+	MN	5,239	75	163	157	154	342	591	3,757
+	Total	2,092,041	103,588	300,133	380,197	422,340	474,303	307,207	104,273
+3b.  Average Period of Eligibility	CN	0.76	0.49	0.79	0.80	0.81	0.81	0.77	0.64
+	MN	0.42	0.25	0.38	0.34	0.25	0.29	0.37	0.48
+	Total	0.76	0.49	0.79	0.80	0.81	0.81	0.77	0.63
+4.  Expected Number of Screenings per Eligible	CN		2.94	1.58	0.80	0.41	0.49	0.39	0.32
+	MN		1.50	0.76	0.34	0.13	0.17	0.19	0.24
+	Total		2.94	1.58	0.80	0.41	0.49	0.39	0.32
+5.  Expected Number of Screenings	CN	192,419	51,641	50,021	31,841	17,903	23,881	12,941	4,191
+	MN	283	38	27	13	7	17	25	156
+	Total	192,702	51,679	50,048	31,854	17,910	23,898	12,966	4,347
+6.  Total Screens Received	CN	428,404	89,328	103,828	70,412	55,816	59,190	35,613	14,217
+	MN	731	31	41	16	6	43	45	549
+	Total	429,135	89,359	103,869	70,428	55,822	59,233	35,658	14,766
+7.  Screening Ratio	CN	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+	MN	1.00	0.82	1.00	1.00	0.86	1.00	1.00	1.00
+	Total	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	139,981	17,565	31,659	31,841	17,903	23,881	12,941	4,191
+	MN	270	25	27	13	7	17	25	156
+	Total	140,251	17,590	31,686	31,854	17,910	23,898	12,966	4,347
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	140,866	16,081	26,295	27,357	21,098	25,629	17,191	7,215
+	MN	356	11	13	5	5	18	25	279
+	Total	141,222	16,092	26,308	27,362	21,103	25,647	17,216	7,494
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Iowa
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	1.00	0.92	0.83	0.86	1.00	1.00	1.00	1.00
+	MN	1.00	0.44	0.48	0.38	0.71	1.00	1.00	1.00
+	Total	1.00	0.91	0.83	0.86	1.00	1.00	1.00	1.00
+11. Total Eligibles Referred for Corrective Treatment	CN	3,996	3,511	257	93	38	53	40	4
+	MN	7	7	0	0	0	0	0	0
+	Total	4,003	3,518	257	93	38	53	40	4
+12a.  Total Eligibles Receiving Any Dental Services	CN	91,599	984	6,406	18,800	22,670	24,072	14,099	4,568
+	MN	272	0	4	4	8	18	29	209
+	Total	91,871	984	6,410	18,804	22,678	24,090	14,128	4,777
+12b. Total Eligibles Receiving Preventive Dental Services	CN	82,084	589	4,676	17,520	21,015	22,138	12,373	3,773
+	MN	200	0	2	3	6	16	23	150
+	Total	82,284	589	4,678	17,523	21,021	22,154	12,396	3,923
+12c. Total Eligibles Receiving Dental Treatment Services	CN	69,784	145	2,125	12,726	19,132	20,664	11,738	3,254
+	MN	187	0	2	3	6	10	21	145
+	Total	69,971	145	2,127	12,729	19,138	20,674	11,759	3,399
+13.  Total Eligibles Enrolled in Managed Care	CN	172,861	12,232	26,644	32,246	33,979	36,141	22,478	9,141
+	MN	261	1	14	6	5	12	34	189
+	Total	173,122	12,233	26,658	32,252	33,984	36,153	22,512	9,330
+14.  Total Number of Screening Blood Lead Tests	CN	3,542	45	2,035	1,462				
+	MN	3	0	2	1				
+	Total	3,545	45	2,037	1,463				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Kansas
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	211,815	17,643	33,956	40,724	39,341	40,856	28,695	10,600
+	MN	542	97	54	77	89	107	79	39
+	Total	212,357	17,740	34,010	40,801	39,430	40,963	28,774	10,639
+2a.  State Periodicity Schedule	CN		6	4	3	2	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	0.50	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	1,913,576	107,389	325,765	387,180	368,444	385,358	263,050	76,390
+	MN	2,354	250	220	328	432	528	416	180
+	Total	1,915,930	107,639	325,985	387,508	368,876	385,886	263,466	76,570
+3b.  Average Period of Eligibility	CN	0.75	0.51	0.80	0.79	0.78	0.79	0.76	0.60
+	MN	0.36	0.21	0.34	0.35	0.40	0.41	0.44	0.38
+	Total	0.75	0.51	0.80	0.79	0.78	0.79	0.76	0.60
+4.  Expected Number of Screenings per Eligible	CN		3.06	1.60	0.79	0.39	0.79	0.76	0.60
+	MN		1.26	0.68	0.35	0.20	0.41	0.44	0.38
+	Total		3.06	1.60	0.79	0.39	0.79	0.76	0.60
+5.  Expected Number of Screenings	CN	216,277	53,988	54,330	32,172	15,343	32,276	21,808	6,360
+	MN	298	122	37	27	18	44	35	15
+	Total	216,575	54,110	54,367	32,199	15,361	32,320	21,843	6,375
+6.  Total Screens Received	CN	434,923	69,986	123,887	77,216	51,280	50,834	45,298	16,422
+	MN	1,253	364	235	126	112	173	145	98
+	Total	436,176	70,350	124,122	77,342	51,392	51,007	45,443	16,520
+7.  Screening Ratio	CN	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+	MN	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+	Total	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	159,558	17,643	33,956	32,172	15,343	32,276	21,808	6,360
+	MN	273	97	37	27	18	44	35	15
+	Total	159,831	17,740	33,993	32,199	15,361	32,320	21,843	6,375
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	139,305	15,472	26,972	28,821	22,561	22,690	16,999	5,790
+	MN	183	58	16	18	25	26	29	11
+	Total	139,488	15,530	26,988	28,839	22,586	22,716	17,028	5,801
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Kansas
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.87	0.88	0.79	0.90	1.00	0.70	0.78	0.91
+	MN	0.67	0.60	0.43	0.67	1.00	0.59	0.83	0.73
+	Total	0.87	0.88	0.79	0.90	1.00	0.70	0.78	0.91
+11. Total Eligibles Referred for Corrective Treatment	CN	354	0	90	82	70	67	40	5
+	MN	1	0	0	0	0	0	1	0
+	Total	355	0	90	82	70	67	41	5
+12a.  Total Eligibles Receiving Any Dental Services	CN	66,745	52	2,101	15,199	18,483	17,961	10,985	1,964
+	MN	52	0	1	3	12	17	13	6
+	Total	66,797	52	2,102	15,202	18,495	17,978	10,998	1,970
+12b. Total Eligibles Receiving Preventive Dental Services	CN	59,428	35	1,457	13,174	17,070	16,645	9,601	1,446
+	MN	46	0	1	2	11	17	10	5
+	Total	59,474	35	1,458	13,176	17,081	16,662	9,611	1,451
+12c. Total Eligibles Receiving Dental Treatment Services	CN	33,028	2	352	5,896	9,954	9,329	6,249	1,246
+	MN	29	0	0	2	7	8	8	4
+	Total	33,057	2	352	5,898	9,961	9,337	6,257	1,250
+13.  Total Eligibles Enrolled in Managed Care	CN	128,084	6,867	23,557	26,230	24,744	23,619	15,887	7,180
+	MN	98	29	6	10	15	22	15	1
+	Total	128,182	6,896	23,563	26,240	24,759	23,641	15,902	7,181
+14.  Total Number of Screening Blood Lead Tests	CN	18,699	497	10,863	7,339				
+	MN	9	0	6	3				
+	Total	18,708	497	10,869	7,342				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Kentucky
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	285,937	19,844	35,078	48,145	56,239	69,855	47,217	9,559
+	MN	32,071	1,386	4,076	5,970	6,911	7,651	5,336	741
+	Total	318,008	21,230	39,154	54,115	63,150	77,506	52,553	10,300
+2a.  State Periodicity Schedule	CN		5	4	3	2	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	2.00	1.00	0.50	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	2,930,320	138,323	371,753	504,675	592,453	742,129	496,943	84,044
+	MN	336,709	10,288	43,721	64,026	73,989	81,922	56,033	6,730
+	Total	3,267,029	148,611	415,474	568,701	666,442	824,051	552,976	90,774
+3b.  Average Period of Eligibility	CN	0.85	0.58	0.88	0.87	0.88	0.89	0.88	0.73
+	MN	0.87	0.62	0.89	0.89	0.89	0.89	0.88	0.76
+	Total	0.86	0.58	0.88	0.88	0.88	0.89	0.88	0.73
+4.  Expected Number of Screenings per Eligible	CN		2.90	1.76	0.87	0.44	0.89	0.88	0.73
+	MN		3.10	1.78	0.89	0.45	0.89	0.88	0.76
+	Total		2.90	1.76	0.88	0.44	0.89	0.88	0.73
+5.  Expected Number of Screenings	CN	296,616	57,548	61,737	41,886	24,745	62,171	41,551	6,978
+	MN	32,043	4,297	7,255	5,313	3,110	6,809	4,696	563
+	Total	328,659	61,845	68,992	47,199	27,855	68,980	46,247	7,541
+6.  Total Screens Received	CN	177,963	48,425	55,369	27,267	11,403	25,529	9,480	490
+	MN	20,462	3,518	6,454	3,790	1,697	3,225	1,748	30
+	Total	198,425	51,943	61,823	31,057	13,100	28,754	11,228	520
+7.  Screening Ratio	CN	0.60	0.84	0.90	0.65	0.46	0.41	0.23	0.07
+	MN	0.64	0.82	0.89	0.71	0.55	0.47	0.37	0.05
+	Total	0.60	0.84	0.90	0.66	0.47	0.42	0.24	0.07
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	232,253	19,844	35,078	41,886	24,745	62,171	41,551	6,978
+	MN	25,953	1,386	4,076	5,313	3,110	6,809	4,696	563
+	Total	258,206	21,230	39,154	47,199	27,855	68,980	46,247	7,541
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	102,330	15,555	23,674	22,333	10,129	21,949	8,258	432
+	MN	12,472	1,122	2,804	2,988	1,483	2,641	1,407	27
+	Total	114,802	16,677	26,478	25,321	11,612	24,590	9,665	459
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Kentucky
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.44	0.78	0.67	0.53	0.41	0.35	0.20	0.06
+	MN	0.48	0.81	0.69	0.56	0.48	0.39	0.30	0.05
+	Total	0.44	0.79	0.68	0.54	0.42	0.36	0.21	0.06
+11. Total Eligibles Referred for Corrective Treatment	CN	142	5	44	37	21	32	3	0
+	MN	25	1	10	5	2	5	2	0
+	Total	167	6	54	42	23	37	5	0
+12a.  Total Eligibles Receiving Any Dental Services	CN	55,685	803	3,735	9,098	12,746	14,576	11,514	3,213
+	MN	6,734	64	518	1,203	1,592	1,662	1,430	265
+	Total	62,419	867	4,253	10,301	14,338	16,238	12,944	3,478
+12b. Total Eligibles Receiving Preventive Dental Services	CN	37,176	800	3,637	6,951	7,947	8,522	6,728	2,591
+	MN	4,513	63	504	930	970	1,001	836	209
+	Total	41,689	863	4,141	7,881	8,917	9,523	7,564	2,800
+12c. Total Eligibles Receiving Dental Treatment Services	CN	18,509	3	98	2,147	4,799	6,054	4,786	622
+	MN	2,221	1	14	273	622	661	594	56
+	Total	20,730	4	112	2,420	5,421	6,715	5,380	678
+13.  Total Eligibles Enrolled in Managed Care	CN	258,668	19,368	34,052	45,311	51,175	61,399	40,175	7,188
+	MN	28,166	1,261	3,748	5,439	6,234	6,652	4,144	688
+	Total	286,834	20,629	37,800	50,750	57,409	68,051	44,319	7,876
+14.  Total Number of Screening Blood Lead Tests	CN	17,652	618	10,658	6,376				
+	MN	2,257	46	1,349	862				
+	Total	19,909	664	12,007	7,238				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Louisiana
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	732,440	45,867	88,874	122,916	142,987	173,178	121,071	37,547
+	MN	963	41	102	131	156	219	138	176
+	Total	733,403	45,908	88,976	123,047	143,143	173,397	121,209	37,723
+2a.  State Periodicity Schedule	CN		6	4	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	7,788,688	288,394	987,623	1,369,188	1,591,379	1,928,327	1,328,785	294,992
+	MN	8,109	191	1,069	1,335	1,468	1,888	897	1,261
+	Total	7,796,797	288,585	988,692	1,370,523	1,592,847	1,930,215	1,329,682	296,253
+3b.  Average Period of Eligibility	CN	0.89	0.52	0.93	0.93	0.93	0.93	0.91	0.65
+	MN	0.70	0.39	0.87	0.85	0.78	0.72	0.54	0.60
+	Total	0.89	0.52	0.93	0.93	0.93	0.93	0.91	0.65
+4.  Expected Number of Screenings per Eligible	CN		3.12	1.86	0.93	0.47	0.56	0.46	0.33
+	MN		2.34	1.74	0.85	0.39	0.43	0.27	0.30
+	Total		3.12	1.86	0.93	0.47	0.56	0.46	0.33
+5.  Expected Number of Screenings	CN	654,991	143,105	165,306	114,312	67,204	96,980	55,693	12,391
+	MN	629	96	177	111	61	94	37	53
+	Total	655,620	143,201	165,483	114,423	67,265	97,074	55,730	12,444
+6.  Total Screens Received	CN	569,436	149,130	168,586	91,868	53,111	64,767	38,306	3,668
+	MN	158	13	46	43	24	22	9	1
+	Total	569,594	149,143	168,632	91,911	53,135	64,789	38,315	3,669
+7.  Screening Ratio	CN	0.87	1.00	1.00	0.80	0.79	0.67	0.69	0.30
+	MN	0.25	0.14	0.26	0.39	0.39	0.23	0.24	0.02
+	Total	0.87	1.00	1.00	0.80	0.79	0.67	0.69	0.29
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	481,321	45,867	88,874	114,312	67,204	96,980	55,693	12,391
+	MN	499	41	102	111	61	94	37	53
+	Total	481,820	45,908	88,976	114,423	67,265	97,074	55,730	12,444
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	307,566	41,371	66,041	68,120	44,611	53,188	31,036	3,199
+	MN	105	6	20	34	19	18	7	1
+	Total	307,671	41,377	66,061	68,154	44,630	53,206	31,043	3,200
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Louisiana
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.64	0.90	0.74	0.60	0.66	0.55	0.56	0.26
+	MN	0.21	0.15	0.20	0.31	0.31	0.19	0.19	0.02
+	Total	0.64	0.90	0.74	0.60	0.66	0.55	0.56	0.26
+11. Total Eligibles Referred for Corrective Treatment	CN	98,898	11,700	24,951	19,589	15,903	17,120	8,766	869
+	MN	42	0	8	15	10	6	3	0
+	Total	98,940	11,700	24,959	19,604	15,913	17,126	8,769	869
+12a.  Total Eligibles Receiving Any Dental Services	CN	225,081	71	8,128	46,723	59,757	64,752	39,346	6,304
+	MN	101	0	1	20	31	31	13	5
+	Total	225,182	71	8,129	46,743	59,788	64,783	39,359	6,309
+12b. Total Eligibles Receiving Preventive Dental Services	CN	188,340	22	5,483	39,866	52,341	55,582	30,876	4,170
+	MN	82	0	0	16	24	27	12	3
+	Total	188,422	22	5,483	39,882	52,365	55,609	30,888	4,173
+12c. Total Eligibles Receiving Dental Treatment Services	CN	123,313	13	2,307	19,814	35,047	36,342	25,377	4,413
+	MN	62	0	0	10	19	24	5	4
+	Total	123,375	13	2,307	19,824	35,066	36,366	25,382	4,417
+13.  Total Eligibles Enrolled in Managed Care	CN	672,427	34,579	85,634	116,280	133,674	160,511	110,638	31,111
+	MN	89	0	12	19	19	24	13	2
+	Total	672,516	34,579	85,646	116,299	133,693	160,535	110,651	31,113
+14.  Total Number of Screening Blood Lead Tests	CN	74,067	1,202	43,886	28,979				
+	MN	28	0	14	14				
+	Total	74,095	1,202	43,900	28,993				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Maryland
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	464,490	32,155	61,663	78,963	88,817	109,924	72,261	20,707
+	MN	28,677	328	3,001	5,270	5,623	6,460	5,394	2,601
+	Total	493,167	32,483	64,664	84,233	94,440	116,384	77,655	23,308
+2a.  State Periodicity Schedule	CN		6	4	3	4	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	1.00	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	4,563,772	196,051	626,958	808,381	914,894	1,140,483	722,174	154,831
+	MN	310,227	6,323	42,104	54,309	57,780	67,450	56,582	25,679
+	Total	4,873,999	202,374	669,062	862,690	972,674	1,207,933	778,756	180,510
+3b.  Average Period of Eligibility	CN	0.82	0.51	0.85	0.85	0.86	0.86	0.83	0.62
+	MN	0.90	1.61	1.17	0.86	0.86	0.87	0.87	0.82
+	Total	0.82	0.52	0.86	0.85	0.86	0.86	0.84	0.65
+4.  Expected Number of Screenings per Eligible	CN		3.06	1.70	0.85	0.86	0.86	0.83	0.62
+	MN		9.66	2.34	0.86	0.86	0.87	0.87	0.82
+	Total		3.12	1.72	0.85	0.86	0.86	0.84	0.65
+5.  Expected Number of Screenings	CN	514,073	98,394	104,827	67,119	76,383	94,535	59,977	12,838
+	MN	32,004	3,168	7,022	4,532	4,836	5,620	4,693	2,133
+	Total	546,077	101,562	111,849	71,651	81,219	100,155	64,670	14,971
+6.  Total Screens Received	CN	400,953	94,232	128,846	55,790	40,032	49,314	27,987	4,752
+	MN	21,795	2,492	6,601	3,727	2,596	3,065	2,360	954
+	Total	422,748	96,724	135,447	59,517	42,628	52,379	30,347	5,706
+7.  Screening Ratio	CN	0.78	0.96	1.00	0.83	0.52	0.52	0.47	0.37
+	MN	0.68	0.79	0.94	0.82	0.54	0.55	0.50	0.45
+	Total	0.77	0.95	1.00	0.83	0.52	0.52	0.47	0.38
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	404,670	32,155	61,663	67,119	76,383	94,535	59,977	12,838
+	MN	25,143	328	3,001	4,532	4,836	5,620	4,693	2,133
+	Total	429,813	32,483	64,664	71,651	81,219	100,155	64,670	14,971
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	219,130	25,685	47,311	44,630	34,097	41,256	22,411	3,740
+	MN	13,054	536	2,561	2,921	2,100	2,442	1,786	708
+	Total	232,184	26,221	49,872	47,551	36,197	43,698	24,197	4,448
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Maryland
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.54	0.80	0.77	0.66	0.45	0.44	0.37	0.29
+	MN	0.52	1.00	0.85	0.64	0.43	0.43	0.38	0.33
+	Total	0.54	0.81	0.77	0.66	0.45	0.44	0.37	0.30
+11. Total Eligibles Referred for Corrective Treatment	CN	211,400	24,312	46,708	43,584	33,004	39,593	20,945	3,254
+	MN	12,562	549	2,527	2,828	2,024	2,330	1,674	630
+	Total	223,962	24,861	49,235	46,412	35,028	41,923	22,619	3,884
+12a.  Total Eligibles Receiving Any Dental Services	CN	131,128	575	4,073	24,626	34,704	39,850	21,859	5,441
+	MN	7,489	19	228	1,420	1,604	1,844	1,508	866
+	Total	138,617	594	4,301	26,046	36,308	41,694	23,367	6,307
+12b. Total Eligibles Receiving Preventive Dental Services	CN	109,646	127	2,192	21,038	30,760	34,649	17,035	3,845
+	MN	5,826	2	97	1,159	1,365	1,497	1,125	581
+	Total	115,472	129	2,289	22,197	32,125	36,146	18,160	4,426
+12c. Total Eligibles Receiving Dental Treatment Services	CN	51,442	9	565	6,897	13,895	17,023	10,786	2,267
+	MN	2,813	0	38	365	578	796	672	364
+	Total	54,255	9	603	7,262	14,473	17,819	11,458	2,631
+13.  Total Eligibles Enrolled in Managed Care	CN	443,996	29,887	60,300	76,240	85,103	104,986	68,379	19,101
+	MN	26,651	256	2,833	5,007	5,349	6,095	4,984	2,127
+	Total	470,647	30,143	63,133	81,247	90,452	111,081	73,363	21,228
+14.  Total Number of Screening Blood Lead Tests	CN	40,570	808	23,370	16,392				
+	MN	3,045	55	1,687	1,303				
+	Total	43,615	863	25,057	17,695				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Massachusetts
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	480,199	29,582	58,922	74,168	89,055	113,927	86,012	28,533
+	MN	4	0	0	0	0	0	0	4
+	Total	480,203	29,582	58,922	74,168	89,055	113,927	86,012	28,537
+2a.  State Periodicity Schedule	CN		6	4	3	4	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	1.00	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	4,506,000	166,284	566,197	713,346	866,216	1,126,395	836,960	230,602
+	MN	0	0	0	0	0	0	0	0
+	Total	4,506,000	166,284	566,197	713,346	866,216	1,126,395	836,960	230,602
+3b.  Average Period of Eligibility	CN	0.78	0.47	0.80	0.80	0.81	0.82	0.81	0.67
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.78	0.47	0.80	0.80	0.81	0.82	0.81	0.67
+4.  Expected Number of Screenings per Eligible	CN		2.82	1.60	0.80	0.81	0.82	0.81	0.67
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		2.82	1.60	0.80	0.81	0.82	0.81	0.67
+5.  Expected Number of Screenings	CN	491,372	83,421	94,275	59,334	72,135	93,420	69,670	19,117
+	MN	0	0	0	0	0	0	0	0
+	Total	491,372	83,421	94,275	59,334	72,135	93,420	69,670	19,117
+6.  Total Screens Received	CN	538,298	120,783	139,969	68,708	65,272	81,968	51,990	9,608
+	MN	0	0	0	0	0	0	0	0
+	Total	538,298	120,783	139,969	68,708	65,272	81,968	51,990	9,608
+7.  Screening Ratio	CN	1.00	1.00	1.00	1.00	0.90	0.88	0.75	0.50
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	1.00	1.00	1.00	1.00	0.90	0.88	0.75	0.50
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	402,180	29,582	58,922	59,334	72,135	93,420	69,670	19,117
+	MN	0	0	0	0	0	0	0	0
+	Total	402,180	29,582	58,922	59,334	72,135	93,420	69,670	19,117
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	296,768	35,696	50,457	50,869	51,046	64,056	37,884	6,760
+	MN	0	0	0	0	0	0	0	0
+	Total	296,768	35,696	50,457	50,869	51,046	64,056	37,884	6,760
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Massachusetts
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.74	1.00	0.86	0.86	0.71	0.69	0.54	0.35
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.74	1.00	0.86	0.86	0.71	0.69	0.54	0.35
+11. Total Eligibles Referred for Corrective Treatment	CN	33,450	5,849	8,271	6,114	4,015	6,126	2,924	151
+	MN	0	0	0	0	0	0	0	0
+	Total	33,450	5,849	8,271	6,114	4,015	6,126	2,924	151
+12a.  Total Eligibles Receiving Any Dental Services	CN	171,348	31	1,921	27,110	43,549	56,289	35,523	6,925
+	MN	0	0	0	0	0	0	0	0
+	Total	171,348	31	1,921	27,110	43,549	56,289	35,523	6,925
+12b. Total Eligibles Receiving Preventive Dental Services	CN	150,200	6	1,234	24,684	39,898	49,973	29,404	5,001
+	MN	0	0	0	0	0	0	0	0
+	Total	150,200	6	1,234	24,684	39,898	49,973	29,404	5,001
+12c. Total Eligibles Receiving Dental Treatment Services	CN	103,463	19	819	11,540	25,240	36,146	24,669	5,030
+	MN	0	0	0	0	0	0	0	0
+	Total	103,463	19	819	11,540	25,240	36,146	24,669	5,030
+13.  Total Eligibles Enrolled in Managed Care	CN	320,515	18,943	42,473	52,198	59,296	75,563	53,298	18,744
+	MN	0	0	0	0	0	0	0	0
+	Total	320,515	18,943	42,473	52,198	59,296	75,563	53,298	18,744
+14.  Total Number of Screening Blood Lead Tests	CN	72,942	1,241	36,771	34,930				
+	MN	0	0	0	0				
+	Total	72,942	1,241	36,771	34,930				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Michigan
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	985,874	64,044	122,455	164,140	195,201	240,080	151,956	47,998
+	MN	20,259	382	633	1,113	1,435	1,997	2,277	12,422
+	Total	1,006,133	64,426	123,088	165,253	196,636	242,077	154,233	60,420
+2a.  State Periodicity Schedule	CN		5	4	3	2	4	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	2.00	1.00	0.50	0.80	1.00	1.00
+3a.  Total Months of Eligibility	CN	9,857,859	392,407	1,261,915	1,702,276	2,030,512	2,502,680	1,537,164	430,905
+	MN	155,906	1,962	5,399	9,998	12,658	17,800	16,654	91,435
+	Total	10,013,765	394,369	1,267,314	1,712,274	2,043,170	2,520,480	1,553,818	522,340
+3b.  Average Period of Eligibility	CN	0.83	0.51	0.86	0.86	0.87	0.87	0.84	0.75
+	MN	0.64	0.43	0.71	0.75	0.74	0.74	0.61	0.61
+	Total	0.83	0.51	0.86	0.86	0.87	0.87	0.84	0.72
+4.  Expected Number of Screenings per Eligible	CN		2.55	1.72	0.86	0.44	0.70	0.84	0.75
+	MN		2.15	1.42	0.75	0.37	0.59	0.61	0.61
+	Total		2.55	1.72	0.86	0.44	0.70	0.84	0.72
+5.  Expected Number of Screenings	CN	932,681	163,312	210,623	141,160	85,888	168,056	127,643	35,999
+	MN	13,230	821	899	835	531	1,178	1,389	7,577
+	Total	945,911	164,133	211,522	141,995	86,419	169,234	129,032	43,576
+6.  Total Screens Received	CN	560,378	175,210	165,456	80,904	41,960	57,331	33,189	6,328
+	MN	4,201	723	580	488	242	413	297	1,458
+	Total	564,579	175,933	166,036	81,392	42,202	57,744	33,486	7,786
+7.  Screening Ratio	CN	0.60	1.00	0.79	0.57	0.49	0.34	0.26	0.18
+	MN	0.32	0.88	0.65	0.58	0.46	0.35	0.21	0.19
+	Total	0.60	1.00	0.78	0.57	0.49	0.34	0.26	0.18
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	745,245	64,044	122,455	141,160	85,888	168,056	127,643	35,999
+	MN	12,525	382	633	835	531	1,178	1,389	7,577
+	Total	757,770	64,426	123,088	141,995	86,419	169,234	129,032	43,576
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	312,099	52,761	74,197	66,399	36,308	49,017	27,934	5,483
+	MN	3,061	234	301	404	204	342	263	1,313
+	Total	315,160	52,995	74,498	66,803	36,512	49,359	28,197	6,796
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Michigan
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.42	0.82	0.61	0.47	0.42	0.29	0.22	0.15
+	MN	0.24	0.61	0.48	0.48	0.38	0.29	0.19	0.17
+	Total	0.42	0.82	0.61	0.47	0.42	0.29	0.22	0.16
+11. Total Eligibles Referred for Corrective Treatment	CN	0	0	0	0	0	0	0	0
+	MN	0	0	0	0	0	0	0	0
+	Total	0	0	0	0	0	0	0	0
+12a.  Total Eligibles Receiving Any Dental Services	CN	299,085	114	5,009	58,808	88,033	91,517	45,582	10,022
+	MN	3,203	2	15	271	440	504	358	1,613
+	Total	302,288	116	5,024	59,079	88,473	92,021	45,940	11,635
+12b. Total Eligibles Receiving Preventive Dental Services	CN	285,808	44	4,196	56,667	85,190	88,361	42,541	8,809
+	MN	3,083	1	15	264	434	493	344	1,532
+	Total	288,891	45	4,211	56,931	85,624	88,854	42,885	10,341
+12c. Total Eligibles Receiving Dental Treatment Services	CN	129,509	12	866	18,432	39,233	40,256	24,911	5,799
+	MN	1,789	2	4	84	168	222	204	1,105
+	Total	131,298	14	870	18,516	39,401	40,478	25,115	6,904
+13.  Total Eligibles Enrolled in Managed Care	CN	791,628	38,349	103,152	137,155	161,435	198,302	118,822	34,413
+	MN	13,593	186	492	884	1,085	492	1,434	9,020
+	Total	805,221	38,535	103,644	138,039	162,520	198,794	120,256	43,433
+14.  Total Number of Screening Blood Lead Tests	CN	93,801	861	43,565	49,375				
+	MN	488	3	175	310				
+	Total	94,289	864	43,740	49,685				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Minnesota
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	308,642	25,422	49,180	50,998	54,219	62,634	44,889	21,300
+	MN	92,342	2,735	6,767	12,634	17,462	23,611	18,506	10,627
+	Total	400,984	28,157	55,947	63,632	71,681	86,245	63,395	31,927
+2a.  State Periodicity Schedule	CN		5	4	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	2.00	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	2,890,219	154,912	480,706	492,531	531,296	624,193	433,649	172,932
+	MN	922,020	16,545	70,106	125,778	177,635	244,553	190,702	96,701
+	Total	3,812,239	171,457	550,812	618,309	708,931	868,746	624,351	269,633
+3b.  Average Period of Eligibility	CN	0.78	0.51	0.81	0.80	0.82	0.83	0.81	0.68
+	MN	0.83	0.50	0.86	0.83	0.85	0.86	0.86	0.76
+	Total	0.79	0.51	0.82	0.81	0.82	0.84	0.82	0.70
+4.  Expected Number of Screenings per Eligible	CN		2.55	1.62	0.80	0.41	0.50	0.41	0.34
+	MN		2.50	1.72	0.83	0.43	0.52	0.43	0.38
+	Total		2.55	1.64	0.81	0.41	0.50	0.41	0.35
+5.  Expected Number of Screenings	CN	264,489	64,826	79,672	40,798	22,230	31,317	18,404	7,242
+	MN	60,746	6,838	11,639	10,486	7,509	12,278	7,958	4,038
+	Total	325,235	71,664	91,311	51,284	29,739	43,595	26,362	11,280
+6.  Total Screens Received	CN	220,955	72,054	76,315	26,678	11,732	18,061	11,757	4,358
+	MN	46,924	8,947	12,199	7,508	3,981	7,056	4,790	2,443
+	Total	267,879	81,001	88,514	34,186	15,713	25,117	16,547	6,801
+7.  Screening Ratio	CN	0.84	1.00	0.96	0.65	0.53	0.58	0.64	0.60
+	MN	0.77	1.00	1.00	0.72	0.53	0.57	0.60	0.61
+	Total	0.82	1.00	0.97	0.67	0.53	0.58	0.63	0.60
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	194,593	25,422	49,180	40,798	22,230	31,317	18,404	7,242
+	MN	51,771	2,735	6,767	10,486	7,509	12,278	7,958	4,038
+	Total	246,364	28,157	55,947	51,284	29,739	43,595	26,362	11,280
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	194,592	25,422	49,180	40,798	22,229	31,317	18,404	7,242
+	MN	51,768	2,735	6,767	10,486	7,508	12,277	7,957	4,038
+	Total	246,360	28,157	55,947	51,284	29,737	43,594	26,361	11,280
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Minnesota
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+	MN	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+	Total	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+11. Total Eligibles Referred for Corrective Treatment	CN	6,206	1,939	1,719	965	402	609	439	133
+	MN	1,285	283	285	255	82	178	140	62
+	Total	7,491	2,222	2,004	1,220	484	787	579	195
+12a.  Total Eligibles Receiving Any Dental Services	CN	85,887	33	1,982	17,351	22,584	24,492	14,598	4,847
+	MN	45,197	2	330	5,879	10,895	14,226	9,743	4,122
+	Total	131,084	35	2,312	23,230	33,479	38,718	24,341	8,969
+12b. Total Eligibles Receiving Preventive Dental Services	CN	72,272	10	1,273	14,993	19,951	21,527	11,428	3,090
+	MN	40,627	1	213	5,239	10,246	13,296	8,480	3,152
+	Total	112,899	11	1,486	20,232	30,197	34,823	19,908	6,242
+12c. Total Eligibles Receiving Dental Treatment Services	CN	43,489	7	536	6,704	11,977	12,187	8,766	3,312
+	MN	21,931	2	94	2,009	5,380	6,569	5,317	2,560
+	Total	65,420	9	630	8,713	17,357	18,756	14,083	5,872
+13.  Total Eligibles Enrolled in Managed Care	CN	238,929	16,693	43,137	41,875	42,590	47,531	32,172	14,931
+	MN	89,626	2,402	6,721	12,417	17,136	22,963	17,847	10,140
+	Total	328,555	19,095	49,858	54,292	59,726	70,494	50,019	25,071
+14.  Total Number of Screening Blood Lead Tests	CN	32,115	574	21,837	9,704				
+	MN	5,170	58	3,314	1,798				
+	Total	37,285	632	25,151	11,502				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Mississippi
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	460,033	43,148	71,348	75,930	82,568	97,207	66,400	23,432
+	MN	0	0	0	0	0	0	0	0
+	Total	460,033	43,148	71,348	75,930	82,568	97,207	66,400	23,432
+2a.  State Periodicity Schedule	CN		5	3	3	4	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	1.50	1.00	1.00	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	4,365,088	256,863	681,798	767,372	828,781	984,857	665,715	179,702
+	MN	0	0	0	0	0	0	0	0
+	Total	4,365,088	256,863	681,798	767,372	828,781	984,857	665,715	179,702
+3b.  Average Period of Eligibility	CN	0.79	0.50	0.80	0.84	0.84	0.84	0.84	0.64
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.79	0.50	0.80	0.84	0.84	0.84	0.84	0.64
+4.  Expected Number of Screenings per Eligible	CN		2.50	1.20	0.84	0.84	0.84	0.84	0.64
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		2.50	1.20	0.84	0.84	0.84	0.84	0.64
+5.  Expected Number of Screenings	CN	479,052	107,870	85,618	63,781	69,357	81,654	55,776	14,996
+	MN	0	0	0	0	0	0	0	0
+	Total	479,052	107,870	85,618	63,781	69,357	81,654	55,776	14,996
+6.  Total Screens Received	CN	192,157	98,181	35,959	27,120	11,575	11,597	6,566	1,159
+	MN	0	0	0	0	0	0	0	0
+	Total	192,157	98,181	35,959	27,120	11,575	11,597	6,566	1,159
+7.  Screening Ratio	CN	0.40	0.91	0.42	0.43	0.17	0.14	0.12	0.08
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.40	0.91	0.42	0.43	0.17	0.14	0.12	0.08
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	400,060	43,148	71,348	63,781	69,357	81,654	55,776	14,996
+	MN	0	0	0	0	0	0	0	0
+	Total	400,060	43,148	71,348	63,781	69,357	81,654	55,776	14,996
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	130,003	28,951	37,457	28,398	13,752	12,333	7,267	1,845
+	MN	0	0	0	0	0	0	0	0
+	Total	130,003	28,951	37,457	28,398	13,752	12,333	7,267	1,845
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Mississippi
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.32	0.67	0.52	0.45	0.20	0.15	0.13	0.12
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.32	0.67	0.52	0.45	0.20	0.15	0.13	0.12
+11. Total Eligibles Referred for Corrective Treatment	CN	41,369	19,138	9,915	4,136	2,365	2,646	2,177	992
+	MN	0	0	0	0	0	0	0	0
+	Total	41,369	19,138	9,915	4,136	2,365	2,646	2,177	992
+12a.  Total Eligibles Receiving Any Dental Services	CN	279,235	327	9,097	65,799	70,728	80,515	46,951	5,818
+	MN	0	0	0	0	0	0	0	0
+	Total	279,235	327	9,097	65,799	70,728	80,515	46,951	5,818
+12b. Total Eligibles Receiving Preventive Dental Services	CN	145,673	51	3,888	35,088	39,861	44,936	19,993	1,856
+	MN	0	0	0	0	0	0	0	0
+	Total	145,673	51	3,888	35,088	39,861	44,936	19,993	1,856
+12c. Total Eligibles Receiving Dental Treatment Services	CN	116,869	45	2,258	22,265	28,820	35,701	24,617	3,163
+	MN	0	0	0	0	0	0	0	0
+	Total	116,869	45	2,258	22,265	28,820	35,701	24,617	3,163
+13.  Total Eligibles Enrolled in Managed Care	CN	0	0	0	0	0	0	0	0
+	MN	0	0	0	0	0	0	0	0
+	Total	0	0	0	0	0	0	0	0
+14.  Total Number of Screening Blood Lead Tests	CN	43,898	4,483	21,599	17,816				
+	MN	0	0	0	0				
+	Total	43,898	4,483	21,599	17,816				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Missouri
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	684,632	41,501	82,422	115,028	134,300	161,650	111,071	38,660
+	MN	0	0	0	0	0	0	0	0
+	Total	684,632	41,501	82,422	115,028	134,300	161,650	111,071	38,660
+2a.  State Periodicity Schedule	CN		5	4	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	2.00	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	6,910,424	233,288	866,102	1,216,575	1,425,542	1,721,202	1,145,484	302,231
+	MN	0	0	0	0	0	0	0	0
+	Total	6,910,424	233,288	866,102	1,216,575	1,425,542	1,721,202	1,145,484	302,231
+3b.  Average Period of Eligibility	CN	0.84	0.47	0.88	0.88	0.88	0.89	0.86	0.65
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.84	0.47	0.88	0.88	0.88	0.89	0.86	0.65
+4.  Expected Number of Screenings per Eligible	CN		2.35	1.76	0.88	0.44	0.53	0.43	0.33
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		2.35	1.76	0.88	0.44	0.53	0.43	0.33
+5.  Expected Number of Screenings	CN	549,101	97,527	145,063	101,225	59,092	85,675	47,761	12,758
+	MN	0	0	0	0	0	0	0	0
+	Total	549,101	97,527	145,063	101,225	59,092	85,675	47,761	12,758
+6.  Total Screens Received	CN	590,699	145,523	174,697	97,995	47,979	59,997	47,379	17,129
+	MN	0	0	0	0	0	0	0	0
+	Total	590,699	145,523	174,697	97,995	47,979	59,997	47,379	17,129
+7.  Screening Ratio	CN	1.00	1.00	1.00	0.97	0.81	0.70	0.99	1.00
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	1.00	1.00	1.00	0.97	0.81	0.70	0.99	1.00
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	430,434	41,501	82,422	101,225	59,092	85,675	47,761	12,758
+	MN	0	0	0	0	0	0	0	0
+	Total	430,434	41,501	82,422	101,225	59,092	85,675	47,761	12,758
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	269,259	37,008	60,735	58,526	33,050	41,615	29,308	9,017
+	MN	0	0	0	0	0	0	0	0
+	Total	269,259	37,008	60,735	58,526	33,050	41,615	29,308	9,017
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Missouri
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.63	0.89	0.74	0.58	0.56	0.49	0.61	0.71
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.63	0.89	0.74	0.58	0.56	0.49	0.61	0.71
+11. Total Eligibles Referred for Corrective Treatment	CN	168,644	24,008	43,608	33,926	18,877	22,480	18,514	7,231
+	MN	0	0	0	0	0	0	0	0
+	Total	168,644	24,008	43,608	33,926	18,877	22,480	18,514	7,231
+12a.  Total Eligibles Receiving Any Dental Services	CN	148,743	39	2,128	27,625	42,268	46,816	25,285	4,582
+	MN	0	0	0	0	0	0	0	0
+	Total	148,743	39	2,128	27,625	42,268	46,816	25,285	4,582
+12b. Total Eligibles Receiving Preventive Dental Services	CN	125,708	7	1,294	22,865	37,577	40,978	19,976	3,011
+	MN	0	0	0	0	0	0	0	0
+	Total	125,708	7	1,294	22,865	37,577	40,978	19,976	3,011
+12c. Total Eligibles Receiving Dental Treatment Services	CN	88,189	22	1,032	14,406	24,914	27,405	17,125	3,285
+	MN	0	0	0	0	0	0	0	0
+	Total	88,189	22	1,032	14,406	24,914	27,405	17,125	3,285
+13.  Total Eligibles Enrolled in Managed Care	CN	405,292	23,891	49,604	69,050	80,604	98,072	64,617	19,454
+	MN	0	0	0	0	0	0	0	0
+	Total	405,292	23,891	49,604	69,050	80,604	98,072	64,617	19,454
+14.  Total Number of Screening Blood Lead Tests	CN	60,715	856	33,428	26,431				
+	MN	0	0	0	0				
+	Total	60,715	856	33,428	26,431				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Montana
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	64,631	5,158	9,673	11,882	11,885	13,219	9,388	3,426
+	MN	482	15	27	64	84	141	134	17
+	Total	65,113	5,173	9,700	11,946	11,969	13,360	9,522	3,443
+2a.  State Periodicity Schedule	CN		5	4	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	2.00	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	587,096	30,029	93,202	114,834	112,992	125,586	85,325	25,128
+	MN	3,797	60	214	581	658	1,059	1,116	109
+	Total	590,893	30,089	93,416	115,415	113,650	126,645	86,441	25,237
+3b.  Average Period of Eligibility	CN	0.76	0.49	0.80	0.81	0.79	0.79	0.76	0.61
+	MN	0.66	0.33	0.66	0.76	0.65	0.63	0.69	0.53
+	Total	0.76	0.48	0.80	0.81	0.79	0.79	0.76	0.61
+4.  Expected Number of Screenings per Eligible	CN		2.45	1.60	0.81	0.40	0.47	0.38	0.31
+	MN		1.65	1.32	0.76	0.33	0.38	0.35	0.27
+	Total		2.40	1.60	0.81	0.40	0.47	0.38	0.31
+5.  Expected Number of Screenings	CN	53,334	12,637	15,477	9,624	4,754	6,213	3,567	1,062
+	MN	244	25	36	49	28	54	47	5
+	Total	53,578	12,662	15,513	9,673	4,782	6,267	3,614	1,067
+6.  Total Screens Received	CN	47,541	16,469	16,003	6,581	2,210	3,704	2,271	303
+	MN	118	8	9	26	14	18	42	1
+	Total	47,659	16,477	16,012	6,607	2,224	3,722	2,313	304
+7.  Screening Ratio	CN	0.89	1.00	1.00	0.68	0.46	0.60	0.64	0.29
+	MN	0.48	0.32	0.25	0.53	0.50	0.33	0.89	0.20
+	Total	0.89	1.00	1.00	0.68	0.47	0.59	0.64	0.28
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	40,051	5,158	9,673	9,624	4,754	6,213	3,567	1,062
+	MN	225	15	27	49	28	54	47	5
+	Total	40,276	5,173	9,700	9,673	4,782	6,267	3,614	1,067
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	21,778	4,357	6,114	4,727	1,702	2,923	1,729	226
+	MN	67	2	3	12	8	14	27	1
+	Total	21,845	4,359	6,117	4,739	1,710	2,937	1,756	227
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Montana
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.54	0.84	0.63	0.49	0.36	0.47	0.48	0.21
+	MN	0.30	0.13	0.11	0.24	0.29	0.26	0.57	0.20
+	Total	0.54	0.84	0.63	0.49	0.36	0.47	0.49	0.21
+11. Total Eligibles Referred for Corrective Treatment	CN	22,865	4,226	6,379	5,050	1,869	3,108	1,991	242
+	MN	96	0	9	20	14	22	30	1
+	Total	22,961	4,226	6,388	5,070	1,883	3,130	2,021	243
+12a.  Total Eligibles Receiving Any Dental Services	CN	14,607	5	469	3,352	3,916	4,014	2,387	464
+	MN	100	0	0	12	15	30	41	2
+	Total	14,707	5	469	3,364	3,931	4,044	2,428	466
+12b. Total Eligibles Receiving Preventive Dental Services	CN	12,010	0	227	2,586	3,468	3,547	1,908	274
+	MN	86	0	0	10	10	29	37	0
+	Total	12,096	0	227	2,596	3,478	3,576	1,945	274
+12c. Total Eligibles Receiving Dental Treatment Services	CN	7,997	2	151	1,647	2,333	2,129	1,438	297
+	MN	56	0	0	7	10	14	23	2
+	Total	8,053	2	151	1,654	2,343	2,143	1,461	299
+13.  Total Eligibles Enrolled in Managed Care	CN	57,411	3,593	9,258	11,082	10,766	11,642	8,102	2,968
+	MN	288	4	18	45	51	72	90	8
+	Total	57,699	3,597	9,276	11,127	10,817	11,714	8,192	2,976
+14.  Total Number of Screening Blood Lead Tests	CN	256	13	137	106				
+	MN	1	0	0	1				
+	Total	257	13	137	107				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Nebraska
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	156,650	12,591	23,369	27,975	30,262	33,280	22,813	6,360
+	MN	375	27	26	40	39	55	111	77
+	Total	157,025	12,618	23,395	28,015	30,301	33,335	22,924	6,437
+2a.  State Periodicity Schedule	CN		6	4	3	2	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	0.50	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	1,446,580	75,477	224,292	269,707	292,948	323,945	216,374	43,837
+	MN	3,080	128	230	383	351	476	1,012	500
+	Total	1,449,660	75,605	224,522	270,090	293,299	324,421	217,386	44,337
+3b.  Average Period of Eligibility	CN	0.77	0.50	0.80	0.80	0.81	0.81	0.79	0.57
+	MN	0.68	0.40	0.74	0.80	0.75	0.72	0.76	0.54
+	Total	0.77	0.50	0.80	0.80	0.81	0.81	0.79	0.57
+4.  Expected Number of Screenings per Eligible	CN		3.00	1.60	0.80	0.41	0.81	0.79	0.57
+	MN		2.40	1.48	0.80	0.38	0.72	0.76	0.54
+	Total		3.00	1.60	0.80	0.41	0.81	0.79	0.57
+5.  Expected Number of Screenings	CN	158,554	37,773	37,390	22,380	12,407	26,957	18,022	3,625
+	MN	316	65	38	32	15	40	84	42
+	Total	158,870	37,838	37,428	22,412	12,422	26,997	18,106	3,667
+6.  Total Screens Received	CN	121,677	42,263	38,694	15,276	5,130	11,339	7,843	1,132
+	MN	40	36	0	3	0	0	0	1
+	Total	121,717	42,299	38,694	15,279	5,130	11,339	7,843	1,133
+7.  Screening Ratio	CN	0.77	1.00	1.00	0.68	0.41	0.42	0.44	0.31
+	MN	0.13	0.55	0.00	0.09	0.00	0.00	0.00	0.02
+	Total	0.77	1.00	1.00	0.68	0.41	0.42	0.43	0.31
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	119,351	12,591	23,369	22,380	12,407	26,957	18,022	3,625
+	MN	266	27	26	32	15	40	84	42
+	Total	119,617	12,618	23,395	22,412	12,422	26,997	18,106	3,667
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	62,267	11,505	16,449	12,614	4,510	9,863	6,404	922
+	MN	15	7	0	1	0	2	0	5
+	Total	62,282	11,512	16,449	12,615	4,510	9,865	6,404	927
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Nebraska
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.52	0.91	0.70	0.56	0.36	0.37	0.36	0.25
+	MN	0.06	0.26	0.00	0.03	0.00	0.05	0.00	0.12
+	Total	0.52	0.91	0.70	0.56	0.36	0.37	0.35	0.25
+11. Total Eligibles Referred for Corrective Treatment	CN	434	70	102	84	40	67	62	9
+	MN	0	0	0	0	0	0	0	0
+	Total	434	70	102	84	40	67	62	9
+12a.  Total Eligibles Receiving Any Dental Services	CN	67,141	893	2,117	13,377	18,380	19,188	10,995	2,191
+	MN	10	0	1	2	1	2	4	0
+	Total	67,151	893	2,118	13,379	18,381	19,190	10,999	2,191
+12b. Total Eligibles Receiving Preventive Dental Services	CN	59,157	470	1,411	11,846	16,920	17,538	9,399	1,573
+	MN	8	0	0	2	1	2	3	0
+	Total	59,165	470	1,411	11,848	16,921	17,540	9,402	1,573
+12c. Total Eligibles Receiving Dental Treatment Services	CN	34,183	636	513	5,224	10,331	9,723	6,335	1,421
+	MN	9	0	1	2	0	2	4	0
+	Total	34,192	636	514	5,226	10,331	9,725	6,339	1,421
+13.  Total Eligibles Enrolled in Managed Care	CN	39,353	3,362	6,161	6,977	7,673	8,256	5,388	1,536
+	MN	0	0	0	0	0	0	0	0
+	Total	39,353	3,362	6,161	6,977	7,673	8,256	5,388	1,536
+14.  Total Number of Screening Blood Lead Tests	CN	6,203	92	3,809	2,302				
+	MN	0	0	0	0				
+	Total	6,203	92	3,809	2,302				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Nevada
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	150,620	13,838	24,778	27,631	29,397	31,239	18,586	5,151
+	MN	0	0	0	0	0	0	0	0
+	Total	150,620	13,838	24,778	27,631	29,397	31,239	18,586	5,151
+2a.  State Periodicity Schedule	CN		5	4	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	2.00	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	1,218,959	76,180	204,238	231,112	247,809	267,538	156,070	36,012
+	MN	0	0	0	0	0	0	0	0
+	Total	1,218,959	76,180	204,238	231,112	247,809	267,538	156,070	36,012
+3b.  Average Period of Eligibility	CN	0.67	0.46	0.69	0.70	0.70	0.71	0.70	0.58
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.67	0.46	0.69	0.70	0.70	0.71	0.70	0.58
+4.  Expected Number of Screenings per Eligible	CN		2.30	1.38	0.70	0.35	0.43	0.35	0.29
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		2.30	1.38	0.70	0.35	0.43	0.35	0.29
+5.  Expected Number of Screenings	CN	117,084	31,827	34,194	19,342	10,289	13,433	6,505	1,494
+	MN	0	0	0	0	0	0	0	0
+	Total	117,084	31,827	34,194	19,342	10,289	13,433	6,505	1,494
+6.  Total Screens Received	CN	74,664	20,056	32,156	10,460	4,981	4,720	2,043	248
+	MN	0	0	0	0	0	0	0	0
+	Total	74,664	20,056	32,156	10,460	4,981	4,720	2,043	248
+7.  Screening Ratio	CN	0.64	0.63	0.94	0.54	0.48	0.35	0.31	0.17
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.64	0.63	0.94	0.54	0.48	0.35	0.31	0.17
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	89,679	13,838	24,778	19,342	10,289	13,433	6,505	1,494
+	MN	0	0	0	0	0	0	0	0
+	Total	89,679	13,838	24,778	19,342	10,289	13,433	6,505	1,494
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	34,475	8,406	11,714	6,190	3,462	3,135	1,380	188
+	MN	0	0	0	0	0	0	0	0
+	Total	34,475	8,406	11,714	6,190	3,462	3,135	1,380	188
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Nevada
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.38	0.61	0.47	0.32	0.34	0.23	0.21	0.13
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.38	0.61	0.47	0.32	0.34	0.23	0.21	0.13
+11. Total Eligibles Referred for Corrective Treatment	CN	895	87	201	190	174	166	72	5
+	MN	0	0	0	0	0	0	0	0
+	Total	895	87	201	190	174	166	72	5
+12a.  Total Eligibles Receiving Any Dental Services	CN	18,656	42	1,131	3,549	5,418	5,359	2,745	412
+	MN	0	0	0	0	0	0	0	0
+	Total	18,656	42	1,131	3,549	5,418	5,359	2,745	412
+12b. Total Eligibles Receiving Preventive Dental Services	CN	14,449	32	818	2,669	4,400	4,371	1,977	182
+	MN	0	0	0	0	0	0	0	0
+	Total	14,449	32	818	2,669	4,400	4,371	1,977	182
+12c. Total Eligibles Receiving Dental Treatment Services	CN	3,507	7	66	475	1,018	1,048	713	180
+	MN	0	0	0	0	0	0	0	0
+	Total	3,507	7	66	475	1,018	1,048	713	180
+13.  Total Eligibles Enrolled in Managed Care	CN	111,600	10,167	20,244	21,363	21,849	21,914	11,980	4,083
+	MN	0	0	0	0	0	0	0	0
+	Total	111,600	10,167	20,244	21,363	21,849	21,914	11,980	4,083
+14.  Total Number of Screening Blood Lead Tests	CN	296	10	165	121				
+	MN	0	0	0	0				
+	Total	296	10	165	121				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: New Hampshire
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	84,001	5,134	10,015	13,670	16,906	20,237	13,838	4,201
+	MN	3,470	138	306	573	715	867	637	234
+	Total	87,471	5,272	10,321	14,243	17,621	21,104	14,475	4,435
+2a.  State Periodicity Schedule	CN		6	4	3	2	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	0.50	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	769,805	29,770	94,787	129,992	162,247	195,707	129,556	27,746
+	MN	15,367	349	1,124	2,470	3,243	4,116	3,146	919
+	Total	785,172	30,119	95,911	132,462	165,490	199,823	132,702	28,665
+3b.  Average Period of Eligibility	CN	0.76	0.48	0.79	0.79	0.80	0.81	0.78	0.55
+	MN	0.37	0.21	0.31	0.36	0.38	0.40	0.41	0.33
+	Total	0.75	0.48	0.77	0.78	0.78	0.79	0.76	0.54
+4.  Expected Number of Screenings per Eligible	CN		2.88	1.58	0.79	0.40	0.81	0.78	0.55
+	MN		1.26	0.62	0.36	0.19	0.40	0.41	0.33
+	Total		2.88	1.54	0.78	0.39	0.79	0.76	0.54
+5.  Expected Number of Screenings	CN	77,668	14,786	15,824	10,799	6,762	16,392	10,794	2,311
+	MN	1,391	174	190	206	136	347	261	77
+	Total	79,059	14,960	16,014	11,005	6,898	16,739	11,055	2,388
+6.  Total Screens Received	CN	47,599	11,871	13,119	6,178	5,391	6,520	3,744	776
+	MN	746	164	125	130	127	117	67	16
+	Total	48,345	12,035	13,244	6,308	5,518	6,637	3,811	792
+7.  Screening Ratio	CN	0.61	0.80	0.83	0.57	0.80	0.40	0.35	0.34
+	MN	0.54	0.94	0.66	0.63	0.93	0.34	0.26	0.21
+	Total	0.61	0.80	0.83	0.57	0.80	0.40	0.34	0.33
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	62,207	5,134	10,015	10,799	6,762	16,392	10,794	2,311
+	MN	1,355	138	190	206	136	347	261	77
+	Total	63,562	5,272	10,205	11,005	6,898	16,739	11,055	2,388
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	36,538	4,319	7,131	7,047	6,048	7,236	4,025	732
+	MN	696	96	103	141	136	126	81	13
+	Total	37,234	4,415	7,234	7,188	6,184	7,362	4,106	745
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: New Hampshire
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.59	0.84	0.71	0.65	0.89	0.44	0.37	0.32
+	MN	0.51	0.70	0.54	0.68	1.00	0.36	0.31	0.17
+	Total	0.59	0.84	0.71	0.65	0.90	0.44	0.37	0.31
+11. Total Eligibles Referred for Corrective Treatment	CN	0	0	0	0	0	0	0	0
+	MN	0	0	0	0	0	0	0	0
+	Total	0	0	0	0	0	0	0	0
+12a.  Total Eligibles Receiving Any Dental Services	CN	29,860	5	440	4,853	8,129	9,722	5,787	924
+	MN	765	0	7	106	204	266	144	38
+	Total	30,625	5	447	4,959	8,333	9,988	5,931	962
+12b. Total Eligibles Receiving Preventive Dental Services	CN	26,494	1	264	4,338	7,564	8,812	4,882	633
+	MN	589	0	2	94	173	199	99	22
+	Total	27,083	1	266	4,432	7,737	9,011	4,981	655
+12c. Total Eligibles Receiving Dental Treatment Services	CN	14,364	2	93	1,467	3,871	4,923	3,419	589
+	MN	346	0	1	25	76	133	86	25
+	Total	14,710	2	94	1,492	3,947	5,056	3,505	614
+13.  Total Eligibles Enrolled in Managed Care	CN	0	0	0	0	0	0	0	0
+	MN	0	0	0	0	0	0	0	0
+	Total	0	0	0	0	0	0	0	0
+14.  Total Number of Screening Blood Lead Tests	CN	4,137	122	3,230	785				
+	MN	44	3	33	8				
+	Total	4,181	125	3,263	793				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: New Jersey
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	534,765	37,646	79,207	95,426	104,287	119,594	76,968	21,637
+	MN	0	0	0	0	0	0	0	0
+	Total	534,765	37,646	79,207	95,426	104,287	119,594	76,968	21,637
+2a.  State Periodicity Schedule	CN		6	4	3	4	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	1.00	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	5,493,925	219,443	825,418	1,017,332	1,122,303	1,290,507	818,422	200,500
+	MN	0	0	0	0	0	0	0	0
+	Total	5,493,925	219,443	825,418	1,017,332	1,122,303	1,290,507	818,422	200,500
+3b.  Average Period of Eligibility	CN	0.86	0.49	0.87	0.89	0.90	0.90	0.89	0.77
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.86	0.49	0.87	0.89	0.90	0.90	0.89	0.77
+4.  Expected Number of Screenings per Eligible	CN		2.94	1.74	0.89	0.90	0.90	0.89	0.77
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		2.94	1.74	0.89	0.90	0.90	0.89	0.77
+5.  Expected Number of Screenings	CN	620,083	110,679	137,820	84,929	93,858	107,635	68,502	16,660
+	MN	0	0	0	0	0	0	0	0
+	Total	620,083	110,679	137,820	84,929	93,858	107,635	68,502	16,660
+6.  Total Screens Received	CN	472,510	103,753	143,191	75,705	47,249	55,379	39,945	7,288
+	MN	0	0	0	0	0	0	0	0
+	Total	472,510	103,753	143,191	75,705	47,249	55,379	39,945	7,288
+7.  Screening Ratio	CN	0.76	0.94	1.00	0.89	0.50	0.51	0.58	0.44
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.76	0.94	1.00	0.89	0.50	0.51	0.58	0.44
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	488,437	37,646	79,207	84,929	93,858	107,635	68,502	16,660
+	MN	0	0	0	0	0	0	0	0
+	Total	488,437	37,646	79,207	84,929	93,858	107,635	68,502	16,660
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	264,012	35,668	57,449	53,516	38,640	44,459	29,353	4,927
+	MN	0	0	0	0	0	0	0	0
+	Total	264,012	35,668	57,449	53,516	38,640	44,459	29,353	4,927
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: New Jersey
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.54	0.95	0.73	0.63	0.41	0.41	0.43	0.30
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.54	0.95	0.73	0.63	0.41	0.41	0.43	0.30
+11. Total Eligibles Referred for Corrective Treatment	CN	12,066	358	4,126	4,264	1,976	942	381	19
+	MN	0	0	0	0	0	0	0	0
+	Total	12,066	358	4,126	4,264	1,976	942	381	19
+12a.  Total Eligibles Receiving Any Dental Services	CN	116,993	66	2,888	20,801	31,823	35,866	21,302	4,247
+	MN	0	0	0	0	0	0	0	0
+	Total	116,993	66	2,888	20,801	31,823	35,866	21,302	4,247
+12b. Total Eligibles Receiving Preventive Dental Services	CN	81,470	23	1,915	15,946	24,471	25,170	11,868	2,077
+	MN	0	0	0	0	0	0	0	0
+	Total	81,470	23	1,915	15,946	24,471	25,170	11,868	2,077
+12c. Total Eligibles Receiving Dental Treatment Services	CN	68,284	17	1,090	9,812	17,789	21,990	14,566	3,020
+	MN	0	0	0	0	0	0	0	0
+	Total	68,284	17	1,090	9,812	17,789	21,990	14,566	3,020
+13.  Total Eligibles Enrolled in Managed Care	CN	484,488	30,818	74,760	89,345	96,097	108,098	67,210	18,160
+	MN	0	0	0	0	0	0	0	0
+	Total	484,488	30,818	74,760	89,345	96,097	108,098	67,210	18,160
+14.  Total Number of Screening Blood Lead Tests	CN	70,300	2,202	35,635	32,463				
+	MN	0	0	0	0				
+	Total	70,300	2,202	35,635	32,463				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: New Mexico
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	329,214	20,340	41,389	55,636	64,424	76,931	53,923	16,571
+	MN	0	0	0	0	0	0	0	0
+	Total	329,214	20,340	41,389	55,636	64,424	76,931	53,923	16,571
+2a.  State Periodicity Schedule	CN		6	4	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	3,254,123	124,246	420,365	572,785	665,662	797,625	542,668	130,772
+	MN	0	0	0	0	0	0	0	0
+	Total	3,254,123	124,246	420,365	572,785	665,662	797,625	542,668	130,772
+3b.  Average Period of Eligibility	CN	0.82	0.51	0.85	0.86	0.86	0.86	0.84	0.66
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.82	0.51	0.85	0.86	0.86	0.86	0.84	0.66
+4.  Expected Number of Screenings per Eligible	CN		3.06	1.70	0.86	0.43	0.52	0.42	0.33
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		3.06	1.70	0.86	0.43	0.52	0.42	0.33
+5.  Expected Number of Screenings	CN	276,270	62,240	70,361	47,847	27,702	40,004	22,648	5,468
+	MN	0	0	0	0	0	0	0	0
+	Total	276,270	62,240	70,361	47,847	27,702	40,004	22,648	5,468
+6.  Total Screens Received	CN	181,880	51,491	59,438	26,258	13,817	18,828	10,644	1,404
+	MN	0	0	0	0	0	0	0	0
+	Total	181,880	51,491	59,438	26,258	13,817	18,828	10,644	1,404
+7.  Screening Ratio	CN	0.66	0.83	0.84	0.55	0.50	0.47	0.47	0.26
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.66	0.83	0.84	0.55	0.50	0.47	0.47	0.26
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	205,398	20,340	41,389	47,847	27,702	40,004	22,648	5,468
+	MN	0	0	0	0	0	0	0	0
+	Total	205,398	20,340	41,389	47,847	27,702	40,004	22,648	5,468
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	101,553	16,192	26,178	21,391	11,854	15,903	8,816	1,219
+	MN	0	0	0	0	0	0	0	0
+	Total	101,553	16,192	26,178	21,391	11,854	15,903	8,816	1,219
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: New Mexico
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.49	0.80	0.63	0.45	0.43	0.40	0.39	0.22
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.49	0.80	0.63	0.45	0.43	0.40	0.39	0.22
+11. Total Eligibles Referred for Corrective Treatment	CN	257	28	137	30	14	28	18	2
+	MN	0	0	0	0	0	0	0	0
+	Total	257	28	137	30	14	28	18	2
+12a.  Total Eligibles Receiving Any Dental Services	CN	124,660	78	5,025	24,651	35,126	38,190	18,977	2,613
+	MN	0	0	0	0	0	0	0	0
+	Total	124,660	78	5,025	24,651	35,126	38,190	18,977	2,613
+12b. Total Eligibles Receiving Preventive Dental Services	CN	117,957	54	4,786	23,614	33,852	36,319	17,209	2,123
+	MN	0	0	0	0	0	0	0	0
+	Total	117,957	54	4,786	23,614	33,852	36,319	17,209	2,123
+12c. Total Eligibles Receiving Dental Treatment Services	CN	64,215	28	1,494	11,803	18,769	19,431	10,988	1,702
+	MN	0	0	0	0	0	0	0	0
+	Total	64,215	28	1,494	11,803	18,769	19,431	10,988	1,702
+13.  Total Eligibles Enrolled in Managed Care	CN	267,082	15,948	35,210	46,601	53,158	61,546	42,484	12,135
+	MN	0	0	0	0	0	0	0	0
+	Total	267,082	15,948	35,210	46,601	53,158	61,546	42,484	12,135
+14.  Total Number of Screening Blood Lead Tests	CN	3,459	85	2,078	1,296				
+	MN	0	0	0	0				
+	Total	3,459	85	2,078	1,296				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: New York
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	775,473	29,627	114,123	187,491	140,028	159,032	110,090	35,082
+	MN	1,337,846	114,833	168,107	145,356	246,864	309,427	232,514	120,745
+	Total	2,113,319	144,460	282,230	332,847	386,892	468,459	342,604	155,827
+2a.  State Periodicity Schedule	CN		6	3	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	1.50	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	8,095,721	214,598	1,159,245	1,931,457	1,497,662	1,742,000	1,189,710	361,049
+	MN	12,963,077	997,900	1,611,147	1,431,911	2,474,194	3,106,574	2,254,861	1,086,490
+	Total	21,058,798	1,212,498	2,770,392	3,363,368	3,971,856	4,848,574	3,444,571	1,447,539
+3b.  Average Period of Eligibility	CN	0.87	0.60	0.85	0.86	0.89	0.91	0.90	0.86
+	MN	0.81	0.72	0.80	0.82	0.84	0.84	0.81	0.75
+	Total	0.83	0.70	0.82	0.84	0.86	0.86	0.84	0.77
+4.  Expected Number of Screenings per Eligible	CN		3.60	1.28	0.86	0.45	0.55	0.45	0.43
+	MN		4.32	1.20	0.82	0.42	0.50	0.41	0.38
+	Total		4.20	1.23	0.84	0.43	0.52	0.42	0.39
+5.  Expected Number of Screenings	CN	629,083	106,657	146,077	161,242	63,013	87,468	49,541	15,085
+	MN	1,216,610	496,079	201,728	119,192	103,683	154,714	95,331	45,883
+	Total	1,845,693	602,736	347,805	280,434	166,696	242,182	144,872	60,968
+6.  Total Screens Received	CN	1,558,599	87,201	380,915	406,487	224,819	237,181	164,584	57,412
+	MN	2,508,551	427,485	563,123	300,101	364,111	412,009	290,356	151,366
+	Total	4,067,150	514,686	944,038	706,588	588,930	649,190	454,940	208,778
+7.  Screening Ratio	CN	1.00	0.82	1.00	1.00	1.00	1.00	1.00	1.00
+	MN	1.00	0.86	1.00	1.00	1.00	1.00	1.00	1.00
+	Total	1.00	0.85	1.00	1.00	1.00	1.00	1.00	1.00
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	520,099	29,627	114,123	161,242	63,013	87,468	49,541	15,085
+	MN	801,743	114,833	168,107	119,192	103,683	154,714	95,331	45,883
+	Total	1,321,842	144,460	282,230	280,434	166,696	242,182	144,872	60,968
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	473,894	19,718	82,339	125,942	81,001	89,445	57,981	17,468
+	MN	773,565	90,817	118,974	93,350	137,154	164,462	113,857	54,951
+	Total	1,247,459	110,535	201,313	219,292	218,155	253,907	171,838	72,419
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: New York
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.91	0.67	0.72	0.78	1.00	1.00	1.00	1.00
+	MN	0.96	0.79	0.71	0.78	1.00	1.00	1.00	1.00
+	Total	0.94	0.77	0.71	0.78	1.00	1.00	1.00	1.00
+11. Total Eligibles Referred for Corrective Treatment	CN	0	0	0	0	0	0	0	0
+	MN	0	0	0	0	0	0	0	0
+	Total	0	0	0	0	0	0	0	0
+12a.  Total Eligibles Receiving Any Dental Services	CN	197,720	28	5,357	49,784	47,499	54,052	31,978	9,022
+	MN	337,762	187	4,508	36,104	92,955	114,036	65,098	24,874
+	Total	535,482	215	9,865	85,888	140,454	168,088	97,076	33,896
+12b. Total Eligibles Receiving Preventive Dental Services	CN	121,930	3	2,796	32,247	31,724	32,958	17,426	4,776
+	MN	216,722	42	2,327	24,160	65,116	72,988	37,414	14,675
+	Total	338,652	45	5,123	56,407	96,840	105,946	54,840	19,451
+12c. Total Eligibles Receiving Dental Treatment Services	CN	77,286	3	915	13,101	17,558	24,433	16,584	4,692
+	MN	155,055	52	866	10,058	38,014	56,136	35,907	14,022
+	Total	232,341	55	1,781	23,159	55,572	80,569	52,491	18,714
+13.  Total Eligibles Enrolled in Managed Care	CN	547,717	18,952	87,037	145,734	104,426	107,810	65,017	18,741
+	MN	1,028,097	78,265	136,188	119,220	198,595	243,655	167,182	84,992
+	Total	1,575,814	97,217	223,225	264,954	303,021	351,465	232,199	103,733
+14.  Total Number of Screening Blood Lead Tests	CN	0	0	0	0				
+	MN	0	0	0	0				
+	Total	0	0	0	0				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: North Carolina
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	856,074	68,042	125,965	157,683	159,502	180,514	120,037	44,331
+	MN	2,676	125	122	209	338	571	628	683
+	Total	858,750	68,167	126,087	157,892	159,840	181,085	120,665	45,014
+2a.  State Periodicity Schedule	CN		4	4	3	1	2	1	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		4.00	2.00	1.00	0.25	0.40	0.25	0.50
+3a.  Total Months of Eligibility	CN	8,141,141	420,967	1,253,752	1,578,725	1,574,109	1,796,878	1,167,986	348,724
+	MN	14,343	565	729	1,278	1,877	3,321	3,404	3,169
+	Total	8,155,484	421,532	1,254,481	1,580,003	1,575,986	1,800,199	1,171,390	351,893
+3b.  Average Period of Eligibility	CN	0.79	0.52	0.83	0.83	0.82	0.83	0.81	0.66
+	MN	0.45	0.38	0.50	0.51	0.46	0.48	0.45	0.39
+	Total	0.79	0.52	0.83	0.83	0.82	0.83	0.81	0.65
+4.  Expected Number of Screenings per Eligible	CN		2.08	1.66	0.83	0.21	0.33	0.20	0.33
+	MN		1.52	1.00	0.51	0.12	0.19	0.11	0.20
+	Total		2.08	1.66	0.83	0.21	0.33	0.20	0.33
+5.  Expected Number of Screenings	CN	613,207	141,527	209,102	130,877	33,495	59,570	24,007	14,629
+	MN	774	190	122	107	41	108	69	137
+	Total	613,981	141,717	209,224	130,984	33,536	59,678	24,076	14,766
+6.  Total Screens Received	CN	620,881	323,343	121,975	80,522	33,083	41,098	18,827	2,033
+	MN	401	193	37	23	26	53	51	18
+	Total	621,282	323,536	122,012	80,545	33,109	41,151	18,878	2,051
+7.  Screening Ratio	CN	1.00	1.00	0.58	0.62	0.99	0.69	0.78	0.14
+	MN	0.52	1.00	0.30	0.21	0.63	0.49	0.74	0.13
+	Total	1.00	1.00	0.58	0.61	0.99	0.69	0.78	0.14
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	456,585	68,042	125,965	130,877	33,495	59,570	24,007	14,629
+	MN	709	125	122	107	41	108	69	137
+	Total	457,294	68,167	126,087	130,984	33,536	59,678	24,076	14,766
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	330,980	94,153	74,362	72,559	31,661	38,773	17,552	1,920
+	MN	315	129	30	21	25	48	45	17
+	Total	331,295	94,282	74,392	72,580	31,686	38,821	17,597	1,937
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: North Carolina
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.72	1.00	0.59	0.55	0.95	0.65	0.73	0.13
+	MN	0.44	1.00	0.25	0.20	0.61	0.44	0.65	0.12
+	Total	0.72	1.00	0.59	0.55	0.94	0.65	0.73	0.13
+11. Total Eligibles Referred for Corrective Treatment	CN	9,679	3,616	2,290	1,740	842	882	296	13
+	MN	2	0	0	1	1	0	0	0
+	Total	9,681	3,616	2,290	1,741	843	882	296	13
+12a.  Total Eligibles Receiving Any Dental Services	CN	299,331	13,256	37,075	58,941	68,859	74,277	37,716	9,207
+	MN	469	14	24	35	61	116	102	117
+	Total	299,800	13,270	37,099	58,976	68,920	74,393	37,818	9,324
+12b. Total Eligibles Receiving Preventive Dental Services	CN	261,693	12,884	34,911	52,547	62,616	65,253	28,314	5,168
+	MN	328	2	9	29	52	92	73	71
+	Total	262,021	12,886	34,920	52,576	62,668	65,345	28,387	5,239
+12c. Total Eligibles Receiving Dental Treatment Services	CN	141,875	74	3,995	27,855	38,561	40,438	24,397	6,555
+	MN	263	3	5	13	30	61	59	92
+	Total	142,138	77	4,000	27,868	38,591	40,499	24,456	6,647
+13.  Total Eligibles Enrolled in Managed Care	CN	756,573	51,421	117,304	145,727	145,350	161,336	102,119	33,316
+	MN	1,527	68	77	132	201	340	347	362
+	Total	758,100	51,489	117,381	145,859	145,551	161,676	102,466	33,678
+14.  Total Number of Screening Blood Lead Tests	CN	59,796	12,135	36,812	10,849				
+	MN	16	0	10	6				
+	Total	59,812	12,135	36,822	10,855				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: North Dakota
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	39,590	3,081	5,788	7,263	7,622	8,057	5,413	2,366
+	MN	4,303	64	238	447	873	1,158	946	577
+	Total	43,893	3,145	6,026	7,710	8,495	9,215	6,359	2,943
+2a.  State Periodicity Schedule	CN		5	4	3	4	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	2.00	1.00	1.00	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	334,856	15,575	51,588	66,585	67,763	71,221	44,870	17,254
+	MN	14,632	165	899	1,383	2,731	4,025	3,327	2,102
+	Total	349,488	15,740	52,487	67,968	70,494	75,246	48,197	19,356
+3b.  Average Period of Eligibility	CN	0.70	0.42	0.74	0.76	0.74	0.74	0.69	0.61
+	MN	0.28	0.21	0.31	0.26	0.26	0.29	0.29	0.30
+	Total	0.66	0.42	0.73	0.73	0.69	0.68	0.63	0.55
+4.  Expected Number of Screenings per Eligible	CN		2.10	1.48	0.76	0.74	0.74	0.69	0.61
+	MN		1.05	0.62	0.26	0.26	0.29	0.29	0.30
+	Total		2.10	1.46	0.73	0.69	0.68	0.63	0.55
+5.  Expected Number of Screenings	CN	37,336	6,470	8,566	5,520	5,640	5,962	3,735	1,443
+	MN	1,341	67	148	116	227	336	274	173
+	Total	38,677	6,537	8,714	5,636	5,867	6,298	4,009	1,616
+6.  Total Screens Received	CN	25,162	8,541	6,113	3,536	1,911	2,812	1,768	481
+	MN	485	99	99	53	41	91	94	8
+	Total	25,647	8,640	6,212	3,589	1,952	2,903	1,862	489
+7.  Screening Ratio	CN	0.67	1.00	0.71	0.64	0.34	0.47	0.47	0.33
+	MN	0.36	1.00	0.67	0.46	0.18	0.27	0.34	0.05
+	Total	0.66	1.00	0.71	0.64	0.33	0.46	0.46	0.30
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	31,169	3,081	5,788	5,520	5,640	5,962	3,735	1,443
+	MN	1,338	64	148	116	227	336	274	173
+	Total	32,507	3,145	5,936	5,636	5,867	6,298	4,009	1,616
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	13,192	2,420	2,802	2,671	1,604	2,094	1,245	356
+	MN	290	35	49	42	33	71	54	6
+	Total	13,482	2,455	2,851	2,713	1,637	2,165	1,299	362
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: North Dakota
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.42	0.79	0.48	0.48	0.28	0.35	0.33	0.25
+	MN	0.22	0.55	0.33	0.36	0.15	0.21	0.20	0.03
+	Total	0.41	0.78	0.48	0.48	0.28	0.34	0.32	0.22
+11. Total Eligibles Referred for Corrective Treatment	CN	16,190	2,260	2,549	2,812	2,849	3,245	1,947	528
+	MN	694	35	74	77	137	192	147	32
+	Total	16,884	2,295	2,623	2,889	2,986	3,437	2,094	560
+12a.  Total Eligibles Receiving Any Dental Services	CN	10,642	4	237	2,309	2,860	2,943	1,791	498
+	MN	395	0	4	48	86	124	103	30
+	Total	11,037	4	241	2,357	2,946	3,067	1,894	528
+12b. Total Eligibles Receiving Preventive Dental Services	CN	8,785	0	99	1,735	2,501	2,623	1,506	321
+	MN	340	0	1	40	81	117	87	14
+	Total	9,125	0	100	1,775	2,582	2,740	1,593	335
+12c. Total Eligibles Receiving Dental Treatment Services	CN	5,294	1	52	805	1,444	1,505	1,155	332
+	MN	219	0	2	13	54	62	73	15
+	Total	5,513	1	54	818	1,498	1,567	1,228	347
+13.  Total Eligibles Enrolled in Managed Care	CN	31,396	2,241	4,841	6,136	6,370	6,335	3,815	1,658
+	MN	3,167	31	138	327	695	902	682	392
+	Total	34,563	2,272	4,979	6,463	7,065	7,237	4,497	2,050
+14.  Total Number of Screening Blood Lead Tests	CN	976	40	677	259				
+	MN	14	0	11	3				
+	Total	990	40	688	262				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Ohio
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	1,154,022	72,592	143,191	196,375	228,657	268,113	178,798	66,296
+	MN	0	0	0	0	0	0	0	0
+	Total	1,154,022	72,592	143,191	196,375	228,657	268,113	178,798	66,296
+2a.  State Periodicity Schedule	CN		6	3	3	4	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	1.50	1.00	1.00	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	11,516,900	446,217	1,488,878	2,046,913	2,390,458	2,798,472	1,802,018	543,944
+	MN	0	0	0	0	0	0	0	0
+	Total	11,516,900	446,217	1,488,878	2,046,913	2,390,458	2,798,472	1,802,018	543,944
+3b.  Average Period of Eligibility	CN	0.83	0.51	0.87	0.87	0.87	0.87	0.84	0.68
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.83	0.51	0.87	0.87	0.87	0.87	0.84	0.68
+4.  Expected Number of Screenings per Eligible	CN		3.06	1.31	0.87	0.87	0.87	0.84	0.68
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		3.06	1.31	0.87	0.87	0.87	0.84	0.68
+5.  Expected Number of Screenings	CN	1,208,019	222,132	187,580	170,846	198,932	233,258	150,190	45,081
+	MN	0	0	0	0	0	0	0	0
+	Total	1,208,019	222,132	187,580	170,846	198,932	233,258	150,190	45,081
+6.  Total Screens Received	CN	793,233	197,116	247,621	130,029	71,447	91,170	50,947	4,903
+	MN	0	0	0	0	0	0	0	0
+	Total	793,233	197,116	247,621	130,029	71,447	91,170	50,947	4,903
+7.  Screening Ratio	CN	0.66	0.89	1.00	0.76	0.36	0.39	0.34	0.11
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.66	0.89	1.00	0.76	0.36	0.39	0.34	0.11
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	1,014,090	72,592	143,191	170,846	198,932	233,258	150,190	45,081
+	MN	0	0	0	0	0	0	0	0
+	Total	1,014,090	72,592	143,191	170,846	198,932	233,258	150,190	45,081
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	472,785	65,038	108,951	108,717	62,864	79,373	43,648	4,194
+	MN	0	0	0	0	0	0	0	0
+	Total	472,785	65,038	108,951	108,717	62,864	79,373	43,648	4,194
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Ohio
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.47	0.90	0.76	0.64	0.32	0.34	0.29	0.09
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.47	0.90	0.76	0.64	0.32	0.34	0.29	0.09
+11. Total Eligibles Referred for Corrective Treatment	CN	149,165	21,002	51,577	32,269	15,238	18,388	10,139	552
+	MN	0	0	0	0	0	0	0	0
+	Total	149,165	21,002	51,577	32,269	15,238	18,388	10,139	552
+12a.  Total Eligibles Receiving Any Dental Services	CN	377,907	148	6,708	76,587	104,328	111,417	62,084	16,635
+	MN	0	0	0	0	0	0	0	0
+	Total	377,907	148	6,708	76,587	104,328	111,417	62,084	16,635
+12b. Total Eligibles Receiving Preventive Dental Services	CN	320,797	16	4,001	65,464	93,184	98,203	49,119	10,810
+	MN	0	0	0	0	0	0	0	0
+	Total	320,797	16	4,001	65,464	93,184	98,203	49,119	10,810
+12c. Total Eligibles Receiving Dental Treatment Services	CN	159,414	50	1,089	21,219	45,104	48,774	33,243	9,935
+	MN	0	0	0	0	0	0	0	0
+	Total	159,414	50	1,089	21,219	45,104	48,774	33,243	9,935
+13.  Total Eligibles Enrolled in Managed Care	CN	493,599	29,407	63,900	87,517	99,899	115,473	71,787	25,616
+	MN	0	0	0	0	0	0	0	0
+	Total	493,599	29,407	63,900	87,517	99,899	115,473	71,787	25,616
+14.  Total Number of Screening Blood Lead Tests	CN	60,027	1,119	34,412	24,496				
+	MN	0	0	0	0				
+	Total	60,027	1,119	34,412	24,496				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Oklahoma
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	460,440	33,758	64,639	82,999	90,949	100,852	67,538	19,705
+	MN	0	0	0	0	0	0	0	0
+	Total	460,440	33,758	64,639	82,999	90,949	100,852	67,538	19,705
+2a.  State Periodicity Schedule	CN		5	4	3	2	2	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	2.00	1.00	0.50	0.40	0.50	0.50
+3a.  Total Months of Eligibility	CN	4,285,265	196,684	628,398	812,140	892,148	982,774	633,520	139,601
+	MN	0	0	0	0	0	0	0	0
+	Total	4,285,265	196,684	628,398	812,140	892,148	982,774	633,520	139,601
+3b.  Average Period of Eligibility	CN	0.78	0.49	0.81	0.82	0.82	0.81	0.78	0.59
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.78	0.49	0.81	0.82	0.82	0.81	0.78	0.59
+4.  Expected Number of Screenings per Eligible	CN		2.45	1.62	0.82	0.41	0.32	0.39	0.30
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		2.45	1.62	0.82	0.41	0.32	0.39	0.30
+5.  Expected Number of Screenings	CN	357,295	82,707	104,715	68,059	37,289	32,273	26,340	5,912
+	MN	0	0	0	0	0	0	0	0
+	Total	357,295	82,707	104,715	68,059	37,289	32,273	26,340	5,912
+6.  Total Screens Received	CN	215,341	74,113	68,461	30,009	15,520	18,078	8,287	873
+	MN	0	0	0	0	0	0	0	0
+	Total	215,341	74,113	68,461	30,009	15,520	18,078	8,287	873
+7.  Screening Ratio	CN	0.60	0.90	0.65	0.44	0.42	0.56	0.31	0.15
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.60	0.90	0.65	0.44	0.42	0.56	0.31	0.15
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	268,270	33,758	64,639	68,059	37,289	32,273	26,340	5,912
+	MN	0	0	0	0	0	0	0	0
+	Total	268,270	33,758	64,639	68,059	37,289	32,273	26,340	5,912
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	126,604	27,935	34,453	25,488	14,130	16,350	7,433	815
+	MN	0	0	0	0	0	0	0	0
+	Total	126,604	27,935	34,453	25,488	14,130	16,350	7,433	815
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Oklahoma
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.47	0.83	0.53	0.37	0.38	0.51	0.28	0.14
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.47	0.83	0.53	0.37	0.38	0.51	0.28	0.14
+11. Total Eligibles Referred for Corrective Treatment	CN	89,568	11,010	14,438	12,805	14,943	18,384	14,069	3,919
+	MN	0	0	0	0	0	0	0	0
+	Total	89,568	11,010	14,438	12,805	14,943	18,384	14,069	3,919
+12a.  Total Eligibles Receiving Any Dental Services	CN	122,025	27	3,173	24,073	35,008	36,284	20,431	3,029
+	MN	0	0	0	0	0	0	0	0
+	Total	122,025	27	3,173	24,073	35,008	36,284	20,431	3,029
+12b. Total Eligibles Receiving Preventive Dental Services	CN	108,627	12	2,092	20,631	32,412	33,578	17,635	2,267
+	MN	0	0	0	0	0	0	0	0
+	Total	108,627	12	2,092	20,631	32,412	33,578	17,635	2,267
+12c. Total Eligibles Receiving Dental Treatment Services	CN	50,955	3	780	9,593	16,523	12,442	9,885	1,729
+	MN	0	0	0	0	0	0	0	0
+	Total	50,955	3	780	9,593	16,523	12,442	9,885	1,729
+13.  Total Eligibles Enrolled in Managed Care	CN	408,147	25,719	60,557	75,430	81,432	89,340	58,516	17,153
+	MN	0	0	0	0	0	0	0	0
+	Total	408,147	25,719	60,557	75,430	81,432	89,340	58,516	17,153
+14.  Total Number of Screening Blood Lead Tests	CN	7,969	195	5,519	2,255				
+	MN	0	0	0	0				
+	Total	7,969	195	5,519	2,255				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Oregon
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	273,778	22,307	41,491	50,696	52,349	55,168	39,232	12,535
+	MN	0	0	0	0	0	0	0	0
+	Total	273,778	22,307	41,491	50,696	52,349	55,168	39,232	12,535
+2a.  State Periodicity Schedule	CN		5	3	3	2	2	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	1.50	1.00	0.50	0.40	0.50	0.50
+3a.  Total Months of Eligibility	CN	2,287,418	119,235	368,102	445,657	453,636	486,867	330,148	83,773
+	MN	0	0	0	0	0	0	0	0
+	Total	2,287,418	119,235	368,102	445,657	453,636	486,867	330,148	83,773
+3b.  Average Period of Eligibility	CN	0.70	0.45	0.74	0.73	0.72	0.74	0.70	0.56
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.70	0.45	0.74	0.73	0.72	0.74	0.70	0.56
+4.  Expected Number of Screenings per Eligible	CN		2.25	1.11	0.73	0.36	0.30	0.35	0.28
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		2.25	1.11	0.73	0.36	0.30	0.35	0.28
+5.  Expected Number of Screenings	CN	185,891	50,191	46,055	37,008	18,846	16,550	13,731	3,510
+	MN	0	0	0	0	0	0	0	0
+	Total	185,891	50,191	46,055	37,008	18,846	16,550	13,731	3,510
+6.  Total Screens Received	CN	154,894	52,999	57,470	20,576	8,930	9,991	4,538	390
+	MN	0	0	0	0	0	0	0	0
+	Total	154,894	52,999	57,470	20,576	8,930	9,991	4,538	390
+7.  Screening Ratio	CN	0.83	1.00	1.00	0.56	0.47	0.60	0.33	0.11
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.83	1.00	1.00	0.56	0.47	0.60	0.33	0.11
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	153,443	22,307	41,491	37,008	18,846	16,550	13,731	3,510
+	MN	0	0	0	0	0	0	0	0
+	Total	153,443	22,307	41,491	37,008	18,846	16,550	13,731	3,510
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	85,075	18,390	27,015	18,174	8,116	8,976	4,062	342
+	MN	0	0	0	0	0	0	0	0
+	Total	85,075	18,390	27,015	18,174	8,116	8,976	4,062	342
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Oregon
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.55	0.82	0.65	0.49	0.43	0.54	0.30	0.10
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.55	0.82	0.65	0.49	0.43	0.54	0.30	0.10
+11. Total Eligibles Referred for Corrective Treatment	CN	0	0	0	0	0	0	0	0
+	MN	0	0	0	0	0	0	0	0
+	Total	0	0	0	0	0	0	0	0
+12a.  Total Eligibles Receiving Any Dental Services	CN	75,884	42	3,085	15,870	21,010	20,236	12,721	2,920
+	MN	0	0	0	0	0	0	0	0
+	Total	75,884	42	3,085	15,870	21,010	20,236	12,721	2,920
+12b. Total Eligibles Receiving Preventive Dental Services	CN	58,526	21	2,142	12,467	17,137	16,233	8,967	1,559
+	MN	0	0	0	0	0	0	0	0
+	Total	58,526	21	2,142	12,467	17,137	16,233	8,967	1,559
+12c. Total Eligibles Receiving Dental Treatment Services	CN	39,120	9	622	6,935	11,776	10,386	7,601	1,791
+	MN	0	0	0	0	0	0	0	0
+	Total	39,120	9	622	6,935	11,776	10,386	7,601	1,791
+13.  Total Eligibles Enrolled in Managed Care	CN	225,142	18,298	35,949	42,685	43,285	44,430	30,573	9,922
+	MN	0	0	0	0	0	0	0	0
+	Total	225,142	18,298	35,949	42,685	43,285	44,430	30,573	9,922
+14.  Total Number of Screening Blood Lead Tests	CN	4,974	138	3,323	1,513				
+	MN	0	0	0	0				
+	Total	4,974	138	3,323	1,513				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Pennsylvania
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	971,766	54,096	119,115	156,823	181,629	226,214	160,886	73,003
+	MN	28,837	97	424	903	1,410	2,159	2,745	21,099
+	Total	1,000,603	54,193	119,539	157,726	183,039	228,373	163,631	94,102
+2a.  State Periodicity Schedule	CN		5	4	3	2	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	2.00	1.00	0.50	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	9,449,037	290,827	1,194,683	1,583,888	1,857,476	2,332,429	1,597,693	592,041
+	MN	209,422	476	3,985	8,115	12,983	19,494	20,150	144,219
+	Total	9,658,459	291,303	1,198,668	1,592,003	1,870,459	2,351,923	1,617,843	736,260
+3b.  Average Period of Eligibility	CN	0.81	0.45	0.84	0.84	0.85	0.86	0.83	0.68
+	MN	0.61	0.41	0.78	0.75	0.77	0.75	0.61	0.57
+	Total	0.80	0.45	0.84	0.84	0.85	0.86	0.82	0.65
+4.  Expected Number of Screenings per Eligible	CN		2.25	1.68	0.84	0.43	0.86	0.83	0.68
+	MN		2.05	1.56	0.75	0.39	0.75	0.61	0.57
+	Total		2.25	1.68	0.84	0.43	0.86	0.82	0.65
+5.  Expected Number of Screenings	CN	909,381	121,716	200,113	131,731	78,100	194,544	133,535	49,642
+	MN	17,406	199	661	677	550	1,619	1,674	12,026
+	Total	926,787	121,915	200,774	132,408	78,650	196,163	135,209	61,668
+6.  Total Screens Received	CN	626,077	150,163	186,266	81,787	63,391	79,238	52,956	12,276
+	MN	5,005	226	552	448	452	679	606	2,042
+	Total	631,082	150,389	186,818	82,235	63,843	79,917	53,562	14,318
+7.  Screening Ratio	CN	0.69	1.00	0.93	0.62	0.81	0.41	0.40	0.25
+	MN	0.29	1.00	0.84	0.66	0.82	0.42	0.36	0.17
+	Total	0.68	1.00	0.93	0.62	0.81	0.41	0.40	0.23
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	760,763	54,096	119,115	131,731	78,100	194,544	133,535	49,642
+	MN	17,067	97	424	677	550	1,619	1,674	12,026
+	Total	777,830	54,193	119,539	132,408	78,650	196,163	135,209	61,668
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	382,419	44,925	84,472	70,231	57,138	71,441	45,050	9,162
+	MN	4,050	69	268	363	405	612	526	1,807
+	Total	386,469	44,994	84,740	70,594	57,543	72,053	45,576	10,969
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Pennsylvania
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.50	0.83	0.71	0.53	0.73	0.37	0.34	0.18
+	MN	0.24	0.71	0.63	0.54	0.74	0.38	0.31	0.15
+	Total	0.50	0.83	0.71	0.53	0.73	0.37	0.34	0.18
+11. Total Eligibles Referred for Corrective Treatment	CN	34,176	10,228	5,682	4,036	4,103	5,436	4,058	633
+	MN	339	11	22	17	23	34	34	198
+	Total	34,515	10,239	5,704	4,053	4,126	5,470	4,092	831
+12a.  Total Eligibles Receiving Any Dental Services	CN	262,530	53	5,428	48,453	68,893	78,686	48,431	12,586
+	MN	5,391	0	29	249	480	606	517	3,510
+	Total	267,921	53	5,457	48,702	69,373	79,292	48,948	16,096
+12b. Total Eligibles Receiving Preventive Dental Services	CN	218,435	9	2,982	40,177	61,067	68,585	37,623	7,992
+	MN	3,749	0	22	197	420	522	376	2,212
+	Total	222,184	9	3,004	40,374	61,487	69,107	37,999	10,204
+12c. Total Eligibles Receiving Dental Treatment Services	CN	133,574	15	1,667	18,271	35,960	41,090	28,330	8,241
+	MN	3,376	0	7	105	273	327	322	2,342
+	Total	136,950	15	1,674	18,376	36,233	41,417	28,652	10,583
+13.  Total Eligibles Enrolled in Managed Care	CN	753,483	41,421	94,251	122,782	141,363	175,955	121,938	55,773
+	MN	19,861	82	359	748	1,137	1,675	1,941	13,919
+	Total	773,344	41,503	94,610	123,530	142,500	177,630	123,879	69,692
+14.  Total Number of Screening Blood Lead Tests	CN	97,498	12,892	61,321	23,285				
+	MN	357	57	175	125				
+	Total	97,855	12,949	61,496	23,410				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Rhode Island
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	112,286	6,338	12,828	17,870	22,266	28,036	19,278	5,670
+	MN	222	0	0	1	1	1	71	148
+	Total	112,508	6,338	12,828	17,871	22,267	28,037	19,349	5,818
+2a.  State Periodicity Schedule	CN		6	3	3	4	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	1.50	1.00	1.00	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	1,173,664	40,896	138,445	192,722	241,979	304,785	205,947	48,890
+	MN	1,191	0	0	1	3	1	359	827
+	Total	1,174,855	40,896	138,445	192,723	241,982	304,786	206,306	49,717
+3b.  Average Period of Eligibility	CN	0.87	0.54	0.90	0.90	0.91	0.91	0.89	0.72
+	MN	0.45	0.00	0.00	0.08	0.25	0.08	0.42	0.47
+	Total	0.87	0.54	0.90	0.90	0.91	0.91	0.89	0.71
+4.  Expected Number of Screenings per Eligible	CN		3.24	1.35	0.90	0.91	0.91	0.89	0.72
+	MN		0.00	0.00	0.08	0.25	0.08	0.42	0.47
+	Total		3.24	1.35	0.90	0.91	0.91	0.89	0.71
+5.  Expected Number of Screenings	CN	120,950	20,535	17,318	16,083	20,262	25,513	17,157	4,082
+	MN	100	0	0	0	0	0	30	70
+	Total	121,050	20,535	17,318	16,083	20,262	25,513	17,187	4,152
+6.  Total Screens Received	CN	84,875	19,577	23,528	10,457	10,340	12,749	7,125	1,099
+	MN	2	0	0	0	0	0	1	1
+	Total	84,877	19,577	23,528	10,457	10,340	12,749	7,126	1,100
+7.  Screening Ratio	CN	0.70	0.95	1.00	0.65	0.51	0.50	0.42	0.27
+	MN	0.02	0.00	0.00	0.00	0.00	0.00	0.03	0.01
+	Total	0.70	0.95	1.00	0.65	0.51	0.50	0.41	0.26
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	102,263	6,338	12,828	16,083	20,262	25,513	17,157	4,082
+	MN	100	0	0	0	0	0	30	70
+	Total	102,363	6,338	12,828	16,083	20,262	25,513	17,187	4,152
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	55,396	5,475	9,996	9,931	10,076	12,299	6,625	994
+	MN	2	0	0	0	0	0	1	1
+	Total	55,398	5,475	9,996	9,931	10,076	12,299	6,626	995
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Rhode Island
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.54	0.86	0.78	0.62	0.50	0.48	0.39	0.24
+	MN	0.02	0.00	0.00	0.00	0.00	0.00	0.03	0.01
+	Total	0.54	0.86	0.78	0.62	0.50	0.48	0.39	0.24
+11. Total Eligibles Referred for Corrective Treatment	CN	88,391	5,518	10,995	14,694	17,238	21,502	14,598	3,846
+	MN	185	0	0	0	0	0	58	127
+	Total	88,576	5,518	10,995	14,694	17,238	21,502	14,656	3,973
+12a.  Total Eligibles Receiving Any Dental Services	CN	39,124	3	150	5,221	11,358	13,706	7,378	1,308
+	MN	20	0	0	0	0	0	6	14
+	Total	39,144	3	150	5,221	11,358	13,706	7,384	1,322
+12b. Total Eligibles Receiving Preventive Dental Services	CN	31,755	0	73	4,048	9,723	11,392	5,652	867
+	MN	12	0	0	0	0	0	4	8
+	Total	31,767	0	73	4,048	9,723	11,392	5,656	875
+12c. Total Eligibles Receiving Dental Treatment Services	CN	18,163	2	43	1,262	4,585	7,014	4,437	820
+	MN	11	0	0	0	0	0	4	7
+	Total	18,174	2	43	1,262	4,585	7,014	4,441	827
+13.  Total Eligibles Enrolled in Managed Care	CN	103,630	6,062	12,424	16,755	20,422	25,356	17,491	5,120
+	MN	212	0	0	0	1	0	66	145
+	Total	103,842	6,062	12,424	16,755	20,423	25,356	17,557	5,265
+14.  Total Number of Screening Blood Lead Tests	CN	8,832	154	4,503	4,175				
+	MN	0	0	0	0				
+	Total	8,832	154	4,503	4,175				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: South Carolina
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	640,690	36,157	73,551	102,275	127,642	157,226	109,919	33,920
+	MN	0	0	0	0	0	0	0	0
+	Total	640,690	36,157	73,551	102,275	127,642	157,226	109,919	33,920
+2a.  State Periodicity Schedule	CN		6	3	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	1.50	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	6,772,109	272,826	808,312	1,118,605	1,393,587	1,712,332	1,183,719	282,728
+	MN	0	0	0	0	0	0	0	0
+	Total	6,772,109	272,826	808,312	1,118,605	1,393,587	1,712,332	1,183,719	282,728
+3b.  Average Period of Eligibility	CN	0.88	0.63	0.92	0.91	0.91	0.91	0.90	0.69
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.88	0.63	0.92	0.91	0.91	0.91	0.90	0.69
+4.  Expected Number of Screenings per Eligible	CN		3.78	1.38	0.91	0.46	0.55	0.45	0.35
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		3.78	1.38	0.91	0.46	0.55	0.45	0.35
+5.  Expected Number of Screenings	CN	537,768	136,673	101,500	93,070	58,715	86,474	49,464	11,872
+	MN	0	0	0	0	0	0	0	0
+	Total	537,768	136,673	101,500	93,070	58,715	86,474	49,464	11,872
+6.  Total Screens Received	CN	279,844	97,694	107,780	33,046	15,543	16,786	8,585	410
+	MN	0	0	0	0	0	0	0	0
+	Total	279,844	97,694	107,780	33,046	15,543	16,786	8,585	410
+7.  Screening Ratio	CN	0.52	0.71	1.00	0.36	0.26	0.19	0.17	0.03
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.52	0.71	1.00	0.36	0.26	0.19	0.17	0.03
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	409,303	36,157	73,551	93,070	58,715	86,474	49,464	11,872
+	MN	0	0	0	0	0	0	0	0
+	Total	409,303	36,157	73,551	93,070	58,715	86,474	49,464	11,872
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	134,710	25,351	43,206	28,840	14,085	15,212	7,663	353
+	MN	0	0	0	0	0	0	0	0
+	Total	134,710	25,351	43,206	28,840	14,085	15,212	7,663	353
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: South Carolina
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.33	0.70	0.59	0.31	0.24	0.18	0.15	0.03
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.33	0.70	0.59	0.31	0.24	0.18	0.15	0.03
+11. Total Eligibles Referred for Corrective Treatment	CN	162	1	27	33	44	35	21	1
+	MN	0	0	0	0	0	0	0	0
+	Total	162	1	27	33	44	35	21	1
+12a.  Total Eligibles Receiving Any Dental Services	CN	252,343	82	6,382	43,636	72,161	79,134	43,598	7,350
+	MN	0	0	0	0	0	0	0	0
+	Total	252,343	82	6,382	43,636	72,161	79,134	43,598	7,350
+12b. Total Eligibles Receiving Preventive Dental Services	CN	251,870	41	5,270	43,085	75,402	80,525	41,704	5,843
+	MN	0	0	0	0	0	0	0	0
+	Total	251,870	41	5,270	43,085	75,402	80,525	41,704	5,843
+12c. Total Eligibles Receiving Dental Treatment Services	CN	138,761	8	1,483	20,320	42,287	41,673	27,868	5,122
+	MN	0	0	0	0	0	0	0	0
+	Total	138,761	8	1,483	20,320	42,287	41,673	27,868	5,122
+13.  Total Eligibles Enrolled in Managed Care	CN	22,153	690	2,296	3,737	5,314	5,873	3,640	603
+	MN	0	0	0	0	0	0	0	0
+	Total	22,153	690	2,296	3,737	5,314	5,873	3,640	603
+14.  Total Number of Screening Blood Lead Tests	CN	19,714	241	13,630	5,843				
+	MN	0	0	0	0				
+	Total	19,714	241	13,630	5,843				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: South Dakota
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	83,268	5,753	11,224	14,181	16,157	18,514	13,383	4,056
+	MN	0	0	0	0	0	0	0	0
+	Total	83,268	5,753	11,224	14,181	16,157	18,514	13,383	4,056
+2a.  State Periodicity Schedule	CN		7	4	3	4	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		7.00	2.00	1.00	1.00	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	777,047	33,743	108,657	138,319	159,252	183,089	125,986	28,001
+	MN	0	0	0	0	0	0	0	0
+	Total	777,047	33,743	108,657	138,319	159,252	183,089	125,986	28,001
+3b.  Average Period of Eligibility	CN	0.78	0.49	0.81	0.81	0.82	0.82	0.78	0.58
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.78	0.49	0.81	0.81	0.82	0.82	0.78	0.58
+4.  Expected Number of Screenings per Eligible	CN		3.43	1.62	0.81	0.82	0.82	0.78	0.58
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		3.43	1.62	0.81	0.82	0.82	0.78	0.58
+5.  Expected Number of Screenings	CN	90,624	19,733	18,183	11,487	13,249	15,181	10,439	2,352
+	MN	0	0	0	0	0	0	0	0
+	Total	90,624	19,733	18,183	11,487	13,249	15,181	10,439	2,352
+6.  Total Screens Received	CN	48,660	14,570	14,332	6,313	3,445	4,975	4,025	1,000
+	MN	0	0	0	0	0	0	0	0
+	Total	48,660	14,570	14,332	6,313	3,445	4,975	4,025	1,000
+7.  Screening Ratio	CN	0.54	0.74	0.79	0.55	0.26	0.33	0.39	0.43
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.54	0.74	0.79	0.55	0.26	0.33	0.39	0.43
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	69,685	5,753	11,224	11,487	13,249	15,181	10,439	2,352
+	MN	0	0	0	0	0	0	0	0
+	Total	69,685	5,753	11,224	11,487	13,249	15,181	10,439	2,352
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	30,233	4,952	7,072	5,738	3,235	4,598	3,691	947
+	MN	0	0	0	0	0	0	0	0
+	Total	30,233	4,952	7,072	5,738	3,235	4,598	3,691	947
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: South Dakota
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.43	0.86	0.63	0.50	0.24	0.30	0.35	0.40
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.43	0.86	0.63	0.50	0.24	0.30	0.35	0.40
+11. Total Eligibles Referred for Corrective Treatment	CN	14,249	2,830	3,750	2,707	1,143	2,069	1,404	346
+	MN	0	0	0	0	0	0	0	0
+	Total	14,249	2,830	3,750	2,707	1,143	2,069	1,404	346
+12a.  Total Eligibles Receiving Any Dental Services	CN	25,641	17	680	5,084	7,179	7,544	4,267	870
+	MN	0	0	0	0	0	0	0	0
+	Total	25,641	17	680	5,084	7,179	7,544	4,267	870
+12b. Total Eligibles Receiving Preventive Dental Services	CN	22,019	15	571	4,368	6,401	6,611	3,438	615
+	MN	0	0	0	0	0	0	0	0
+	Total	22,019	15	571	4,368	6,401	6,611	3,438	615
+12c. Total Eligibles Receiving Dental Treatment Services	CN	7,208	0	55	997	2,137	2,204	1,462	353
+	MN	0	0	0	0	0	0	0	0
+	Total	7,208	0	55	997	2,137	2,204	1,462	353
+13.  Total Eligibles Enrolled in Managed Care	CN	53,411	4,447	7,607	9,895	11,033	12,234	7,106	1,089
+	MN	0	0	0	0	0	0	0	0
+	Total	53,411	4,447	7,607	9,895	11,033	12,234	7,106	1,089
+14.  Total Number of Screening Blood Lead Tests	CN	783	8	487	288				
+	MN	0	0	0	0				
+	Total	783	8	487	288				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Tennessee
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	616,978	47,528	81,585	107,159	114,470	132,758	93,273	40,205
+	MN	158,254	1,631	7,880	15,315	26,666	36,967	28,321	41,474
+	Total	775,232	49,159	89,465	122,474	141,136	169,725	121,594	81,679
+2a.  State Periodicity Schedule	CN		5	3	3	2	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	1.50	1.00	0.50	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	6,278,936	293,263	868,883	1,140,088	1,226,873	1,422,721	972,067	355,041
+	MN	1,413,557	9,652	62,110	142,526	247,340	359,666	278,651	313,612
+	Total	7,692,493	302,915	930,993	1,282,614	1,474,213	1,782,387	1,250,718	668,653
+3b.  Average Period of Eligibility	CN	0.85	0.51	0.89	0.89	0.89	0.89	0.87	0.74
+	MN	0.74	0.49	0.66	0.78	0.77	0.81	0.82	0.63
+	Total	0.83	0.51	0.87	0.87	0.87	0.88	0.86	0.68
+4.  Expected Number of Screenings per Eligible	CN		2.55	1.34	0.89	0.45	0.89	0.87	0.74
+	MN		2.45	0.99	0.78	0.39	0.81	0.82	0.63
+	Total		2.55	1.31	0.87	0.44	0.88	0.86	0.68
+5.  Expected Number of Screenings	CN	606,459	121,196	109,324	95,372	51,512	118,155	81,148	29,752
+	MN	113,438	3,996	7,801	11,946	10,400	29,943	23,223	26,129
+	Total	719,897	125,192	117,125	107,318	61,912	148,098	104,371	55,881
+6.  Total Screens Received	CN	468,469	107,551	147,171	78,770	42,929	51,907	31,151	8,990
+	MN	59,376	3,717	11,652	9,557	8,371	12,464	7,482	6,133
+	Total	527,845	111,268	158,823	88,327	51,300	64,371	38,633	15,123
+7.  Screening Ratio	CN	0.77	0.89	1.00	0.83	0.83	0.44	0.38	0.30
+	MN	0.52	0.93	1.00	0.80	0.80	0.42	0.32	0.23
+	Total	0.73	0.89	1.00	0.82	0.83	0.43	0.37	0.27
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	505,052	47,528	81,585	95,372	51,512	118,155	81,148	29,752
+	MN	111,073	1,631	7,801	11,946	10,400	29,943	23,223	26,129
+	Total	616,125	49,159	89,386	107,318	61,912	148,098	104,371	55,881
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	252,600	36,751	57,146	58,541	32,667	38,826	22,718	5,951
+	MN	39,991	1,365	5,079	7,433	6,502	9,531	5,715	4,366
+	Total	292,591	38,116	62,225	65,974	39,169	48,357	28,433	10,317
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Tennessee
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.50	0.77	0.70	0.61	0.63	0.33	0.28	0.20
+	MN	0.36	0.84	0.65	0.62	0.63	0.32	0.25	0.17
+	Total	0.47	0.78	0.70	0.61	0.63	0.33	0.27	0.18
+11. Total Eligibles Referred for Corrective Treatment	CN	209,845	24,390	35,433	30,223	32,048	43,869	32,049	11,833
+	MN	45,968	404	2,998	3,840	7,212	11,723	8,979	10,812
+	Total	255,813	24,794	38,431	34,063	39,260	55,592	41,028	22,645
+12a.  Total Eligibles Receiving Any Dental Services	CN	220,625	83	5,470	40,340	59,476	67,247	38,360	9,649
+	MN	60,108	1	531	5,237	13,087	18,015	11,366	11,871
+	Total	280,733	84	6,001	45,577	72,563	85,262	49,726	21,520
+12b. Total Eligibles Receiving Preventive Dental Services	CN	191,337	25	3,748	35,152	53,638	60,724	31,425	6,625
+	MN	50,335	1	310	4,520	11,926	16,027	9,146	8,405
+	Total	241,672	26	4,058	39,672	65,564	76,751	40,571	15,030
+12c. Total Eligibles Receiving Dental Treatment Services	CN	107,778	12	1,117	14,028	26,828	33,930	24,962	6,901
+	MN	35,201	1	142	1,975	6,464	10,056	7,759	8,804
+	Total	142,979	13	1,259	16,003	33,292	43,986	32,721	15,705
+13.  Total Eligibles Enrolled in Managed Care	CN	616,978	47,528	81,585	107,159	114,470	132,758	93,273	40,205
+	MN	158,254	1,631	7,880	15,315	26,666	36,967	28,321	41,474
+	Total	775,232	49,159	89,465	122,474	141,136	169,725	121,594	81,679
+14.  Total Number of Screening Blood Lead Tests	CN	38,108	979	22,265	14,864				
+	MN	3,486	27	1,941	1,518				
+	Total	41,594	1,006	24,206	16,382				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Texas
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	2,700,417	247,856	451,911	520,894	512,449	519,478	326,117	121,712
+	MN	12,156	557	235	270	494	714	1,881	8,005
+	Total	2,712,573	248,413	452,146	521,164	512,943	520,192	327,998	129,717
+2a.  State Periodicity Schedule	CN		6	4	3	2	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	0.50	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	23,992,475	1,516,879	4,338,346	5,000,582	4,735,029	4,799,977	2,856,785	744,877
+	MN	44,075	668	254	292	593	857	5,869	35,542
+	Total	24,036,550	1,517,547	4,338,600	5,000,874	4,735,622	4,800,834	2,862,654	780,419
+3b.  Average Period of Eligibility	CN	0.74	0.51	0.80	0.80	0.77	0.77	0.73	0.51
+	MN	0.30	0.10	0.09	0.09	0.10	0.10	0.26	0.37
+	Total	0.74	0.51	0.80	0.80	0.77	0.77	0.73	0.50
+4.  Expected Number of Screenings per Eligible	CN		3.06	1.60	0.80	0.39	0.77	0.73	0.51
+	MN		0.60	0.18	0.09	0.05	0.10	0.26	0.37
+	Total		3.06	1.60	0.80	0.39	0.77	0.73	0.50
+5.  Expected Number of Screenings	CN	2,798,203	758,439	723,058	416,715	199,855	399,998	238,065	62,073
+	MN	3,947	334	42	24	25	71	489	2,962
+	Total	2,802,150	758,773	723,100	416,739	199,880	400,069	238,554	65,035
+6.  Total Screens Received	CN	2,087,136	669,650	687,589	287,396	164,974	190,756	81,307	5,464
+	MN	611	289	2	0	1	1	45	273
+	Total	2,087,747	669,939	687,591	287,396	164,975	190,757	81,352	5,737
+7.  Screening Ratio	CN	0.75	0.88	0.95	0.69	0.83	0.48	0.34	0.09
+	MN	0.15	0.87	0.05	0.00	0.04	0.01	0.09	0.09
+	Total	0.75	0.88	0.95	0.69	0.83	0.48	0.34	0.09
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	2,016,473	247,856	451,911	416,715	199,855	399,998	238,065	62,073
+	MN	3,947	334	42	24	25	71	489	2,962
+	Total	2,020,420	248,190	451,953	416,739	199,880	400,069	238,554	65,035
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	1,253,109	244,883	335,363	256,309	156,492	178,228	76,570	5,264
+	MN	517	200	2	0	1	1	43	270
+	Total	1,253,626	245,083	335,365	256,309	156,493	178,229	76,613	5,534
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Texas
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.62	0.99	0.74	0.62	0.78	0.45	0.32	0.08
+	MN	0.13	0.60	0.05	0.00	0.04	0.01	0.09	0.09
+	Total	0.62	0.99	0.74	0.62	0.78	0.45	0.32	0.09
+11. Total Eligibles Referred for Corrective Treatment	CN	33,193	6,991	11,122	5,874	3,608	3,825	1,665	108
+	MN	6	5	0	0	0	1	0	0
+	Total	33,199	6,996	11,122	5,874	3,608	3,826	1,665	108
+12a.  Total Eligibles Receiving Any Dental Services	CN	1,141,056	156	135,299	270,077	287,351	277,109	140,658	30,406
+	MN	1,910	0	0	2	6	3	218	1,681
+	Total	1,142,966	156	135,299	270,079	287,357	277,112	140,876	32,087
+12b. Total Eligibles Receiving Preventive Dental Services	CN	998,177	7	111,878	243,030	267,438	247,179	108,900	19,745
+	MN	1,210	0	0	2	2	2	141	1,063
+	Total	999,387	7	111,878	243,032	267,440	247,181	109,041	20,808
+12c. Total Eligibles Receiving Dental Treatment Services	CN	590,806	99	13,246	112,613	169,740	172,317	100,641	22,150
+	MN	1,529	0	0	1	4	2	165	1,357
+	Total	592,335	99	13,246	112,614	169,744	172,319	100,806	23,507
+13.  Total Eligibles Enrolled in Managed Care	CN	1,538,873	137,570	282,420	309,067	291,518	284,195	172,541	61,562
+	MN	0	0	0	0	0	0	0	0
+	Total	1,538,873	137,570	282,420	309,067	291,518	284,195	172,541	61,562
+14.  Total Number of Screening Blood Lead Tests	CN	240,317	39,139	134,944	66,234				
+	MN	0	0	0	0				
+	Total	240,317	39,139	134,944	66,234				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Utah
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	170,831	31,444	30,391	34,120	26,796	24,863	16,869	6,348
+	MN	1,511	161	114	228	292	413	294	9
+	Total	172,342	31,605	30,505	34,348	27,088	25,276	17,163	6,357
+2a.  State Periodicity Schedule	CN		6	4	3	2	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	0.50	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	1,462,784	269,901	258,905	301,458	234,338	221,459	137,327	39,396
+	MN	8,432	830	725	1,351	1,566	2,198	1,683	79
+	Total	1,471,216	270,731	259,630	302,809	235,904	223,657	139,010	39,475
+3b.  Average Period of Eligibility	CN	0.71	0.72	0.71	0.74	0.73	0.74	0.68	0.52
+	MN	0.47	0.43	0.53	0.49	0.45	0.44	0.48	0.73
+	Total	0.71	0.71	0.71	0.73	0.73	0.74	0.67	0.52
+4.  Expected Number of Screenings per Eligible	CN		4.32	1.42	0.74	0.37	0.74	0.68	0.52
+	MN		2.58	1.06	0.49	0.23	0.44	0.48	0.73
+	Total		4.26	1.42	0.73	0.37	0.74	0.67	0.52
+5.  Expected Number of Screenings	CN	247,328	135,838	43,155	25,249	9,915	18,399	11,471	3,301
+	MN	1,045	415	121	112	67	182	141	7
+	Total	248,373	136,253	43,276	25,361	9,982	18,581	11,612	3,308
+6.  Total Screens Received	CN	137,245	85,432	26,916	14,434	4,005	4,014	2,311	133
+	MN	277	162	36	23	7	35	12	2
+	Total	137,522	85,594	26,952	14,457	4,012	4,049	2,323	135
+7.  Screening Ratio	CN	0.55	0.63	0.62	0.57	0.40	0.22	0.20	0.04
+	MN	0.27	0.39	0.30	0.21	0.10	0.19	0.09	0.29
+	Total	0.55	0.63	0.62	0.57	0.40	0.22	0.20	0.04
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	130,170	31,444	30,391	25,249	9,915	18,399	11,471	3,301
+	MN	784	161	114	112	67	182	141	7
+	Total	130,954	31,605	30,505	25,361	9,982	18,581	11,612	3,308
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	64,519	26,077	16,452	12,477	3,677	3,654	2,053	129
+	MN	146	51	23	22	7	30	11	2
+	Total	64,665	26,128	16,475	12,499	3,684	3,684	2,064	131
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Utah
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.50	0.83	0.54	0.49	0.37	0.20	0.18	0.04
+	MN	0.19	0.32	0.20	0.20	0.10	0.16	0.08	0.29
+	Total	0.49	0.83	0.54	0.49	0.37	0.20	0.18	0.04
+11. Total Eligibles Referred for Corrective Treatment	CN	0	0	0	0	0	0	0	0
+	MN	0	0	0	0	0	0	0	0
+	Total	0	0	0	0	0	0	0	0
+12a.  Total Eligibles Receiving Any Dental Services	CN	51,675	266	5,052	15,467	12,727	10,707	6,279	1,177
+	MN	204	0	14	29	45	66	47	3
+	Total	51,879	266	5,066	15,496	12,772	10,773	6,326	1,180
+12b. Total Eligibles Receiving Preventive Dental Services	CN	10,871	21	656	2,481	3,577	2,936	1,107	93
+	MN	47	0	0	5	12	20	10	0
+	Total	10,918	21	656	2,486	3,589	2,956	1,117	93
+12c. Total Eligibles Receiving Dental Treatment Services	CN	23,025	27	1,115	6,835	5,872	4,950	3,560	666
+	MN	97	0	5	13	21	26	31	1
+	Total	23,122	27	1,120	6,848	5,893	4,976	3,591	667
+13.  Total Eligibles Enrolled in Managed Care	CN	114,289	20,474	21,715	23,910	18,343	16,316	10,459	3,072
+	MN	524	46	53	95	98	126	103	3
+	Total	114,813	20,520	21,768	24,005	18,441	16,442	10,562	3,075
+14.  Total Number of Screening Blood Lead Tests	CN	1,472	407	671	394				
+	MN	0	0	0	0				
+	Total	1,472	407	671	394				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Vermont
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	72,188	3,598	7,628	11,233	14,231	18,305	13,129	4,064
+	MN	1,163	106	35	36	61	94	217	614
+	Total	73,351	3,704	7,663	11,269	14,292	18,399	13,346	4,678
+2a.  State Periodicity Schedule	CN		5	4	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	2.00	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	477,801	8,938	44,287	75,295	98,164	132,184	91,605	27,328
+	MN	4,220	208	107	114	274	644	817	2,056
+	Total	482,021	9,146	44,394	75,409	98,438	132,828	92,422	29,384
+3b.  Average Period of Eligibility	CN	0.55	0.21	0.48	0.56	0.57	0.60	0.58	0.56
+	MN	0.30	0.16	0.25	0.26	0.37	0.57	0.31	0.28
+	Total	0.55	0.21	0.48	0.56	0.57	0.60	0.58	0.52
+4.  Expected Number of Screenings per Eligible	CN		1.05	0.96	0.56	0.29	0.36	0.29	0.28
+	MN		0.80	0.50	0.26	0.19	0.34	0.16	0.14
+	Total		1.05	0.96	0.56	0.29	0.36	0.29	0.26
+5.  Expected Number of Screenings	CN	33,053	3,778	7,323	6,290	4,127	6,590	3,807	1,138
+	MN	277	85	18	9	12	32	35	86
+	Total	33,330	3,863	7,341	6,299	4,139	6,622	3,842	1,224
+6.  Total Screens Received	CN	45,378	8,876	15,489	6,283	4,576	5,846	3,804	504
+	MN	422	232	56	20	7	15	37	55
+	Total	45,800	9,108	15,545	6,303	4,583	5,861	3,841	559
+7.  Screening Ratio	CN	1.00	1.00	1.00	1.00	1.00	0.89	1.00	0.44
+	MN	1.00	1.00	1.00	1.00	0.58	0.47	1.00	0.64
+	Total	1.00	1.00	1.00	1.00	1.00	0.89	1.00	0.46
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	32,873	3,598	7,323	6,290	4,127	6,590	3,807	1,138
+	MN	277	85	18	9	12	32	35	86
+	Total	33,150	3,683	7,341	6,299	4,139	6,622	3,842	1,224
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	27,588	2,535	5,904	5,580	4,255	5,432	3,425	457
+	MN	213	73	15	14	7	15	36	53
+	Total	27,801	2,608	5,919	5,594	4,262	5,447	3,461	510
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Vermont
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.84	0.70	0.81	0.89	1.00	0.82	0.90	0.40
+	MN	0.77	0.86	0.83	1.00	0.58	0.47	1.00	0.62
+	Total	0.84	0.71	0.81	0.89	1.00	0.82	0.90	0.42
+11. Total Eligibles Referred for Corrective Treatment	CN	5,584	11	23	1,480	1,539	1,706	804	21
+	MN	32	0	0	8	6	6	3	9
+	Total	5,616	11	23	1,488	1,545	1,712	807	30
+12a.  Total Eligibles Receiving Any Dental Services	CN	33,784	4	726	5,297	8,920	11,122	6,843	872
+	MN	254	0	1	14	14	26	59	140
+	Total	34,038	4	727	5,311	8,934	11,148	6,902	1,012
+12b. Total Eligibles Receiving Preventive Dental Services	CN	30,489	2	567	4,845	8,310	10,298	5,902	565
+	MN	158	0	1	12	13	24	35	73
+	Total	30,647	2	568	4,857	8,323	10,322	5,937	638
+12c. Total Eligibles Receiving Dental Treatment Services	CN	15,242	0	172	1,682	4,121	4,899	3,778	590
+	MN	173	0	0	5	7	13	39	109
+	Total	15,415	0	172	1,687	4,128	4,912	3,817	699
+13.  Total Eligibles Enrolled in Managed Care	CN	68,178	2,826	7,402	10,851	13,705	17,697	12,586	3,111
+	MN	804	0	41	44	55	89	171	404
+	Total	68,982	2,826	7,443	10,895	13,760	17,786	12,757	3,515
+14.  Total Number of Screening Blood Lead Tests	CN	93	0	79	14				
+	MN	1	0	1	0				
+	Total	94	0	80	14				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Virginia
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	493,939	75,148	61,750	80,454	91,967	111,712	68,443	4,465
+	MN	260	73	8	13	24	55	72	15
+	Total	494,199	75,221	61,758	80,467	91,991	111,767	68,515	4,480
+2a.  State Periodicity Schedule	CN		6	4	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		6.00	2.00	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	3,918,628	450,341	507,164	599,622	795,932	989,462	547,565	28,542
+	MN	1,648	126	35	84	227	489	544	143
+	Total	3,920,276	450,467	507,199	599,706	796,159	989,951	548,109	28,685
+3b.  Average Period of Eligibility	CN	0.66	0.50	0.68	0.62	0.72	0.74	0.67	0.53
+	MN	0.53	0.14	0.36	0.54	0.79	0.74	0.63	0.79
+	Total	0.66	0.50	0.68	0.62	0.72	0.74	0.67	0.53
+4.  Expected Number of Screenings per Eligible	CN		3.00	1.36	0.62	0.36	0.44	0.34	0.27
+	MN		0.84	0.72	0.54	0.40	0.44	0.32	0.40
+	Total		3.00	1.36	0.62	0.36	0.44	0.34	0.27
+5.  Expected Number of Screenings	CN	466,043	225,444	83,980	49,881	33,108	49,153	23,271	1,206
+	MN	137	61	6	7	10	24	23	6
+	Total	466,180	225,505	83,986	49,888	33,118	49,177	23,294	1,212
+6.  Total Screens Received	CN	305,391	169,905	42,427	38,830	17,277	24,585	11,805	562
+	MN	83	38	2	3	10	11	15	4
+	Total	305,474	169,943	42,429	38,833	17,287	24,596	11,820	566
+7.  Screening Ratio	CN	0.66	0.75	0.51	0.78	0.52	0.50	0.51	0.47
+	MN	0.61	0.62	0.33	0.43	1.00	0.46	0.65	0.67
+	Total	0.66	0.75	0.51	0.78	0.52	0.50	0.51	0.47
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	293,517	75,148	61,750	49,881	33,108	49,153	23,271	1,206
+	MN	137	61	6	7	10	24	23	6
+	Total	293,654	75,209	61,756	49,888	33,118	49,177	23,294	1,212
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	164,954	54,956	29,784	32,815	15,463	21,379	10,075	482
+	MN	58	24	1	2	8	9	11	3
+	Total	165,012	54,980	29,785	32,817	15,471	21,388	10,086	485
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Virginia
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.56	0.73	0.48	0.66	0.47	0.43	0.43	0.40
+	MN	0.42	0.39	0.17	0.29	0.80	0.38	0.48	0.50
+	Total	0.56	0.73	0.48	0.66	0.47	0.43	0.43	0.40
+11. Total Eligibles Referred for Corrective Treatment	CN	110	35	21	22	12	13	7	0
+	MN	0	0	0	0	0	0	0	0
+	Total	110	35	21	22	12	13	7	0
+12a.  Total Eligibles Receiving Any Dental Services	CN	112,101	307	6,765	24,814	30,122	33,661	15,857	575
+	MN	53	0	0	3	10	25	11	4
+	Total	112,154	307	6,765	24,817	30,132	33,686	15,868	579
+12b. Total Eligibles Receiving Preventive Dental Services	CN	97,170	146	5,253	22,006	27,517	29,498	12,371	379
+	MN	50	0	0	3	9	24	10	4
+	Total	97,220	146	5,253	22,009	27,526	29,522	12,381	383
+12c. Total Eligibles Receiving Dental Treatment Services	CN	10,860	38	563	1,885	2,060	3,329	2,832	153
+	MN	2	0	0	0	0	1	1	0
+	Total	10,862	38	563	1,885	2,060	3,330	2,833	153
+13.  Total Eligibles Enrolled in Managed Care	CN	365,209	54,029	48,022	60,078	69,067	83,319	48,188	2,506
+	MN	49	6	5	8	10	14	6	0
+	Total	365,258	54,035	48,027	60,086	69,077	83,333	48,194	2,506
+14.  Total Number of Screening Blood Lead Tests	CN	18,764	5,899	5,998	6,867				
+	MN	0	0	0	0				
+	Total	18,764	5,899	5,998	6,867				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Washington
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	660,886	37,187	83,626	115,484	134,968	153,813	104,644	31,164
+	MN	471	14	47	56	84	130	111	29
+	Total	661,357	37,201	83,673	115,540	135,052	153,943	104,755	31,193
+2a.  State Periodicity Schedule	CN		5	2	3	3	2	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	1.00	1.00	0.75	0.40	0.50	0.50
+3a.  Total Months of Eligibility	CN	6,436,066	246,164	837,347	1,158,098	1,361,330	1,555,263	1,030,094	247,770
+	MN	3,201	69	333	386	666	877	681	189
+	Total	6,439,267	246,233	837,680	1,158,484	1,361,996	1,556,140	1,030,775	247,959
+3b.  Average Period of Eligibility	CN	0.81	0.55	0.83	0.84	0.84	0.84	0.82	0.66
+	MN	0.57	0.41	0.59	0.57	0.66	0.56	0.51	0.54
+	Total	0.81	0.55	0.83	0.84	0.84	0.84	0.82	0.66
+4.  Expected Number of Screenings per Eligible	CN		2.75	0.83	0.84	0.63	0.34	0.41	0.33
+	MN		2.05	0.59	0.57	0.50	0.22	0.26	0.27
+	Total		2.75	0.83	0.84	0.63	0.34	0.41	0.33
+5.  Expected Number of Screenings	CN	459,195	102,264	69,410	97,007	85,030	52,296	42,904	10,284
+	MN	197	29	28	32	42	29	29	8
+	Total	459,392	102,293	69,438	97,039	85,072	52,325	42,933	10,292
+6.  Total Screens Received	CN	345,871	86,214	119,342	53,167	29,696	37,304	18,311	1,837
+	MN	95	14	36	14	10	12	9	0
+	Total	345,966	86,228	119,378	53,181	29,706	37,316	18,320	1,837
+7.  Screening Ratio	CN	0.75	0.84	1.00	0.55	0.35	0.71	0.43	0.18
+	MN	0.48	0.48	1.00	0.44	0.24	0.41	0.31	0.00
+	Total	0.75	0.84	1.00	0.55	0.35	0.71	0.43	0.18
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	394,118	37,187	69,410	97,007	85,030	52,296	42,904	10,284
+	MN	182	14	28	32	42	29	29	8
+	Total	394,300	37,201	69,438	97,039	85,072	52,325	42,933	10,292
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	215,962	30,700	56,543	47,953	27,706	34,663	16,831	1,566
+	MN	78	11	22	14	10	12	9	0
+	Total	216,040	30,711	56,565	47,967	27,716	34,675	16,840	1,566
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Washington
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.55	0.83	0.81	0.49	0.33	0.66	0.39	0.15
+	MN	0.43	0.79	0.79	0.44	0.24	0.41	0.31	0.00
+	Total	0.55	0.83	0.81	0.49	0.33	0.66	0.39	0.15
+11. Total Eligibles Referred for Corrective Treatment	CN	9,643	1,440	1,959	1,347	1,172	1,954	1,512	259
+	MN	9	0	0	1	0	5	3	0
+	Total	9,652	1,440	1,959	1,348	1,172	1,959	1,515	259
+12a.  Total Eligibles Receiving Any Dental Services	CN	262,978	525	15,601	52,845	72,789	73,610	41,311	6,297
+	MN	101	0	2	16	32	28	20	3
+	Total	263,079	525	15,603	52,861	72,821	73,638	41,331	6,300
+12b. Total Eligibles Receiving Preventive Dental Services	CN	238,003	436	14,220	49,536	67,272	67,774	34,782	3,983
+	MN	92	0	2	16	31	26	14	3
+	Total	238,095	436	14,222	49,552	67,303	67,800	34,796	3,986
+12c. Total Eligibles Receiving Dental Treatment Services	CN	137,899	67	3,239	23,033	41,894	40,195	25,393	4,078
+	MN	57	0	0	7	18	16	14	2
+	Total	137,956	67	3,239	23,040	41,912	40,211	25,407	4,080
+13.  Total Eligibles Enrolled in Managed Care	CN	422,991	22,880	58,597	77,949	89,109	99,526	63,319	11,611
+	MN	19	0	1	7	3	5	2	1
+	Total	423,010	22,880	58,598	77,956	89,112	99,531	63,321	11,612
+14.  Total Number of Screening Blood Lead Tests	CN	183	7	129	47				
+	MN	0	0	0	0				
+	Total	183	7	129	47				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: West Virginia
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	203,645	13,120	25,832	34,857	39,760	46,946	32,729	10,401
+	MN	5,196	0	387	1,095	1,196	1,194	593	731
+	Total	208,841	13,120	26,219	35,952	40,956	48,140	33,322	11,132
+2a.  State Periodicity Schedule	CN		7	4	3	2	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		7.00	2.00	1.00	0.50	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	1,992,190	79,914	265,137	351,889	401,533	480,871	334,717	78,129
+	MN	11,956	0	729	2,119	2,381	2,348	1,140	3,239
+	Total	2,004,146	79,914	265,866	354,008	403,914	483,219	335,857	81,368
+3b.  Average Period of Eligibility	CN	0.82	0.51	0.86	0.84	0.84	0.85	0.85	0.63
+	MN	0.19	0.00	0.16	0.16	0.17	0.16	0.16	0.37
+	Total	0.80	0.51	0.85	0.82	0.82	0.84	0.84	0.61
+4.  Expected Number of Screenings per Eligible	CN		3.57	1.72	0.84	0.42	0.85	0.85	0.63
+	MN		0.00	0.32	0.16	0.09	0.16	0.16	0.37
+	Total		3.57	1.70	0.82	0.41	0.84	0.84	0.61
+5.  Expected Number of Screenings	CN	211,525	46,838	44,431	29,280	16,699	39,904	27,820	6,553
+	MN	963	0	124	175	108	191	95	270
+	Total	212,488	46,838	44,555	29,455	16,807	40,095	27,915	6,823
+6.  Total Screens Received	CN	192,345	40,439	43,568	34,749	23,287	32,855	16,440	1,007
+	MN	706	0	109	240	98	127	64	68
+	Total	193,051	40,439	43,677	34,989	23,385	32,982	16,504	1,075
+7.  Screening Ratio	CN	0.91	0.86	0.98	1.00	1.00	0.82	0.59	0.15
+	MN	0.73	0.00	0.88	1.00	0.91	0.66	0.67	0.25
+	Total	0.91	0.86	0.98	1.00	1.00	0.82	0.59	0.16
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	159,208	13,120	25,832	29,280	16,699	39,904	27,820	6,553
+	MN	963	0	124	175	108	191	95	270
+	Total	160,171	13,120	25,956	29,455	16,807	40,095	27,915	6,823
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	88,979	13,024	20,832	17,470	13,725	15,372	7,914	642
+	MN	378	0	71	119	64	56	25	43
+	Total	89,357	13,024	20,903	17,589	13,789	15,428	7,939	685
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: West Virginia
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.56	0.99	0.81	0.60	0.82	0.39	0.28	0.10
+	MN	0.39	0.00	0.57	0.68	0.59	0.29	0.26	0.16
+	Total	0.56	0.99	0.81	0.60	0.82	0.38	0.28	0.10
+11. Total Eligibles Referred for Corrective Treatment	CN	38,457	769	1,168	3,491	7,699	13,402	11,521	407
+	MN	696	0	68	159	224	163	60	22
+	Total	39,153	769	1,236	3,650	7,923	13,565	11,581	429
+12a.  Total Eligibles Receiving Any Dental Services	CN	83,676	183	3,250	17,565	22,065	24,468	14,623	1,522
+	MN	662	0	14	142	153	146	56	151
+	Total	84,338	183	3,264	17,707	22,218	24,614	14,679	1,673
+12b. Total Eligibles Receiving Preventive Dental Services	CN	71,094	48	2,146	15,379	19,665	21,505	11,522	829
+	MN	445	0	5	100	120	108	32	80
+	Total	71,539	48	2,151	15,479	19,785	21,613	11,554	909
+12c. Total Eligibles Receiving Dental Treatment Services	CN	83,263	178	3,233	17,503	21,941	24,324	14,568	1,516
+	MN	659	0	14	142	153	143	56	151
+	Total	83,922	178	3,247	17,645	22,094	24,467	14,624	1,667
+13.  Total Eligibles Enrolled in Managed Care	CN	155,878	10,825	20,783	27,830	31,110	35,868	23,430	6,032
+	MN	4,329	0	332	962	1,038	1,024	507	466
+	Total	160,207	10,825	21,115	28,792	32,148	36,892	23,937	6,498
+14.  Total Number of Screening Blood Lead Tests	CN	7,449	725	4,733	1,991				
+	MN	33	0	21	12				
+	Total	7,482	725	4,754	2,003				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Wisconsin
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	442,741	28,203	50,808	67,179	83,347	98,746	78,199	36,259
+	MN	25,193	2,357	8,383	11,950	1,934	94	292	183
+	Total	467,934	30,560	59,191	79,129	85,281	98,840	78,491	36,442
+2a.  State Periodicity Schedule	CN		5	4	3	2	3	2	1
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		5.00	2.00	1.00	0.50	0.60	0.50	0.50
+3a.  Total Months of Eligibility	CN	4,315,433	173,478	529,873	705,853	850,287	1,003,540	748,375	304,027
+	MN	229,027	14,492	81,505	115,342	13,825	728	1,959	1,176
+	Total	4,544,460	187,970	611,378	821,195	864,112	1,004,268	750,334	305,203
+3b.  Average Period of Eligibility	CN	0.81	0.51	0.87	0.88	0.85	0.85	0.80	0.70
+	MN	0.76	0.51	0.81	0.80	0.60	0.65	0.56	0.54
+	Total	0.81	0.51	0.86	0.86	0.84	0.85	0.80	0.70
+4.  Expected Number of Screenings per Eligible	CN		2.55	1.74	0.88	0.43	0.51	0.40	0.35
+	MN		2.55	1.62	0.80	0.30	0.39	0.28	0.27
+	Total		2.55	1.72	0.86	0.42	0.51	0.40	0.35
+5.  Expected Number of Screenings	CN	349,612	71,918	88,406	59,118	35,839	50,360	31,280	12,691
+	MN	29,898	6,010	13,580	9,560	580	37	82	49
+	Total	379,510	77,928	101,986	68,678	36,419	50,397	31,362	12,740
+6.  Total Screens Received	CN	296,769	86,056	87,037	38,455	25,353	29,826	21,678	8,364
+	MN	24,848	6,222	12,597	5,620	353	15	26	15
+	Total	321,617	92,278	99,634	44,075	25,706	29,841	21,704	8,379
+7.  Screening Ratio	CN	0.85	1.00	0.98	0.65	0.71	0.59	0.69	0.66
+	MN	0.83	1.00	0.93	0.59	0.61	0.41	0.32	0.31
+	Total	0.85	1.00	0.98	0.64	0.71	0.59	0.69	0.66
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	268,299	28,203	50,808	59,118	35,839	50,360	31,280	12,691
+	MN	21,048	2,357	8,383	9,560	580	37	82	49
+	Total	289,347	30,560	59,191	68,678	36,419	50,397	31,362	12,740
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	176,028	24,352	37,246	33,888	24,033	28,158	20,277	8,074
+	MN	13,022	1,850	5,688	5,097	333	13	26	15
+	Total	189,050	26,202	42,934	38,985	24,366	28,171	20,303	8,089
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Wisconsin
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.66	0.86	0.73	0.57	0.67	0.56	0.65	0.64
+	MN	0.62	0.78	0.68	0.53	0.57	0.35	0.32	0.31
+	Total	0.65	0.86	0.73	0.57	0.67	0.56	0.65	0.63
+11. Total Eligibles Referred for Corrective Treatment	CN	25,574	3,452	6,064	4,698	3,827	4,592	2,514	427
+	MN	2,160	281	1,035	774	60	1	8	1
+	Total	27,734	3,733	7,099	5,472	3,887	4,593	2,522	428
+12a.  Total Eligibles Receiving Any Dental Services	CN	150,851	7,534	15,412	25,947	34,223	37,006	23,581	7,148
+	MN	7,316	480	2,267	4,000	459	21	60	29
+	Total	158,167	8,014	17,679	29,947	34,682	37,027	23,641	7,177
+12b. Total Eligibles Receiving Preventive Dental Services	CN	83,172	77	1,305	15,490	25,202	25,888	12,879	2,331
+	MN	2,623	3	154	2,147	274	15	21	9
+	Total	85,795	80	1,459	17,637	25,476	25,903	12,900	2,340
+12c. Total Eligibles Receiving Dental Treatment Services	CN	48,526	6	410	6,508	14,400	14,727	9,957	2,518
+	MN	1,191	0	42	958	148	10	27	6
+	Total	49,717	6	452	7,466	14,548	14,737	9,984	2,524
+13.  Total Eligibles Enrolled in Managed Care	CN	294,846	19,928	38,436	49,847	59,582	67,547	44,163	15,343
+	MN	18,165	1,475	6,153	8,874	1,429	33	122	79
+	Total	313,011	21,403	44,589	58,721	61,011	67,580	44,285	15,422
+14.  Total Number of Screening Blood Lead Tests	CN	46,477	976	28,672	16,829				
+	MN	5,873	65	3,997	1,811				
+	Total	52,350	1,041	32,669	18,640				
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Wyoming
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+1.  Total Individuals Eligible for EPSDT	CN	52,770	3,859	8,176	9,727	9,892	10,605	7,696	2,815
+	MN	0	0	0	0	0	0	0	0
+	Total	52,770	3,859	8,176	9,727	9,892	10,605	7,696	2,815
+2a.  State Periodicity Schedule	CN		7	4	3	2	5	4	2
+2b.  Number of Years in Age Group	MN		1	2	3	4	5	4	2
+2c.  Annual. State Periodicity Sched.	Total		7.00	2.00	1.00	0.50	1.00	1.00	1.00
+3a.  Total Months of Eligibility	CN	487,234	23,502	78,640	94,829	95,224	102,192	72,138	20,709
+	MN	0	0	0	0	0	0	0	0
+	Total	487,234	23,502	78,640	94,829	95,224	102,192	72,138	20,709
+3b.  Average Period of Eligibility	CN	0.77	0.51	0.80	0.81	0.80	0.80	0.78	0.61
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.77	0.51	0.80	0.81	0.80	0.80	0.78	0.61
+4.  Expected Number of Screenings per Eligible	CN		3.57	1.60	0.81	0.40	0.80	0.78	0.61
+	MN		0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total		3.57	1.60	0.81	0.40	0.80	0.78	0.61
+5.  Expected Number of Screenings	CN	54,899	13,777	13,082	7,879	3,957	8,484	6,003	1,717
+	MN	0	0	0	0	0	0	0	0
+	Total	54,899	13,777	13,082	7,879	3,957	8,484	6,003	1,717
+6.  Total Screens Received	CN	28,292	11,319	9,791	3,092	1,046	1,834	1,121	89
+	MN	0	0	0	0	0	0	0	0
+	Total	28,292	11,319	9,791	3,092	1,046	1,834	1,121	89
+7.  Screening Ratio	CN	0.52	0.82	0.75	0.39	0.26	0.22	0.19	0.05
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.52	0.82	0.75	0.39	0.26	0.22	0.19	0.05
+8. Total Eligibles Who Should Receive at Least One Initial or Periodic Screen	CN	40,075	3,859	8,176	7,879	3,957	8,484	6,003	1,717
+	MN	0	0	0	0	0	0	0	0
+	Total	40,075	3,859	8,176	7,879	3,957	8,484	6,003	1,717
+9. Total Eligibles Receiving at Least One Initial or Periodic Screen	CN	14,287	3,391	4,401	2,745	989	1,684	996	81
+	MN	0	0	0	0	0	0	0	0
+	Total	14,287	3,391	4,401	2,745	989	1,684	996	81
+ 
+Annual EPSDT Participation Report
+Form CMS-416
+Fiscal Year: 2004
+State: Wyoming
+Description	Cat	Total	< 1	1-2	3-5	6-9	10-14	15-18	19-20
+10.  Participant Ratio	CN	0.36	0.88	0.54	0.35	0.25	0.20	0.17	0.05
+	MN	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	Total	0.36	0.88	0.54	0.35	0.25	0.20	0.17	0.05
+11. Total Eligibles Referred for Corrective Treatment	CN	0	0	0	0	0	0	0	0
+	MN	0	0	0	0	0	0	0	0
+	Total	0	0	0	0	0	0	0	0
+12a.  Total Eligibles Receiving Any Dental Services	CN	15,745	8	496	3,240	4,301	4,412	2,745	543
+	MN	0	0	0	0	0	0	0	0
+	Total	15,745	8	496	3,240	4,301	4,412	2,745	543
+12b. Total Eligibles Receiving Preventive Dental Services	CN	13,111	5	256	2,662	3,749	3,893	2,192	354
+	MN	0	0	0	0	0	0	0	0
+	Total	13,111	5	256	2,662	3,749	3,893	2,192	354
+12c. Total Eligibles Receiving Dental Treatment Services	CN	8,970	1	125	1,634	2,633	2,443	1,752	382
+	MN	0	0	0	0	0	0	0	0
+	Total	8,970	1	125	1,634	2,633	2,443	1,752	382
+13.  Total Eligibles Enrolled in Managed Care	CN	0	0	0	0	0	0	0	0
+	MN	0	0	0	0	0	0	0	0
+	Total	0	0	0	0	0	0	0	0
+14.  Total Number of Screening Blood Lead Tests	CN	0	0	0	0				
+	MN	0	0	0	0				
+	Total	0	0	0	0				
+
